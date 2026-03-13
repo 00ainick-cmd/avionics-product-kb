@@ -140,7 +140,7 @@ export default function Home() {
           <div className="max-w-3xl mx-auto">
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-400/10 border border-amber-400/20 text-amber-400 font-medium tracking-wide text-xs uppercase mb-6">
               <span className="w-2 h-2 rounded-full bg-amber-400 animate-pulse" />
-              Ace Avionics Training
+              AEA Avionics Training
             </div>
             <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-6 bg-gradient-to-br from-white to-slate-400 bg-clip-text text-transparent">
               Avionics Product{" "}

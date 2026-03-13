@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Ace Avionics Knowledge Base",
+  title: "AEA Avionics Knowledge Base",
   description:
     "Avionics product knowledge base for technicians — learn products, sell confidently, compare intelligently.",
 };
@@ -27,14 +27,14 @@ export default function RootLayout({
         <footer className="mt-auto border-t border-slate-800/50 bg-slate-900/50 backdrop-blur-sm">
           <div className="max-w-7xl mx-auto px-4 py-12 text-center text-sm text-slate-400">
             <p className="font-semibold text-slate-300 tracking-wide uppercase text-xs">
-              Ace Avionics Training
+              AEA Avionics Training
             </p>
             <p className="mt-1">
               Educational resource for avionics technicians. Prices are
               approximate and vary by shop and region.
             </p>
             <p className="mt-1">
-              &copy; {new Date().getFullYear()} Ace Avionics Training. All
+              &copy; {new Date().getFullYear()} AEA Avionics Training. All
               rights reserved.
             </p>
           </div>

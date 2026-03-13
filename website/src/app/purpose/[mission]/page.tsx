@@ -23,7 +23,7 @@ export async function generateMetadata({
   const label = PURPOSE_LABELS[mission as PurposeMission];
   if (!label) return {};
   return {
-    title: `${label} Products — Ace Avionics KB`,
+    title: `${label} Products — AEA Avionics KB`,
     description: `Avionics products for ${label.toLowerCase()} — find the right equipment for your mission.`,
   };
 }

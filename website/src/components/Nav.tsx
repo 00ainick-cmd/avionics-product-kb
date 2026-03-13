@@ -41,7 +41,7 @@ export default function Nav() {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-3 font-bold text-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400/50 rounded-md">
-            <span className="text-amber-400">Ace</span>
+            <span className="text-amber-400">AEA</span>
             <span className="hidden sm:inline">Avionics Knowledge Base</span>
             <span className="sm:hidden">Avionics KB</span>
           </Link>

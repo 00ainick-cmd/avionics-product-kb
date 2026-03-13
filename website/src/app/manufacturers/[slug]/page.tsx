@@ -21,7 +21,7 @@ export async function generateMetadata({
   const mfr = getManufacturerBySlug(slug);
   if (!mfr) return {};
   return {
-    title: `${mfr.name} Products — Ace Avionics KB`,
+    title: `${mfr.name} Products — AEA Avionics KB`,
     description: `Browse all ${mfr.name} avionics products — ${mfr.productCount} products covered.`,
   };
 }

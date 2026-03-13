@@ -23,7 +23,7 @@ export async function generateMetadata({
   const label = AIRCRAFT_SIZE_LABELS[size as AircraftSize];
   if (!label) return {};
   return {
-    title: `${label} Avionics — Ace Avionics KB`,
+    title: `${label} Avionics — AEA Avionics KB`,
     description: `Avionics products compatible with ${label.toLowerCase()} aircraft.`,
   };
 }

@@ -1,0 +1,239 @@
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography";
+
+:root {
+  --background: #020617; /* slate-950 */
+  --foreground: #f8fafc; /* slate-50 */
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+.glass-panel {
+  background: rgba(15, 23, 42, 0.6); /* slate-900 / 60% */
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-panel-hover {
+  transition: all 0.3s ease;
+}
+
+.glass-panel-hover:hover {
+  background: rgba(30, 41, 59, 0.8); /* slate-800 */
+  border-color: rgba(245, 158, 11, 0.5); /* amber-500 / 50% */
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.3);
+}
+
+/* Custom scrollbar for premium feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #020617;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Markdown prose overrides for dark mode */
+.prose {
+  --tw-prose-body: #cbd5e1;
+  --tw-prose-headings: #f8fafc;
+  --tw-prose-lead: #94a3b8;
+  --tw-prose-links: #f59e0b;
+  --tw-prose-bold: #f8fafc;
+  --tw-prose-counters: #94a3b8;
+  --tw-prose-bullets: #475569;
+  --tw-prose-hr: #334155;
+  --tw-prose-quotes: #f1f5f9;
+  --tw-prose-quote-borders: #334155;
+  --tw-prose-captions: #94a3b8;
+  --tw-prose-code: #f8fafc;
+  --tw-prose-pre-code: #cbd5e1;
+  --tw-prose-pre-bg: #0f172a;
+  --tw-prose-th-borders: #334155;
+  --tw-prose-td-borders: #1e293b;
+}
+
+.prose a {
+  text-decoration-color: rgba(245, 158, 11, 0.4);
+  text-underline-offset: 4px;
+  transition: all 0.2s ease;
+}
+
+.prose a:hover {
+  color: #fbbf24;
+  text-decoration-color: #fbbf24;
+}
+
+.prose h2, .prose h3, .prose h4 {
+  color: #f8fafc;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 0.5rem;
+  margin-top: 2.5rem;
+}
+
+/* Remove top margin on first heading inside glass panels */
+.prose > h1:first-child,
+.prose > h2:first-child,
+.prose > h3:first-child {
+  margin-top: 0;
+}
+
+/* Tables — dark borders, subtle header background */
+.prose table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.875rem;
+}
+
+.prose thead {
+  border-bottom: 2px solid #334155;
+}
+
+.prose thead th {
+  background: rgba(15, 23, 42, 0.6);
+  color: #e2e8f0;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+
+.prose tbody td {
+  padding: 0.625rem 1rem;
+  border-bottom: 1px solid rgba(51, 65, 85, 0.5);
+  color: #cbd5e1;
+}
+
+.prose tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.prose tbody tr:hover {
+  background: rgba(30, 41, 59, 0.4);
+}
+
+/* Blockquotes — amber left border, glass background */
+.prose blockquote {
+  border-left: 3px solid #f59e0b;
+  background: rgba(245, 158, 11, 0.05);
+  padding: 1rem 1.25rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+  font-style: normal;
+  color: #e2e8f0;
+}
+
+.prose blockquote p:first-child {
+  margin-top: 0;
+}
+
+.prose blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Inline code — subtle chip style */
+.prose :not(pre) > code {
+  background: rgba(30, 41, 59, 0.8);
+  border: 1px solid rgba(51, 65, 85, 0.6);
+  border-radius: 0.375rem;
+  padding: 0.15rem 0.4rem;
+  font-size: 0.85em;
+  color: #fbbf24;
+  font-weight: 500;
+}
+
+.prose :not(pre) > code::before,
+.prose :not(pre) > code::after {
+  content: none;
+}
+
+/* Code blocks — deeper background */
+.prose pre {
+  background: #0c1222 !important;
+  border: 1px solid rgba(51, 65, 85, 0.4);
+  border-radius: 0.75rem;
+}
+
+/* Horizontal rules */
+.prose hr {
+  border-color: rgba(51, 65, 85, 0.5);
+}
+
+/* Lists — tighter bullet color */
+.prose ul > li::marker {
+  color: #f59e0b;
+}
+
+.prose ol > li::marker {
+  color: #94a3b8;
+  font-weight: 600;
+}
+
+/* Selection highlight — amber theme */
+::selection {
+  background: rgba(245, 158, 11, 0.3);
+  color: #fef3c7;
+}
+
+/* Strong emphasis inside lists for talking points */
+.prose li strong {
+  color: #f1f5f9;
+}
+
+/* Focus-visible rings for glass panel cards */
+.glass-panel:focus-visible {
+  outline: 2px solid rgba(245, 158, 11, 0.5);
+  outline-offset: 2px;
+}
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ═══════════════════════════════════════════════════════
+   Section-based article enhancements
+   ═══════════════════════════════════════════════════════ */
+
+/* Collapsible section transition */
+.section-collapsible {
+  overflow: hidden;
+  transition: max-height 0.35s ease, opacity 0.3s ease;
+}
+
+.section-collapsible-open {
+  max-height: 5000px;
+  opacity: 1;
+}
+
+.section-collapsible-closed {
+  max-height: 0;
+  opacity: 0;
+}
+
+/* Remove first-child margins in section prose blocks */
+.prose > p:first-child,
+.prose > ul:first-child,
+.prose > ol:first-child {
+  margin-top: 0;
+}
+
+/* Since sections render h3/h4 (not h2), the first h3 in prose
+   should not have the large top margin */
+.prose > h3:first-child,
+.prose > h4:first-child {
+  margin-top: 0;
+}

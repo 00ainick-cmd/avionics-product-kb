@@ -19,7 +19,7 @@ export default function SearchPage() {
   const [loaded, setLoaded] = useState(false);
 
   useEffect(() => {
-    fetch("/api/products")
+    fetch(`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/products.json`)
       .then((r) => r.json())
       .then((data) => {
         setAllProducts(data);

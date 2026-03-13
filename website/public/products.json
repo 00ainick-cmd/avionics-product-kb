@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "406-mhz-elt-overview",
+    "category": "elts",
+    "title": "406 MHz Emergency Locator Transmitters (ELT) — Overview",
+    "manufacturer": "",
+    "priceRange": "$450 - $1,600 (unit only); $1,500 - $3,500 (installed)",
+    "categoryLabel": "ELTs"
+  },
+  {
+    "slug": "aspen-evolution-max",
+    "category": "efis-pfd",
+    "title": "Aspen Evolution 1000 Pro MAX PFD",
+    "manufacturer": "Aspen Avionics",
+    "priceRange": "$8,000–$11,000 (installed, for a single screen PFD)",
+    "categoryLabel": "Flight Displays (EFIS/PFD)"
+  },
+  {
+    "slug": "avidyne-ifd550-540",
+    "category": "gps-nav",
+    "title": "Avidyne IFD550 & IFD540 Touchscreen Navigators",
+    "manufacturer": "Avidyne",
+    "priceRange": "$16,000–$22,000 (installed, depending on existing wiring)",
+    "categoryLabel": "GPS & Navigation"
+  },
+  {
+    "slug": "avidyne-skytrax-3000",
+    "category": "transponders",
+    "title": "Avidyne SkyTrax 3000",
+    "manufacturer": "Avidyne",
+    "priceRange": "OEM / High-End Corporate Retrofit",
+    "categoryLabel": "Transponders & ADS-B"
+  },
+  {
+    "slug": "avidyne-tas600",
+    "category": "traffic-systems",
+    "title": "Avidyne TAS600 Series Traffic Advisory System",
+    "manufacturer": "Avidyne",
+    "priceRange": "$18,000 - $28,000 installed (depending on model and display integration)",
+    "categoryLabel": "Traffic Awareness"
+  },
+  {
+    "slug": "avidyne-vantage-12",
+    "category": "efis-pfd",
+    "title": "Avidyne Vantage 12 Flight Display System",
+    "manufacturer": "Avidyne",
+    "priceRange": "High (Corporate / High-End GA)",
+    "categoryLabel": "Flight Displays (EFIS/PFD)"
+  },
+  {
+    "slug": "bendixking-kcs55a",
+    "category": "heading-systems",
+    "title": "BendixKing KCS55A Heading System",
+    "manufacturer": "BendixKing (Honeywell)",
+    "priceRange": "$2,500 (complete used system) to $7,000+ (overhaul/repair of failed components); glass upgrade path starts at ~$5,000 (GI 275) to ~$14,000 (Aspen EFD1000 Pro)",
+    "categoryLabel": "Heading Systems"
+  },
+  {
+    "slug": "dynon-12-hdx",
+    "category": "efis-pfd",
+    "title": "Dynon 12-inch SkyView HDX Display",
+    "manufacturer": "Dynon Avionics",
+    "priceRange": "$5,500 - $6,500+ (Display Only)",
+    "categoryLabel": "Flight Displays (EFIS/PFD)"
+  },
+  {
+    "slug": "dynon-emergency-glide",
+    "category": "autopilots",
+    "title": "Dynon Emergency Glide",
+    "manufacturer": "Dynon Avionics",
+    "priceRange": "Included in Software 17.1 Update for SkyView HDX",
+    "categoryLabel": "Autopilots"
+  },
+  {
+    "slug": "dynon-skyview-hdx",
+    "category": "efis-pfd",
+    "title": "Dynon SkyView Certified HDX",
+    "manufacturer": "Dynon Avionics",
+    "priceRange": "$20,000–$35,000+ (installed, for a complete dual-screen VFR/IFR panel replacement)",
+    "categoryLabel": "Flight Displays (EFIS/PFD)"
+  },
+  {
+    "slug": "garmin-g3x-touch",
+    "category": "efis-pfd",
+    "title": "Garmin G3X Touch",
+    "manufacturer": "Garmin",
+    "priceRange": "$25,000 -- $50,000+ (installed, depending on scope and configuration)",
+    "categoryLabel": "Flight Displays (EFIS/PFD)"
+  },
+  {
+    "slug": "garmin-g5",
+    "category": "efis-pfd",
+    "title": "Garmin G5",
+    "manufacturer": "Garmin",
+    "priceRange": "$3,500 – $5,500 (installed per unit)",
+    "categoryLabel": "Flight Displays (EFIS/PFD)"
+  },
+  {
+    "slug": "garmin-g5000-prime",
+    "category": "efis-pfd",
+    "title": "Garmin G5000 PRIME",
+    "manufacturer": "Garmin",
+    "priceRange": "OEM/Factory Installation Only (Part 25 Transport)",
+    "categoryLabel": "Flight Displays (EFIS/PFD)"
+  },
+  {
+    "slug": "garmin-gfc-500",
+    "category": "autopilots",
+    "title": "Garmin GFC 500",
+    "manufacturer": "Garmin",
+    "priceRange": "$15,000 – $25,000 (installed)",
+    "categoryLabel": "Autopilots"
+  },
+  {
+    "slug": "garmin-gfc-600",
+    "category": "autopilots",
+    "title": "Garmin GFC 600",
+    "manufacturer": "Garmin",
+    "priceRange": "$25,000–$45,000+ (installed, depending on aircraft and axis count)",
+    "categoryLabel": "Autopilots"
+  },
+  {
+    "slug": "garmin-gha-15",
+    "category": "efis-pfd",
+    "title": "Garmin GHA 15 Height Advisor",
+    "manufacturer": "Garmin",
+    "priceRange": "Low (Sub-$2,500)",
+    "categoryLabel": "Flight Displays (EFIS/PFD)"
+  },
+  {
+    "slug": "garmin-gi-275",
+    "category": "efis-pfd",
+    "title": "Garmin GI 275",
+    "manufacturer": "Garmin",
+    "priceRange": "$5,000 - $9,000 per unit installed; $12,000 - $16,000 for a two-unit AI + HSI project (approximate)",
+    "categoryLabel": "Flight Displays (EFIS/PFD)"
+  },
+  {
+    "slug": "garmin-gma-345",
+    "category": "audio-panels",
+    "title": "Garmin GMA 345",
+    "manufacturer": "Garmin",
+    "priceRange": "$2,500–$4,000 (installed)",
+    "categoryLabel": "Audio Panels"
+  },
+  {
+    "slug": "garmin-gnc-255",
+    "category": "comm-radios",
+    "title": "Garmin GNC 255 Nav/Comm",
+    "manufacturer": "Garmin",
+    "priceRange": "$5,500--$8,000 (installed)",
+    "categoryLabel": "Comm Radios"
+  },
+  {
+    "slug": "garmin-gtn-650xi",
+    "category": "gps-nav",
+    "title": "Garmin GTN 650Xi",
+    "manufacturer": "Garmin",
+    "priceRange": "$18,000–$27,000 (installed, depending on aircraft and integration complexity)",
+    "categoryLabel": "GPS & Navigation"
+  },
+  {
+    "slug": "garmin-gtn-750xi",
+    "category": "gps-nav",
+    "title": "Garmin GTN 750Xi",
+    "manufacturer": "Garmin",
+    "priceRange": "$25,000 – $35,000 (installed)",
+    "categoryLabel": "GPS & Navigation"
+  },
+  {
+    "slug": "garmin-gtr-225",
+    "category": "comm-radios",
+    "title": "Garmin GTR 225 Comm Radio",
+    "manufacturer": "Garmin",
+    "priceRange": "$3,500--$5,000 (installed)",
+    "categoryLabel": "Comm Radios"
+  },
+  {
+    "slug": "garmin-gtx-335",
+    "category": "transponders",
+    "title": "Garmin GTX 335",
+    "manufacturer": "Garmin",
+    "priceRange": "$4,500 - $7,000 (installed)",
+    "categoryLabel": "Transponders & ADS-B"
+  },
+  {
+    "slug": "garmin-gtx-345",
+    "category": "transponders",
+    "title": "Garmin GTX 345 Transponder (ADS-B In/Out)",
+    "manufacturer": "Garmin",
+    "priceRange": "$6,000–$8,000 (installed)",
+    "categoryLabel": "Transponders & ADS-B"
+  },
+  {
+    "slug": "garmin-gwx-75",
+    "category": "weather-radar",
+    "title": "Garmin GWX 75 Weather Radar",
+    "manufacturer": "Garmin",
+    "priceRange": "~$22,000 - $35,000+ (installed)",
+    "categoryLabel": "Weather Radar"
+  },
+  {
+    "slug": "garmin-smartcharts",
+    "category": "gps-nav",
+    "title": "Garmin SmartCharts",
+    "manufacturer": "Garmin",
+    "priceRange": "Subscription-Based Feature in PlaneSync/Connext Portals",
+    "categoryLabel": "GPS & Navigation"
+  },
+  {
+    "slug": "garmin-txi-12-1",
+    "category": "efis-pfd",
+    "title": "Garmin TXi 12.1-Inch Display",
+    "manufacturer": "Garmin",
+    "priceRange": "$25,000 - $35,000+ (depending on existing sensors and enablement)",
+    "categoryLabel": "Flight Displays (EFIS/PFD)"
+  },
+  {
+    "slug": "genesys-s-tec-3100",
+    "category": "autopilots",
+    "title": "Genesys Aerosystems S-TEC 3100",
+    "manufacturer": "Genesys Aerosystems (formerly S-TEC)",
+    "priceRange": "$15,000 -- $25,000 (installed)",
+    "categoryLabel": "Autopilots"
+  },
+  {
+    "slug": "nighthawk-guardian",
+    "category": "efis-pfd",
+    "title": "Nighthawk Flight Systems Guardian",
+    "manufacturer": "Nighthawk Flight Systems",
+    "priceRange": "$40,000 (Basic) - $110,000+ (Fully Integrated 4-Display System)",
+    "categoryLabel": "Flight Displays (EFIS/PFD)"
+  },
+  {
+    "slug": "ps-engineering-pma450b",
+    "category": "audio",
+    "title": "PS Engineering PMA 450B Audio Panel",
+    "manufacturer": "PS Engineering",
+    "priceRange": "$2,500–$3,200 (hardware only; variable installation labor)",
+    "categoryLabel": "Audio"
+  },
+  {
+    "slug": "trig-tt23-series",
+    "category": "transponders",
+    "title": "Trig TT23 Compact Transponder Series",
+    "manufacturer": "Trig Avionics (A Dynon Group Company)",
+    "priceRange": "$2,500 - $3,500 (depending on GPS inclusion and model)",
+    "categoryLabel": "Transponders & ADS-B"
+  }
+]

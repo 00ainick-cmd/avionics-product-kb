@@ -1,0 +1,262 @@
+--- PAGE 1 ---
+Enhanced COMMs
+Theory and Training
+Adam Martin
+Applications Engineer
+March 2026
+VIAVI//Public ©2026 VIAVI Solutions Inc. 1
+
+--- PAGE 2 ---
+Overview
+ Use Cases
+ Theory
+ AVX-10K Setup
+ Advanced Setup
+ Testing
+̶ Power
+̶ Sensitivity
+̶ Frequency
+VVIIAAVVII////PPuubblliicc ©©22002266 VVIIAAVVII SSoolluuttiioonnss IInncc.. 22
+
+--- PAGE 3 ---
+Use Cases
+Over the air Comm’s
+1
+checks that verify:
+ Coax integrity
+ Radio integrity
+Two-Way
+ Antenna integrity 3
+1 3 Communication
+Replaces Comms checks
+for ease of testing
+with tower or ground control
+while measuring power to
+verify range will be sufficient. 2
+2 Radio sensitivity and squelch testing
+VIAVI//Public ©2026 VIAVI Solutions Inc. 3
+
+--- PAGE 4 ---
+General Theory
+Received Power Modulation and
+Reading Deviation
+ Attenuation  AM - Modulation
+ Cable Loss  FM - Deviation
+ Over the Air Loss
+Receiver Sensitivity Frequency Spacing
+(Squelch) and Error
+VIAVI//Public ©2026 VIAVI Solutions Inc. 4
+
+--- PAGE 5 ---
+General Theory
+RF Conversion formulas
+Speed of light in free space
+c (fps) 983571056
+Calculate path loss based on distance
+Range (ft) Freq (MHz) Path Loss (dB)
+50 118 -37.55
+100 118 -43.57
+200 118 -49.59
+5000 118 -77.55
+10000 118 -83.57
+25000 118 -91.52
+VIAVI//Public ©2026 VIAVI Solutions Inc. 5
+
+--- PAGE 6 ---
+AVX-10K Basic Setup
+ The Telescoping antenna included with the
+AVX-10K will function best for Comms testing.
+ For general operation on aviation frequencies of
+118MHz to 136.975MHz it is best to test with the
+antenna fully extended.
+>190MHz Fully Retracted
+<190MHz Fully Extended
+VIAVI//Public ©2026 VIAVI Solutions Inc. 6
+
+--- PAGE 7 ---
+AVX-10K Basic Setup
+Head Set Adapter
+ Slide into place to lock and connect
+the USB to the side.
+ Compatible with dual and single plug
+aviation headsets.
+ Compatible with either High
+Impedance or Low Impedance
+Headsets.
+VIAVI//Public ©2026 VIAVI Solutions Inc. 7
+
+--- PAGE 8 ---
+AVX-10K Basic Setup
+In the Setup tab you can select your
+volume level for mic and headphones:
+̶ High impedance headsets are more
+prevalent in GA aircraft and should require
+a lower mic Record level
+̶ Low impedance headsets used by military
+and some helicopters need a higher mic
+Record level
+Reference the Mic Level meter while
+speaking to help find best levels.
+VIAVI//Public ©2026 VIAVI Solutions Inc. 8
+
+--- PAGE 9 ---
+AVX-10K Basic Setup
+System Main Page Settings
+ Peak Hold
+ Mod Tone
+ Frequency
+ RF Level
+ AM/FM
+Press the RUN button to begin testing.
+VIAVI//Public ©2026 VIAVI Solutions Inc. 9
+
+--- PAGE 10 ---
+AVX-10K Basic Setup
+ While running the test you will see the received
+frequency error, power and modulation/deviation
+which display live.
+ All transmissions are heard via the Headset
+adapter and with the PTT button two-way
+communication is possible.
+ The measurement hold button will lock the
+received transmissions on this page for review.
+VIAVI//Public ©2026 VIAVI Solutions Inc. 10
+
+--- PAGE 11 ---
+AVX-10K Advanced Setup
+Telescope Antenna
+ The telescoping  When testing  The simplified formula  Using 118MHz as
+antenna is a ¼ common aviation below is derived from the the example test
+wavelength antenna frequencies between speed of light in inches frequency we can
+that is adjustable 118 MHz and per second scaled up for see that fully
+between roughly 136.975 MHz it ¼ wavelength to help extended will be
+8 and 24 inches. operates efficiently find the best antenna best.
+fully extended. length for the frequency
+being tested.
+𝟐𝟐𝟐𝟐𝟐𝟐𝟐𝟐 𝟐𝟐𝟐𝟐𝟐𝟐𝟐𝟐
+𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋 𝒊𝒊𝒊𝒊 𝑰𝑰𝒊𝒊𝑰𝑰𝑰𝑰𝑰𝑰𝑰𝑰 = 𝒇𝒇 𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋 𝒊𝒊𝒊𝒊 𝑰𝑰𝒊𝒊𝑰𝑰𝑰𝑰𝑰𝑰𝑰𝑰 = 𝟏𝟏𝟏𝟏𝟐𝟐𝟏𝟏𝟏𝟏𝟏𝟏 𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋𝐋 𝒊𝒊𝒊𝒊 𝑰𝑰𝒊𝒊𝑰𝑰𝑰𝑰𝑰𝑰𝑰𝑰 = 𝟐𝟐𝟐𝟐.𝟕𝟕𝟕𝟕
+VIAVI//Public ©2026 VIAVI Solutions Inc. 11
+
+--- PAGE 12 ---
+AVX-10K Advanced Setup
+Telescoping Antenna
+ This video shows the AVX-10K receiving a
+118MHz transmission with consistent power and
+tone over the air with the Telescoping antenna
+fully extended.
+ When the length is slowly retracted you can see
+the received power change substantially.
+ To obtain consistent results it is recommended to
+use a constant antenna length for all testing as
+well as a constant position.
+VIAVI//Public ©2026 VIAVI Solutions Inc. 12
+
+--- PAGE 13 ---
+Direct Connection Testing
+ Done with radio connected via
+coax directly to the AVX-10K.
+ Can aid in troubleshooting to
+determine if it is a bad LRU or
+if the Coax/antenna is not
+functioning as needed.
+ When Directly connected care
+should be take not to transmit
+for to long.
+̶ Aircraft Comms send out strong
+signals
+̶ Transmissions in direct connect
+mode should be limited to short
+bursts as to not overload the unit
+VIAVI//Public ©©22002266 VVIIAAVVII SSoolluuttiioonnss IInncc.. 1133
+
+--- PAGE 14 ---
+Over the Air Test Plans
+When conducting Comms checks over the air it’s
+important to have repeatable tests.
+This can be difficult because several different factors can impact Next, we can go over
+the received power measurements with over the air tests. how to make a known
+good test scenario.
+ Distance both horizontal and vertical
+ Receiver antenna properties
+ The frequencies being tested have different loss properties
+ Environmental factors like buildings or large equipment
+VIAVI//Public ©©22002266 VVIIAAVVII SSoolluuttiioonnss IInncc.. 1144
+
+--- PAGE 15 ---
+Over the Air Test Plans
+ First the radio being tested needs to have
+had its output powers measured recently via
+some calibration or watt meter measurement
+to find that it is still within the manufacture's
+specifications.
+ Doing a simply transmission test with a
+watt meter in line can obtain the values
+needed to verify against the manufacture’s
+specification.
+ You can also use the direct connection
+measurement with the AVX-10K.
+ Once we are sure that the Comms system
+is fully functional, we can set the over the air
+reference points.
+VIAVI//Public ©©22002266 VVIIAAVVII SSoolluuttiioonnss IInncc.. 1155
+
+--- PAGE 16 ---
+Over the Air Test Plans
+ Position the AVX-10K near the UUT antenna with a direct line of
+sight, and the telescoping antenna fully extended.
+ Then find a location that the AVX-10K can receive and transmit
+to the aircraft. A received power level of 0dBm should be
+sufficient.
+ Record the following in reference to Comms antenna:
+̶ Frequency of test
+̶ Distance
+̶ Height
+̶ Angle
+̶ Received Power
+ When testing other aircraft with the same equipment these
+values can be used for reference verification.
+VIAVI//Public ©©22002266 VVIIAAVVII SSoolluuttiioonnss IInncc.. 1166
+
+--- PAGE 17 ---
+Over the Air Test Plans
+ The receiver sensitivity tests for Comms is another important test.
+ Using the AVX-10K the RF level can be set and transmitted to the aircraft radio.
+ If you account for the transmission power and the over the air loss, then the sensitivity of the radio can be
+found.
+ Using the Two-Way voice communications Technician A can slowly increase the power of the AVX-10K
+while communicating with Technician B in the aircraft to verify the sensitivity is within passing ranges.
+AVX-10K + Path Loss = Sensitivity (must be -73 dBm or smaller)
+-44 dBm + (-30 dB) = -74 dBm = PASS
+𝑹𝑹𝑰𝑰𝑰𝑰𝑹𝑹𝑹𝑹𝑹𝑹:
+TX RXAVX-10KError Batt 20 feet apart, direct line-of-sight and
+equal distance to each COM antenna
+OK
+-44 dBm 20 ft. separation Signal strength at the received antenna = -74 dBm
+VIAVI//Public ©2026 VIAVI Solutions Inc. 17
+
+--- PAGE 18 ---
+Over the Air Test Plans
+Aircraft Comms Channel spacing
+• Older radios that only meet the standard for
+25kHz spacing had wider tolerances for
+accuracy but with spacing of 8.33kHz they need
+to be much more accurate.
+• To test this you would simply slowly step the
+frequency transmitting from the AVX-10K to the
+aircraft to verify it does not let signals through.
+• To verify the frequency accuracy from the
+aircraft you simple need to reference the
+frequency error meter.
+VIAVI//Public ©2026 VIAVI Solutions Inc. 18
+
+--- PAGE 19 ---
+americas.service@viavisolutions.com
+Questions or
+need technical
+support?
+(800) 835-2350
+VIAVI//Public ©2026 VIAVI Solutions Inc. 19
+
+--- PAGE 20 ---
+viavisolutions.com
+VIAVI//Public ©2026 VIAVI Solutions Inc. 20

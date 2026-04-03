@@ -1,0 +1,477 @@
+--- PAGE 1 ---
+VIAVI//Restricted
+AEA International:
+OSPREY Training
+March 2026
+Mark Anderson, Applications Engineering
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 1
+
+--- PAGE 2 ---
+VIAVI//Restricted
+GPS Overview
+ Who does what now?
+Constellation Breakdown:
+• GPS (USA) : 31
+• GLONASS (Russia): 24
+• Galileo (European Union): 25
+• BeiDou/BDS (China): 44
+• NavIC (India): 7
+• QZSS (Japan): 4
+2
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 2
+
+--- PAGE 3 ---
+VIAVI//Restricted
+GPS Overview
+ Who does what now?
+Constellation Breakdown: Orbits:
+• LEO (~1200 miles)
+• GPS (USA) : 31 • MEO (~12550 miles)
+• GEO (22,236 miles)
+• GLONASS (Russia): 24
+• Galileo (European Union): 25
+GPS Satellites operate in Medium
+• BeiDou/BDS (China): 44 Earth Orbit while most other space
+equipment (Starlink: 7,875) operate
+• NavIC (India): 7
+in Low Earth Orbit
+• QZSS (Japan): 4
+3
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 3
+
+--- PAGE 4 ---
+VIAVI//Restricted
+Almanac Data
+ What is it and why do I need it?
+A reduced set of data that provides
+azimuth and elevation data for all of
+the Space Vehicles in the GPS
+constellation.
+An almanac file provides spatial
+location information at a given point
+in time that simulators use as a
+baseline. Locations are then
+extrapolated, however, the longer
+the timeframe, the lower the
+accuracy, the less likely you are to
+obtain receiver GPS lock.
+4
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 4
+
+--- PAGE 5 ---
+VIAVI//Restricted
+Almanac Data
+ What is it and why do I need it?
+OSPREY utilizes a RINEX file from NASA.
+RINEX data provided daily/hourly by NASA:
+1 25 5 5 0 0 0.0 0.248158350587D-03 0.140971678775D-10
+0.000000000000D+00 0.239000000000D+03 0.390000000000D+02
+0.448697261471D-08 -0.242292608940D+00 0.211782753468D-05
+0.515963882208D-03 0.725127756596D-05 0.515372778511D+04
+0.864000000000D+05 -0.186264514923D-08 0.224562023971D+01-
+0.279396772385D-07 0.959505714281D+00 0.240218750000D+03
+0.144979004260D+00-0.809712299196D-08 0.101075638777D-09
+0.100000000000D+01 0.236500000000D+04 0.000000000000D+00
+0.200000000000D+01 0.000000000000D+00-0.931322600000D-08
+0.751000000000D+03 0.842100000000D+05 0.400000000000D+01
+0.000000000000D+00 0.000000000000D+00
+RINEX: Receiver Independent Exchange Format
+5
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 5
+
+--- PAGE 6 ---
+VIAVI//Restricted
+OSPREY GPS Simulator
+ 0 perational Simulated Positioning for the Real-time Evaluation of sYstems
+VIAVI's GPS Simulator provides static
+waypoints and dynamic routes to be
+simulated for avionics testing purposes.
+Daily Almanac data can be seamlessly
+uploaded to the OSPREY, simplifying the
+process of ensuring a position lock for GPS
+Receivers.
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 6
+
+--- PAGE 7 ---
+VIAVI//Restricted
+OSPREY Placement
+ Single and Dual Coupler Options
+ The single coupler option can be used
+to test pilot and copilot GPS systems
+individually with the alternate GPS
+system disabled.
+ The dual coupler option can be used to
+test both pilot and copilot GPS systems
+simultaneously.
+ Direct connection to the LRU is also
+available as an option.
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 7
+
+--- PAGE 8 ---
+VIAVI//Restricted
+Mobile Application
+ So easy a caveman can do it...
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 8
+
+--- PAGE 9 ---
+VIAVI//Restricted
+Mobile Application
+ So easy a caveman can do it...
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 9
+
+--- PAGE 10 ---
+VIAVI//Restricted
+The ABCs (and more) of
+GPS Receiver 3D Lock
+ A – Almanac Update!
+ B – Be close to last known position
+ C – Close the doors! Isolate from real satellite signals
+ D – Don’t need WAAS!
+ E – Ensure power setting is adequate
+ F – First, simulate, then apply power to GPS Receiver
+10
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 10
+
+--- PAGE 11 ---
+VIAVI//Restricted
+GPSG-1000 and OSPREY
+11
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 11
+
+--- PAGE 12 ---
+VIAVI//Restricted
+Thank you!
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 12
+
+--- PAGE 13 ---
+VIAVI//Restricted
+GPS Overview
+ Cool website
+Launch LeoLabs Animation
+13
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 13
+
+--- PAGE 14 ---
+VIAVI//Restricted
+GPS Overview
+Terminology
+GPS and AVIATION
+RELATED ACRONYMS
+SV
+SBAS
+WAAS
+RNAV
+LNAV
+VNAV
+LPV
+14
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 14
+
+--- PAGE 15 ---
+VIAVI//Restricted
+GPS Overview
+Terminology
+GPS and AVIATION Space Vehicles: Individual satellites that make up
+RELATED ACRONYMS the GPS constellations
+SV
+SBAS
+WAAS
+RNAV
+LNAV
+VNAV
+LPV
+15
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 15
+
+--- PAGE 16 ---
+VIAVI//Restricted
+GPS Overview
+Terminology
+GPS and AVIATION
+Satellite Based Augmentation System:
+RELATED ACRONYMS
+A general term for systems like WAAS
+SV
+SBAS
+WAAS
+RNAV
+LNAV
+VNAV
+LPV
+16
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 16
+
+--- PAGE 17 ---
+VIAVI//Restricted
+GPS Overview
+Terminology
+GPS and AVIATION
+Wide Area Augmentation System:
+RELATED ACRONYMS
+Improves accuracy, integrity, availability of GPS
+SV
+(Geostationary SVs)
+SBAS
+Oh, by the way:
+WAAS
+GPS Accuracy without WAAS – 30 meters
+RNAV
+GPS Accuracy with WAAS – 3 meters
+LNAV
+VNAV
+LPV
+17
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 17
+
+--- PAGE 18 ---
+VIAVI//Restricted
+GPS Overview
+Terminology
+Area Navigation: Enables aircraft to navigate directly
+GPS and AVIATION
+from one point to another, rather than being restricted
+RELATED ACRONYMS
+to routes defined by ground-based navigation
+SV
+beacons.
+SBAS
+WAAS
+RNAV
+LNAV
+VNAV
+LPV
+18
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 18
+
+--- PAGE 19 ---
+VIAVI//Restricted
+GPS Overview
+Terminology
+GPS and AVIATION
+RELATED ACRONYMS
+Lateral Navigation: Guides aircraft along a horizontal
+SV
+path (think Localizer)
+SBAS
+WAAS
+RNAV
+LNAV
+VNAV
+LPV
+19
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 19
+
+--- PAGE 20 ---
+VIAVI//Restricted
+GPS Overview
+Terminology
+GPS and AVIATION
+RELATED ACRONYMS Vertical Navigation: Guides aircraft along a vertical
+SV path (think Glideslope). Combines with LNAV for
+approaches.
+SBAS
+WAAS
+RNAV
+LNAV
+VNAV
+LPV
+20
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 20
+
+--- PAGE 21 ---
+VIAVI//Restricted
+GPS Overview
+Terminology
+GPS and AVIATION
+Localizer Performance with Vertical Guidance:
+RELATED ACRONYMS
+GPS Instrument approach leveraging the accuracy
+SV
+of WAAS
+SBAS
+WAAS
+RNAV
+LNAV
+VNAV
+LPV
+21
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 21
+
+--- PAGE 22 ---
+VIAVI//Restricted
+GPS Overview
+Spoofing – Is it all bad?
+22
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 22
+
+--- PAGE 23 ---
+VIAVI//Restricted
+GPS Overview
+Spoofing – Is it all bad?
+ Yes.
+23
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 23
+
+--- PAGE 24 ---
+VIAVI//Restricted
+GPS Overview
+Spoofing – Is it all bad?
+ Yes. GPS Spoofing is a term that implies a malicious attempt to trick a
+GPS receiver into believing a false location. Also see GPS Jamming.
+ GPS Simulation? … Good!
+A testing method that uses a controlled environment to mimic real GPS
+signals for evaluating GPS receiver performance, security, accuracy, and
+sensitivity.
+24
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 24
+
+--- PAGE 25 ---
+VIAVI//Restricted
+Simulation Types
+Static vs. Dynamic vs. Trajectory
+Static Waypoints – probably >80% of use cases
+• Simulates one non-moving location’s Latitude / Longitude / Altitude
+Dynamic Routes
+• A series of a number of waypoints that make up a flight / travel path
+Trajectory Path (can include Record / Playback capability)
+• Similar to Dynamic but uses high throughput NMEA data as the input.
+NMEA data is a standard protocol for information transfer. The
+commands look similar to this:
+$GPGGA,123519,4807.038,N,01131.000,E,1,08,0.9,545.4,M,46.9,M,,*47
+25
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 25
+
+--- PAGE 26 ---
+VIAVI//Restricted
+Benefits of GPS Simulation
+When and Why?
+Simulate numerous locations in and around your hangars
+Verification of system installations
+Efficient ADS-B testing
+Train technicians on new avionics installs
+Train pilots on upgraded avionics without flying the aircraft
+Testing XM Weather systems
+No fines incurred (See SAFO 24002)
+26
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 26
+
+--- PAGE 27 ---
+VIAVI//Restricted
+Benefits of GPS Simulation
+GPS Related Aircraft Systems
+GPS technology now touches a lot of avionics-related equipment:
+• Transponder w/ ADS-B
+• Autopilot
+• Traffic Collision Avoidance Systems (TCAS)
+• Datalink
+• Flight Director
+• Synthetic Vision Systems (SVS)
+• Terrain Awareness and Warning System (TAWS)
+• Weather Systems
+Consider the possibilities!
+27
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 27
+
+--- PAGE 28 ---
+VIAVI//Restricted
+Use Cases
+Anywhere GPS Solutions are needed
+Use a static location to simulate position inside a hangar.
+Eliminates dead spots and the need to
+shuffle planes.
+Stay indoors in bad weather!
+Repeaters are typically amplified and
+can cause issues when doors are open
+and you are near an active runway.
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 28
+
+--- PAGE 29 ---
+VIAVI//Restricted
+Use Cases
+Anywhere GPS Solutions are needed
+Use a static location to simulate position where there is bad weather.
+Find a location where there is currently some
+inclement weather and determine the location
+coordinates.
+Simulate that position to test XM Weather System
+NOTE: May require a cold-start of the GPS
+Receiver.
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 29
+
+--- PAGE 30 ---
+VIAVI//Restricted
+Use Cases
+Anywhere GPS Solutions are needed
+Use a dynamic routes to “fly” a pattern.
+Fly test patterns for pilot training purposes
+on new cockpit installs.
+Use for creating TA and RA when testing
+Target Generation
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 30
+
+--- PAGE 31 ---
+VIAVI//Restricted
+VIAVI GPS Solutions
+GPSG-1000 and OSPREY
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 31
+
+--- PAGE 32 ---
+VIAVI//Restricted
+VIAVI GPS Solutions
+GPSG-1000 and OSPREY
+Feature OSPREY GPSG-1000
+Number of channels 10 12
+GPS L1, L1C, L2C, L5
+GPS Signals GPS L1
+Galileo E1, E5, E5a, E5b
+WAAS Capable No Yes
+Static and Dynamic Yes, plus recording and playback of
+Yes, with limited dynamics (fixed altitude/speed)
+support trajectories
+Programmable Space
+Vehicle parametric and No Yes
+health
+Remote Command Interface via ethernet
+Remote Control via Phone app
+port
+Power Output Control for
+Yes Yes
+Sensitivity testing
+Super simple via phone application Supports live satellite feed download (15
+Almanac download
+Less than 2 minutes minutes) or via USB file transfer
+Replacing GPS Repeaters
+Anything where ADS-B is needed Situations where more control or WAAS is
+Typical Use cases
+Fly routes for pilot training after cockpit upgrade required (e.g. RNAV approaches)
+XM Weather Radar testing
+Ease of use Super Easy Complexity Rating High
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 32
+
+--- PAGE 33 ---
+VIAVI//Restricted
+GPSG-1000 GPS/Galileo Constellation Simulator
+GPSG-1000 vs OSPREY
+Use the GPSG-1000 for more complex solutions:
+ GPS/Galileo Portable 12-Channel Simulator
+ WAAS capable
+ Required for RNAV approaches
+ GPS signals simulated
+ L1, L1C, L2C, L5
+ Galileo signals simulated
+ E1, E5, E5a, E5b, E6
+ RAIM / Satellite Health
+ Record and Playback feature
+ ADS-B application option
+– Required for automated ADS-B and Latency tests when configured with the IFR6000/6015
+and IFF45TS
+ RCI for automated testing
+33
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 33
+
+--- PAGE 34 ---
+VIAVI//Restricted
+GPSG-1000 GPS/Galileo Constellation Simulator
+GPSG-1000 vs OSPREY
+34
+VIAVI//Restricted © 2 0 2 5 VIAVI Solutions Inc. 34

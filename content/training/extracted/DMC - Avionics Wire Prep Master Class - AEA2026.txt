@@ -1,0 +1,411 @@
+--- PAGE 1 ---
+Avionics Wire Prep Master Class
+Presented by Bill Randall
+© Daniels Manufacturing Corporation 2026
+
+--- PAGE 2 ---
+Agenda
+• Risk & Importance of Wire Stripping
+• Identification
+• Inspection
+• Tooling & Application
+
+--- PAGE 3 ---
+Wire Stripping
+Risk & Importance of Wire Stripping
+After painstakingly reassembling the wreckage of TWA Flight 800 in 1996, the NTSB concluded
+the center-wing fuel tank had ignited, most likely after a short circuit in a wire bundle which led
+to a spark in the fuel-gauge sensor.
+From this study a new acronym was coined which is widely used in the Aerospace
+Industry “EWIS“ Electrical Wiring Interconnection Systems (EWIS).
+
+--- PAGE 4 ---
+Wire Stripping
+Risk & Importance of Wire Stripping
+When working with aircraft wiring, proper techniques are crucial for even the simplest
+tasks, such as stripping insulation from a wire. This ensures the quality and functionality
+of the installation. The most important aspects of stripping wire are:
+• Identify the wire type and choose the proper stripping tool.
+• If applicable, adjust the tool to avoid nicking, cutting, or otherwise damaging the strands.
+• Do not strip off too much insulation.
+• Inspect the conductor for any damage after stripping.
+
+--- PAGE 5 ---
+Wire Stripping
+Identification
+• Aerospace wiring involves high-performance
+cables focusing on lightweight, durable, and reliable connections.
+• Aerospace manufacturers use specialized wires for electrical
+conductivity, incorporating insulated materials to combat areas of
+high temp, extreme environments, and anti-chaffing.
+• Military specification and industry standards have been
+created for critical applications in avionics, flight controls
+and data transmission.
+• SAE-AS5768 covers the design and performance requirements
+to include tools and associated accessories used to strip wires in
+the aerospace and aviation industry.
+
+--- PAGE 6 ---
+Wire Stripping
+Identification
+Wire and cable insulation materials vary widely, each offering properties tailored to specific
+applications. In the aerospace industry, some of the most commonly used materials include:
+• Tefzel (BMS 13-60, MIL-W-22759): Preferred, lightweight, excellent
+thermal/chemical resistance, good for hot/cold conditions, often the standard.
+• Polyimide (PI) (MIL-W-81044): High-temperature rated, used in demanding
+applications, often with other materials.
+• Crosslinked Polyalkene (XLETFE) (BMS 13-48): Another common
+lightweight, durable type.
+• MIL-W-5086/7078 Older standard, nylon-coated, resistant to hydrocarbons
+(fuel/oil).
+• MIL-W-16878 General-purpose, medium, and high-temperature hookup
+wires, with PTFE or FEP insulation.
+
+--- PAGE 7 ---
+Wire Stripping
+Identification
+• American Wire Gauge (AWG) is a standardized system for
+sizing electrical wires in North America.
+• A higher AWG number indicates a smaller wire diameter
+with the smallest common size being 32 AWG.
+• A lower number (like 0, 00, 000, 0000) signifies a larger,
+thicker wire, and largest 0000 AWG (4/0).
+• This system defines wire dimensions, with specific gauges
+carrying different current capacities, crucial for preventing
+overheating and ensuring safety, as thicker wires (lower
+AWG) handle more current.
+
+--- PAGE 8 ---
+Wire Stripping
+Identification
+Mil-Aero wire Base Part numbers are primarily designated by MIL-W-22759 typically
+used in aerospace, defense, and high-temperature applications.
+M22759/ 11 - 22 - 9
+Base Part number Slash sheet Gauge Color
+• Mil-Aero wire slash sheets define specific technical requirements (insulation, voltage,
+temperature) for aerospace and military-grade electrical cables.
+• Specifications for M22759 gauge range from the largest of 4/0 through the smallest of
+30 gauge.
+• MIL-STD-681 defines color coding for military specification wires using a 0-9
+numbering system for base colors and stripes.
+0-Black, 1-Brown, 2-Red, 3-Orange, 4-Yellow, 5-Green, 6-Blue, 7-Violet, 8-Gray, 9-White
+
+--- PAGE 9 ---
+Wire Stripping
+Identification: Mil Aero Wire Application Guide:
+DMC recommends the use of “AS” qualified wire strippers and blades for aerospace and
+critical electrical wiring interconnection systems (EWIS). AS5768 defines wire stripping tools
+used by major OEM’s, aircraft and avionics manufacturers.
+AS5768/ (*) – T1
+Basic Spec Number
+Type of Tool (1- Custom Stripmaster)
+(2- Custom Stripmaster Lite)
+T1 = Tool & Blade Combination
+B1 = Blade Set Only
+
+--- PAGE 10 ---
+Wire Stripping
+Identification
+• Tooling cross references for aerospace-grade wire can be found on the DMC website.
+• These references include AS22759, AS81044, and other wire specifications.
+AS5768/1: dmctools.com/wire-to-tool-cross-reference
+AS5768/2: dmctools.com/stripmaster-lite-wire-to-tool-cross-reference
+
+--- PAGE 11 ---
+Wire Stripping
+General Information
+Wire Stripping tools are supplied with Blades included; Blades sets can be ordered separately.
+Using the 45-1987 as an example:
+Complete
+Wire
+Tool Spare Blade AS5768 AS5768
+Style of Tool Range Blade Type
+with only Tool with Blade Spare Blade
+AWG
+Blade
+Custom 45-1987 45-1987-1 16-26 Die Type *AS5768/1-T9 *AS5789/1-B9
+Stripmaster L-5561 26-30
+Custom 45-2133 45-2133-1 16-24 **AS5768/2-T4 **AS5789/2-B4
+Stripmaster Lite 45-2118 45-2118-1 20-26 Die Type NA NA
+45-640 LB-920 24-30 AS5768/2-T2 AS5768/2-B2
+Ergo-Elite 55-1987 55-1987-1 16-26 Die Type NA NA
+Stripmaster
+Stripmaster NA NA NA Knife Type NA NA
+*Custom Stripmaster ** Custom Stripmaster Lite
+Custom Stripmaster ® blades use (-1) or (L-) Part Numbers
+Custom Stripmaster Lite® blades use (-1) or (LB-) Part Numbers
+Ergo Elite® blades use (-1) Part Numbers
+
+--- PAGE 12 ---
+Wire Stripping
+Identification
+A common misconception is that two wires with the same gauge will have
+identical measurements and use the same tooling.
+• Wire dimensions affect stripping requirements and tooling.
+• Wire dimensions may differ by:
+• Gauge
+• Insulation type
+• Concentricity
+
+--- PAGE 13 ---
+Tooling & Application
+Precision vs. Non-Precision
+There at two basic levels of wire stripping, precision and non-precision.
+• Precision • Non-Precision
+• Employed where extreme reliability • Strip assures product reliability and can
+and critical tolerances must be be obtained at a relatively low cost.
+achieved.
+• Used in the manufacturing of lighting
+• Required for aircraft, avionics, radar, fixtures, electrical appliances, and
+and guidance systems automotive harnesses etc.
+• Requires a die-type blade. • Typically requires a knife-type blade.
+
+--- PAGE 14 ---
+Tooling & Application
+Blade Information
+• Die-type blades incorporate a counter-bored hole sized to the insulation and an inner
+cutting hole sized to the conductor. This varies depending on insulation type and
+thickness.
+• Knife-type stripping blades have form-ground holes which penetrate thicker and
+oversized insulation like a knife.
+
+--- PAGE 15 ---
+Tooling & Application
+Die-Type Blades
+• Custom Stripmaster® precision wire strippers with die-type blades
+• Meets SAE-AS5768 standards
+• Mil-spec die-type blades allow precision stripping
+• Inner cutting hole sized to conductor and
+counter-bored holes sized to insulation
+• Strips 30 - 10 AWG solid or stranded wire
+• Cushioned, comfort grip handles
+• Replaceable blades
+Red Handles (10-14 AWG) Black Handles (16-30 AWG)
+
+--- PAGE 16 ---
+Tooling & Application
+Die-Type Blades
+• Custom Stripmaster Lite® precision wire strippers with die-type blades
+• 3/4 the size of a Custom Stripmaster®
+• Strips 16 - 30 AWG stranded wire
+• Requires 1/3 less hand pressure for each strip actuation
+• Blades are unique to this tool and are not interchangeable with Custom
+Stripmaster blades.
+• Meets SAE-AS5768 standards
+Black Handles (16-30 AWG)
+
+--- PAGE 17 ---
+Tooling & Application
+Die-Type Blades
+• Ergo-Elite® Stripmaster wire stripper
+• The latest light-weight (5 oz.), ergonomically
+engineered wire stripper for the aerospace industry.
+• Tilted wire stripping head provides better leverage and
+clear view for wire positioning
+• Advanced jaw position ensures a quality strip on a
+wide range of wire gauges while eliminating potential
+scraping of the inner conductor and leaving a squared
+finish.
+• Advanced blade design has a built-in guiding system
+for loading the wire properly into position.
+
+--- PAGE 18 ---
+Tooling & Application
+Knife-Type Blades
+Stripmaster® non-precision wire T® Stripper non-precision tool
+strippers with knife-type blades
+• Knife-type blades
+• Strips 30-6 AWG wire
+• Varying AWG range
+
+--- PAGE 19 ---
+Tooling & Application
+Accessories
+• Adjustable Stop
+• Wire stops ensure uniform stripping lengths ranging from 3/32” to 3/4”.
+• Stripmaster Lite: LB-1195
+• Custom Stripmaster: L-5270
+• Ergo Elite Stripmaster: LB-1904
+• Short Stop Latches
+• Protects wire strands by limiting stripping stroke and retain the slug until
+the wire is ready for terminating.
+• Custom Stripmaster: L-5269
+• Stripmaster Lite: LB-1194
+
+--- PAGE 20 ---
+Tooling & Application
+Knife-Type Blades
+T®-Cutter Lite are non-precision tools with knife-type blades.
+• They feature a lightweight, compact design.
+• Cushioned grips.
+
+--- PAGE 21 ---
+Tooling & Application
+Non-Precision Wire Strippers
+
+--- PAGE 22 ---
+Tooling & Application
+Insulation Removal
+Insert the wire to be stripped into the correct slot for the
+wire size (each slot is marked with wire size). Make sure
+you insert the wire into the center of the slot.
+Close the handles slowly to seat the wire properly into the
+correct blade slot and close the grip against the wire.
+
+--- PAGE 23 ---
+Tooling & Application
+Insulation Removal
+Close the handles together as close as possible to remove
+the insulation.
+Partially open the handles to allow the grips to open.
+To prevent “bird caging” of wire strands, remove the
+stripped wire before letting the handles open completely.
+Release the handles to allow the wire holder to open.
+
+--- PAGE 24 ---
+Wire Stripping
+Inspection
+Incorrect wire stripping practices can lead to wire failure, short circuits, or damage to equipment.
+Damage to wires should not exceed the limits specified in the table.
+Source: AC43.13
+
+--- PAGE 25 ---
+Wire Stripping
+Inspection
+• If you use the incorrect blade for the wire insulation type, it may result in damage.
+• Insulation shouldn’t have nicks, cuts, or other damage.
+• Slight scuffing (dull/rubbed appearance) of the insulation surface finish is acceptable.
+• Don’t use insulation that’s damaged beyond minor scuffing.
+
+--- PAGE 26 ---
+Wire Stripping
+Inspection
+• If the twist pattern (lay) of the wire strands is disturbed, restore it to the original pattern as
+closely as possible. Re-twisted lay is acceptable when no other damage is evident.
+• Strands twisted beyond the normal twist pattern put more stress on the individual strands
+and may result in conductor breakage.
+
+--- PAGE 27 ---
+Tooling & Application
+Calibration Procedures for Custom Stripmaster and Custom Stripmaster Lite wire strippers
+
+--- PAGE 28 ---
+Tooling & Application
+Pneumatic Tools
+Pneumatic tools utilize blades and accessories that are approved for AS5768.
+• DMC offers a line of pneumatic wire strippers
+that are equivalent to the mechanical
+versions, Custom Stripmaster and Ergo Elite.
+• 360-degree rotatable stripping head
+• Flow control valve to adjust stripping speed
+• Operates on standard air pressure of 80-120
+psi (5.4-8.2 bar).
+
+--- PAGE 29 ---
+Tooling & Application
+Pneumatic Tools
+DMC offers a compatible bench mount and and foot pedal (WSP-FPSA) for our pneumatic
+wire strippers.
+
+--- PAGE 30 ---
+Tooling & Application
+Twist-Strip®
+
+--- PAGE 31 ---
+Tooling & Application
+Twist-Strip®
+• Twist-Strip® outer jacket wire stripper is meticulously engineered to simplify the
+challenges posed by traditional methods of stripping multi-conductor, jacketed shielded,
+twisted, and round cables.
+• Twist-Strip tools accommodate single, double, triple and quad wire configurations ranging
+from 0.081" - 0.310".
+• The TSK8000 (0.081- 0.180) is qualified to MIL-DTL-32610.
+• The TSK8500 (0.181- 0.310) covers the larger range of wires.
+
+--- PAGE 32 ---
+Tooling & Application
+Twist-Strip®
+Twist-Strip has adjustable blade
+depth settings.
+The die container recommends
+a starting depth setting for die
+half “A & B” (ex: B=.010”)
+Turn depth control knob on the
+tool clockwise, each hash mark
+A cable track is precisely machined into each on the knob represents .001” of
+die set. This contoured track creates a blade travel.
+controlled rotation of the dies/blades as the
+cable is moved along the track.
+
+--- PAGE 33 ---
+Tooling & Application
+Twist-Strip®
+• Dies are available for Single, Double, Triple and Quad wire configurations.
+• First, begin by determining the cable lay. If the cable twists in an “S” direction it is a left lay. If the
+cable twists in a “Z” direction it is a right lay.
+• Next, use the cable diameter gauge card included with your tool to find the smallest opening that
+the wire can pass through freely. The gauge card will indicate the corresponding die set that
+should be used.
+
+--- PAGE 34 ---
+Tooling & Application
+Twist-Strip®
+
+--- PAGE 35 ---
+Wire Stripping
+Coaxial Wire Strippers
+• Coaxial adjustable blade strippers are available in four models covering cable diameters
+from 1/8” up to 9/16”.
+• All models include two adjustable depth blades on opposing sides, one adjustable slitting
+blade on the nose.
+• Coaxial Cables can be stripped using Stripmaster tools and two step blades designed to
+remove the outer jacket and dielectric.
+RG8, RG11,RG-174, RG-187,
+RG-58, RG-59/6, UTP Cable
+
+--- PAGE 36 ---
+Wire Stripping
+Ringer Shielded Cable Strippers
+• Precision stripping for most non-round shielded cable and other outer cable jackets, including
+extruded PTFE insulations.
+• Spring loaded cutting head holds cable with consistently accurate tension, removing any need
+for adjustment.
+• V-notch jaw automatically positions and holds cable, increasing cutting accuracy.
+• Fixed blades are sized to insulation thickness, preventing inaccurate cuts, and 17-4 stainless
+steel construction assures long life.
+• Wire guide roller maintains stripping head alignment, producing a square, clean cut.
+
+--- PAGE 37 ---
+Wire Stripping
+Ringer Shielded Cable Strippers
+• Ringers come in five colors for easy identification.
+• Each tool body has a unique V notch to accommodate wire ranging from .012 - .030.
+
+--- PAGE 38 ---
+Wire Stripping
+Ringer Blades
+• For use with any ringer shielded cable stripper.
+• Select a blade with a cutting depth less then the insulation thickness.
+• Adjustable wire stop
+• Provides uniform stripping length.
+LB-825, 3/8 in. to 2-1/2 in.
+LB-840, 2-1/2 in. to 5 in.
+
+--- PAGE 39 ---
+Wire Stripping
+Conclusion
+• High reliability wire stripping is engineered, not improvised. It starts with selecting the right
+tooling, following proven procedures and knowing exactly what defects to inspect for before
+failures ever reach the field.
+• No matter which type of wire stripper you use, the key features to look for in avionics-grade
+wire strippers are:
+• Precision machined cutting edges that stay sharp
+• Adjustable stop for consistent strip lengths
+• Comfortable ergonomic handles for extended use
+• Rugged construction to withstand frequent use
+• DMC brings 77 years of tooling expertise, and we’d welcome the opportunity to support your
+next project.
+
+--- PAGE 40 ---
+Thank
+You

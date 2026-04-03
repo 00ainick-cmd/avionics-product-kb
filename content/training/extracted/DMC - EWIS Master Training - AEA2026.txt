@@ -1,0 +1,884 @@
+--- PAGE 1 ---
+Component & Tooling
+Identification Training
+© Daniels Manufacturing Corporation 2025
+
+--- PAGE 2 ---
+Agenda
+• DMC ® History
+• Component to Tooling
+• Crimp Tools
+• Accessories
+• Large Gauge Tooling
+• Wire Strippers
+• Tensile Testing
+• Banding
+• Safe-T-Cable ®
+• LaceLok ®
+• Kits
+
+--- PAGE 3 ---
+MISSION
+The trusted provider of tooling and technology for mission-critical
+electrical systems.
+VISION
+To create industry-changing solutions that drive
+customer success.
+VALUES
+• Maintain Customer Focus
+• Preserve Family Culture
+• Commit to Growth
+• Succeed with Honor
+• Hire and Develop the Best
+• Embrace Teamwork & Optimism
+• Retain Organizational Flexibility
+• Adopt Change while Respecting Heritage
+
+--- PAGE 4 ---
+History
+Timeline for Crimp Technology
+Buchanan
+AMP Introducedthe4 MS3191-4
+Introduced IndentCrimpTool Introducedby ChangedtoMIL-C-22520,
+Changedto
+Crimp Barrel witha Ratchet Daniels andmany SlashSheets
+AS22520
+Terminals. (Ref:MS3191) ManufacturingCorp. Added.
+1940's 1957 1963 1969 1996
+1953 1960 1965 1974 2011
+Allterminations CannonBrothers MS3191-1was MIL-T-22520 ChangedtoMIL-
+weresoldered Experimented Publishedas Publishedand DTL-22520
+withMachined thefirstCrimp DatedtoReplace
+Contactswith ToolStandard. allPrevious
+CrimpBarrels Specifications.
+
+--- PAGE 5 ---
+History
+Tooling Support
+Our mission is to be your trusted partner in tooling and technology for mission-
+critical electrical systems. DMC and DMC Europe provides a full catalog of
+tooling to support EWIS including:
+• Crimp Tools & Accessories (qualified to AS22520)
+• Insertion/Removal Tools (qualified to AS81969 & AS5259)
+• Connector Assembly Tools
+• Tensile Test Equipment
+• Safe-T-Cable®
+• Twist-Strip®
+• Lacelok®
+
+--- PAGE 6 ---
+Introduction to
+Connectors
+
+--- PAGE 7 ---
+Introduction to Connectors
+Connector Styles
+MIL-Spec Type Circulars:
+MIL-DTL-38999 Connectors MIL-DTL-26482 Series II MIL-DTL-83723 Connectors MIL-DTL-50151 Connectors
+D-Sub, Rack & Panel:
+AS81659 MIL-DTL-24308 MIL-DTL-83733
+
+--- PAGE 8 ---
+Introduction to Connectors
+Popular Connectors
+Some of the more popular connectors found on *EWIS today are:
+• MIL-DTL-38999 Series 3
+• MIL-DTL-32689 2M, and Series 80
+• MIL-DTL-26482 Series 1 and 2
+• MIL-DTL-83723 Series 2 and 3
+• MIL-DTL-24308 D-Sub/Rack & Panel
+• AS50151 (formerly MIL-C-5015)
+*EWIS, short for Electrical Wiring Interconnect System, refers to the
+complete wiring system of an aircraft
+
+--- PAGE 9 ---
+Introduction to Connectors
+Receptacles and Plugs
+Receptacles have mating
+socket and often have
+mounting features such as a
+flange with holes.
+Plugs have prolonged
+connecting pins.
+
+--- PAGE 10 ---
+Introduction to Connectors
+• Blue bands on connectors generally indicate the connector has
+contacts that release from the rear of the connector (wire side).
+• Connectors without color bands would likely indicate the connector
+contacts release from the front (mating side).
+• Red bands on circular connectors are usually there as a visual
+check for the complete mating of threaded connectors.
+
+--- PAGE 11 ---
+Connector Part Numbers
+Identifying the Type of Connector
+JD38999/26 = MIL-DTL-38999 Series III (Formerly MIL-C)
+• Shell Type: Connector description, i.e., wall mount, jam nut, straight plug (26)
+• Class: Material, plating, temperature range, and other design factors (W)
+• Shell Size: Diameter of connector (E)
+• Insert Arrangement: Layout and size, type of contact (26)
+• Contact Style: Pin, socket, solder tail, etc. (S)
+• Polarizing Positions: Orientation of keys or insert rotation for proper mating (N)
+
+--- PAGE 12 ---
+Connector Identification
+Insert Arrangement of Connectors
+*Check Connector OEM documentation for insert arrangements.
+
+--- PAGE 13 ---
+Connector Identification
+Contact Arrangement
+In addition to contact type, insert arrangements are important. Connector
+layouts vary in different MIL-SPECs; some use numbers, others use letters.
+• On a MIL-DTL-26500, contacts are numbered from center out.
+• When looking at the face of the plug, number 1 is in the center and is counted
+counterclockwise, clockwise for the receptacle.
+Plug Receptacle
+• There is a tracer line to help guide your eye around the connector. To help keep track of
+the number of contacts, every 10th one has a circle around it. The last contact is
+numbered and should match the connector part number.
+
+--- PAGE 14 ---
+Connector Identification
+Contact Arrangement
+• On MIL-DTL-38999 connectors, letters are used to identify the
+contact position, including capitals (A, B, C), lower case (a, b, c), and
+double (AA, BB, CC).
+• I, O, and Q are omitted because they are difficult to print and see.
+
+--- PAGE 15 ---
+Connector Part Numbers
+
+--- PAGE 16 ---
+Connector Identification
+Polarizing Positions
+• Polarizing positions or keying is used to prevent mating of incorrect
+orientation or polarity.
+• Hundreds of configurations of connectors are manufactured.
+• N stands for “normal” and numbers represent alternate keying positions.
+
+--- PAGE 17 ---
+Introduction to
+Contacts
+Title of Presentation
+Subtitle
+© Daniels Manufacturing Corporation 2024 Month Day, Year
+
+--- PAGE 18 ---
+Pin & Socket
+Contact Styles are defined as Pin (male) and Socket (female).
+Pin
+Socket
+
+--- PAGE 19 ---
+BIN Codes
+How to Identify Contact Part Numbers
+M39029-XX/XXX
+Color codes or Basic Identification Number (BIN) codes are used to identify
+contact part numbers.
+Betty Brown Runs Over Your Garden But Violet Gingerly Walks
+Big Bears Roam Over Yellow Grounds, Brave Vikings Go Wild
+
+--- PAGE 20 ---
+Contact Identification
+Contact Gages
+• Contact Gages are used to identify the size of contacts in
+connectors
+• Four contact gages are included with all DMC kits. This
+is especially useful where two or more contact sizes are
+present in a single connector.
+
+--- PAGE 21 ---
+American Wire Gauge (AWG)
+Wire Conductor Size
+• American Wire Gauge (AWG) is a US
+standard for wire conductor size.
+• The "gauge" is related to the diameter of
+the wire.
+• The higher the gauge number, the
+smaller the diameter and thinner the wire.
+
+--- PAGE 22 ---
+Tool Selection
+Title of Presentation
+Subtitle
+© Daniels Manufacturing Corporation 2024 Month Day, Year
+
+--- PAGE 23 ---
+Selecting the Proper Tooling
+Contact Identification
+How to build a
+M39029/XX-XXX using BIN code to select tooling
+connector video
+Pin: Socket:
+• Orange-Blue-Orange • Orange-Green-Brown
+• BIN 363 • BIN 351
+
+--- PAGE 24 ---
+Selecting the Proper Tooling
+Use DMC Resources to Find Tooling
+Using DMC’s
+Catalog, search
+for the contact
+using the BIN
+code.
+
+--- PAGE 25 ---
+Selecting the Proper Tooling
+Use DMC Resources to Find Tooling
+Alternatively, you can use the Tool Selection Search on dmctools.com
+
+--- PAGE 26 ---
+Selecting the Proper Tooling
+Use DMC Resources to Find Tooling
+Select your component. In this case the component is a contact. Next,
+search for tooling by entering the BIN code or contact part number.
+
+--- PAGE 27 ---
+Selecting the Proper Tooling
+Use DMC Resources to Find Tooling
+All tooling related to the component search will be presented along with
+general information relating to the component.
+
+--- PAGE 28 ---
+Selecting the Proper Tooling
+Use DMC Resources to Find Tooling
+
+--- PAGE 29 ---
+Selecting the Proper Tooling
+Use DMC Resources to Find Tooling
+Additional information can be found on each of the
+tools such as:
+• General information relating to the component
+• Data Sheets and Instruction Manuals
+• Envelope Drawings
+• Shipping Weight
+
+--- PAGE 30 ---
+Introduction to
+4/8 Indent Tools
+Title of Presentation
+Subtitle
+© Daniels Manufacturing Corporation 2024 Month Day, Year
+
+--- PAGE 31 ---
+AF8 (M22520/1-01)
+4/8 Indent Tools
+• Crimp range 12 - 26 AWG • Crimp depth controlled by 8 position
+selector knob
+• Cycle control ratchet
+• Go/No-Go performed with G125
+• Produces 8 indent crimp
+• Utilizes turret & single position heads
+
+--- PAGE 32 ---
+AFM8 (M22520/2-01)
+4/8 Indent Tools
+• Crimp range 20 - 32 AWG • Crimp depth controlled by 8 position
+selector knob
+• Ratchet control cycling
+• Go/No-Go performed with G125
+• Produces 8 indent crimp
+• Utilizes “K” positioners
+
+--- PAGE 33 ---
+Locators
+Different Options
+Turret: Positioner:
+• Turret heads can • Positioners are
+accommodate different size dedicated to a single
+contacts (selected by color contact size
+codes)
+
+--- PAGE 34 ---
+4/8 Indent Tools
+AF8 Lower Range VS AFM8 Upper Range
+AF8 - Crimp Range 12 through 26 AWG
+12 14 16 18 20 22 24 26 28 30 32
+AFM8 - Crimp Range 20 through 32 AWG
+
+--- PAGE 35 ---
+Go/No-Go Gages
+Crimp Tool Verification
+• It is important to periodically gage crimp tools by using an
+inspection/verification gage (Go/No-Go).
+• This step ensures the tool has maintained the settings/tolerances it
+had when it was manufactured or calibrated.
+• 4/8 indent crimp tools can easily be gaged by following the
+directions on the gage and tool instructions.
+
+--- PAGE 36 ---
+Go/No-Go Gages
+Crimp Tool Verification
+• Set the tool to the specified setting (crimp depth selector) and first insert
+the “Go”, then the “No-Go” end of the gage into the indenters.
+• The “Go” should pass freely between the four indenters, and the “No-
+Go” should not pass through the indenters.
+
+--- PAGE 37 ---
+Introduction to
+Crimping
+Title of Presentation
+Subtitle
+© Daniels Manufacturing Corporation 2024 Month Day, Year
+
+--- PAGE 38 ---
+Step 1:
+Once you have identified the appropriate tooling, use the
+data plate to find the correct settings for the tool.
+*Tools under M39029 or AS39029 have superseded older tools
+
+--- PAGE 39 ---
+Step 2:
+Set the Turret to red and push the turret knob in.
+
+--- PAGE 40 ---
+Step 3:
+Next, set the selector setting knob to 3 by lifting and rotating.
+Note: The selector setting on the Turret or Positioner you are using is always the one to use.
+
+--- PAGE 41 ---
+Step 4:
+Insert the wire into the contact prior to inserting the contact into the
+tool, or if it is preferable, insert the contact into the tool, then insert the
+stripped wire into the contact.
+
+--- PAGE 42 ---
+Step 5:
+Close the tool until the movable handle fully bottoms, and the ratchet allows
+the handle to open. Relax pressure and remove the crimped contact.
+
+--- PAGE 43 ---
+Step 6:
+Inspect the contact
+• The crimp location should be midway between the inspection hole and the
+end of wire barrel.
+• Ensure there is wire in the inspection hole
+• The gap between the insulation and contact barrel should be less than 50%
+of the overall wire diameter
+• No wire strands should be located outside of the wire barrel
+• Look for cracks in the plating material (magnification may be required.)
+
+--- PAGE 44 ---
+Powered Equivalents
+AF8 MH860 AFM8
+l
+a
+u
+n
+a
+M
+WA27F WA22P WA22
+c
+i
+t
+a
+m
+WA22-LCX1
+u
+e
+n
+P
+y N/A N/A N/A
+r
+e
+t
+t
+a
+B
+
+--- PAGE 45 ---
+Accessories
+Go/No-Go Bench Mount Foot Pedal
+Regulator Cycle Counter Side selector
+
+--- PAGE 46 ---
+Introduction to
+Terminals, Splices
+Title of Presentation
+and Stamped &
+Subtitle
+Formed Contacts
+© Daniels Manufacturing Corporation 2024 Month Day, Year
+
+--- PAGE 47 ---
+Terminal Colors
+Color Code Wire Range
+• Color shades vary based on material
+(AWG)
+and barrel styles
+Yellow 24-26
+• PVC and Nylon take the color
+Red 18-22
+differently. In the 14-16 AWG range
+Blue 14-16
+(blue) for example, the PVC barrels will
+be dark blue. The nylon barrels will be Yellow 10-12
+a lighter, translucent blue.
+Red 8
+• The color shade has no correlation to Blue 6
+the quality of the insulation.
+Yellow 4
+
+--- PAGE 48 ---
+Tongue Styles
+The “tongue” is the end of the terminal that attaches to other components
+(switch, stud, transformer, etc.).
+
+--- PAGE 49 ---
+Stamped and Formed Contacts
+• Stamped and formed contacts are created from rolls of copper alloy that
+have been selected for their conductivity, strength, and temper.
+• A series of complex progressive stamping dies form their specific geometry.
+• Stamped and formed contacts can be terminated with dies or GMT series
+tools.
+
+--- PAGE 50 ---
+Form Crimp Tools
+Title of Presentation
+Subtitle
+© Daniels Manufacturing Corporation 2024 Month Day, Year
+
+--- PAGE 51 ---
+Form Crimp Tools
+Introduction
+• HX4 series crimp tools have a system of interchangeable dies. Crimp dies
+are snapped into the tool frame and held in place by internal spring clips.
+• Insulated and uninsulated terminals are standardized under AS7928. The
+traditional tool for red, blue, and yellow (size 26-10 AWG wire) terminals is
+the AS22520/5-01 with AS22520/5-100 crimp dies.
+• Y Dies accommodate most coaxial and triaxial connectors and contacts
+conforming to MIL-DTL-39012, AS39029.
+• Dies are also available to accommodate different types of ferrules, splices,
+and terminal lugs.
+
+--- PAGE 52 ---
+Form Crimp Tools
+Y Dies
+The new and improved Y111 series dies were built to accommodate IPC
+requirements and feature an adjustable insulation crimp.
+Adjustment Marks
+Y1115 Y1116 Y1117
+(AS22520/5-106) (AS22520/5-107) (AS22520/5-108)
+
+--- PAGE 53 ---
+General Maintenance Tools
+Crimp Tools for Environmental Splices
+The preferred crimping tools for environmental splices are tools that have fixed crimp
+jaws such as the GMT232 (M22520/37-01) and GMT1090 (M22520/44-01).
+Removable dies for the M22520/5 and M22520/10 tools are also available for
+crimping splices, but access to tight areas sometimes limits their use.
+
+--- PAGE 54 ---
+General Maintenance Tools
+Crimp Tools for Environmental Splices
+The GMT232 (AS22520/37-01) is designed to terminate wire splices
+conforming to MIL-S-81824 of the following sizes:
+Tool Cavity 12-16 16-20 20-26
+I.D. O.D. I.D O.D. I.D. O.D.
+Crimp
+Splicer .102 .153 .069 .106 .050 .080
+Size
+.097 .147 .064 .101 .045 .075
+Splices are to be staggered in a wire bundle to
+avoid growth of the harness diameter.
+
+--- PAGE 55 ---
+Large Gauge Tooling
+Title of Presentation
+Subtitle
+© Daniels Manufacturing Corporation 2024 Month Day, Year
+
+--- PAGE 56 ---
+Large Gauge Tooling
+• Die Type Crimpers for Large Gauge (8-4/0AWG) Terminals and
+Lugs
+• AS5259 Spec. Issued & QPLs
+• Utilizes Interchangeable Die Sets
+Tool Family AWG Range Crimp Style
+36 Series 8 - 0 Form
+51 Series 8 - 2/0 Form
+120 Series 8 - 4/0 Form
+23 Series 8 - 4/0 Indent
+136 Series 8 - 4/0, up to 750 MCM Indent
+
+--- PAGE 57 ---
+Large Gauge Tooling
+51 Series 23 Series 120 Series 136 Series 36 Series
+HD51 HD23 HD120 HC136 HD36
+l
+a
+u
+n
+a
+M
+XHD51 WA23B TBHD1M XHC136
+c
+i
+t N/A
+a
+m
+u
+e
+n
+P
+HDE51C HDE23C HDE120C HCE136C HDE36C
+y
+r
+e
+t
+t
+a
+B
+
+--- PAGE 58 ---
+Large Gauge Crimp Tool
+HDE36 Battery Crimp Tool
+The HD36 tools provide 4 tons of crimping force capable of crimping medium range terminals
+and lugs both insulated and uninsulated. These tool uses HD36 dies that accommodate
+varying applications.
+• Confined Crescent dies for 8, 6, & 4 (Red, Blue, Yellow)
+Insulated Terminals
+• Single indent dies to accommodate 8 to 2 AWG uninsulated
+terminals.
+• Single and Double hex cavity dies ranging from 8 to 2/0 AWG
+HD36
+uninsulated terminals.
+HDE36
+
+--- PAGE 59 ---
+Large Gauge Crimp Tool
+HD51 Crimp Tools
+The 51 series tools provide 6 tons of crimping force using HD51 Dies capable of crimping
+insulated terminals sizes 8 to 2 AWG, and uninsulated terminals sizes 8 to 2/0 AWG.
+HDE51C features 4 second crimp cycle and is
+provided with two 18 VDC, Lithium Ion, 1.5 AMP
+batteries averaging 100 crimps per charge.
+(Optional) Extended Life Battery, 18 VDC, Lithium
+Ion, 3.0 AMP averaging 200 crimps per charge.
+Battery Charger options: 120 VAC (HDE-LI-
+120C) or 240 VAC (HDE-LI-230C) Contact DMC
+for 230V tools.
+Battery
+5.9 lbs.
+Manual Hydraulic
+M5259/8-01* QPL Pending for dies
+4.6 lbs.
+
+--- PAGE 60 ---
+Large Gauge Crimp Tool
+HD51 Remote Crimp Head
+The XHD51 tools provide 6 tons of crimping force using HD51 dies currently being qualified to
+AS5259 specifications. This tool crimps a wire range from 12 to 2/0 AWG.
+• The XHD51 remote crimp head is ideal for high volume production lines
+and maintenance rework centers.
+• The XHD51 can be used as a hand-held or mounted tool when used with
+the XHD51-BM.
+• The XHD51 can be powered by any of the HPU series pumps qualified to
+AS529/2 but ideally used with the HPU11M
+M5259/4-01 QPL Pending
+
+--- PAGE 61 ---
+Large Gauge Crimp Tool
+HD120 Series
+These heavy-duty crimpers delivers 12 tons of die force necessary to crimp large conductors.
+Both use interchangeable MS23002-XX dies (for insulated lugs), MS90485-XX dies (for un-
+insulated lugs) and MS25442-XX dies (for aluminum lugs).
+The HD120 has a two-stage pump minimizes
+the number of handle closures needed to
+complete the crimp and the padded handles
+provide a comfortable advantage.
+AS5259/3-01
+The HDE120C is a battery
+powered hydraulic crimp tool
+with automatic pressure relief
+to prevent over compression
+and automatic die retraction
+after the crimp cycle.
+Both use AS5259/7 Crimp Dies. Additional dies are available, contact DMC
+
+--- PAGE 62 ---
+Large Gauge Crimp Tool
+TBHD1M Remote Hydraulic Crimp Head
+• The TBHD1M (MS25441-1) exerts 12 tons of crimp force and
+spans the complete range from 8 to 4/0 AWG conductors in
+military/aerospace applications, and 750 MCM applications on
+commercial systems.
+• The TBHD1M accepts the HD002 (MS23002), HD485
+(MS90485), HD442 (MS25442), and Boeing ST 2354 die
+combinations.
+The recommended hydraulic pump is the HPU11 air over hydraulic powered pump
+
+--- PAGE 63 ---
+Large Gauge Crimp Tool
+HC136 Series
+The HC136 series tools are dieless four-indent hydraulic crimpers that can self-adjust to
+the application. The tool provides a symmetrical four-sided crimp (at 90º intervals). The
+crimp pressure against the resistance of the metal conductor assembly will cause the tool
+to crimp to a depth where there is metal to metal bottoming (gas-tight crimp joint on
+aluminum and soft copper).
+The HC136 crimps sizes 6 AWG to 4/0
+AWG conductors on copper, and up to
+750 MCM applications on aluminum.
+Remote hydraulic options
+The HDE136C is a Bluetooth battery
+powered hydraulic crimp tool with
+automatic pressure relief to prevent
+over compression and automatic die
+retraction after the crimp cycle.
+Triangle indenter shape is standard.
+Optional indent designs are available.
+
+--- PAGE 64 ---
+Pumps
+DMC offers a variety of hydraulic powered pumps to power our remote crimp head tools. Each of these
+tools provide a maximum output of 10,000 psi and come with a heavy-duty hose. The HPU series pumps
+meet the requirements of the SAE-AS5259/2 spec for large gauge crimp tools.
+HPU11 Pneumatic Hydraulic 12-4040 Hydraulic Hose HPU13M Pneumatic Hydraulic
+Foot operated pump with pressure pedal, AS5259/2-01 Two Lithium-ion 18V Batteries and charger
+.
+release pedal, lock and Hydraulic gauge
+HPU12 Manual Hydraulic HPU15 Manual Hydraulic
+Two speed hand-actuated Pump Two speed foot-actuated pump
+AS5259/2-03 AS5259/2-02
+
+--- PAGE 65 ---
+Introduction to I/R
+Tools
+
+--- PAGE 66 ---
+Removal of Contacts
+Identifying the Correct Tool
+• Identification is key to this process. Begin by identifying the correct tool.
+• Verify the correct contacts have been selected and use the predetermined
+tool to insert or remove the contacts from the connector.
+
+--- PAGE 67 ---
+Contact Release Systems
+Typical Front Typical Rear
+Release Connector Release Connector
+
+--- PAGE 68 ---
+Introduction to Wire
+Stripping
+
+--- PAGE 69 ---
+Wire Strippers
+Knife-Type Blades
+Stripmaster ® wire strippers and knife-type blades
+
+--- PAGE 70 ---
+Wire Stripping
+Die-Type Blades
+Custom Stripmaster ® wire strippers and die-type blades
+Red Handles (10-14 AWG) Black Handles (16-30 AWG)
+
+--- PAGE 71 ---
+Wire Stripping
+Pneumatic Handheld Wire Strippers
+WSP-1630 WSP-1014 WSP-1626E
+Tool
+AWG 16-30 10-14 16-26
+Length 8.5” 8.9” 8.9”
+Width 2.6” 2.6” 2.6”
+Weight 1.8 lbs 2.3 lbs 2.2 lbs
+
+--- PAGE 72 ---
+Wire Preparation
+The Proper Technique
+1. Determine the proper length of insulation to be removed. Wire must
+be visible in inspection hole. Less than 50% of overall wire diameter
+clearance between insulation and contact barrel.
+2. Insert wire into the exact center of the correct slot for wire size to be
+stripped, each slot is marked.
+3. Close handles together as close as possible.
+4. Partially open handles allowing grips to open, then remove wire
+before allowing handles to fully open.
+5. Release handles, allowing wire holder to return to the open position.
+6. Remove the stripped wire
+
+--- PAGE 73 ---
+Wire Stripping
+Tips
+• Wire must be visible in the inspection hole. Less than 50% of overall wire
+diameter clearance between the insulation and contact barrel.
+• After stripping, strands of wire should be twisted firmly together in the same
+direction as the normal lay of the wire.
+• Stripped wire with nicked or cut strands is not acceptable.
+Contact
+Inspection Hole (Wire Visible)
+Wire Diameter Clearance
+Properly Stripped Wire
+
+--- PAGE 74 ---
+Tensile Testing
+
+--- PAGE 75 ---
+Tensile Testing
+Equipment
+PT-150HA
+Alphatron® Manual Pull Tester
+150lbs
+HPT-200B
+Portable Tensile Tester
+200lbs
+MPT-250C
+Alphatron® Motorized Pull Tester
+250lbs
+
+--- PAGE 76 ---
+Tensile Testing
+Specifications
+Minimum Tensile Strength Requirement
+UL 486A Test Values Typical Mil-Spec
+Conductor Size
+(Commercial Standard) (AS22520, AS7928, etc.)
+(AWG)
+Pounds Newtons Pounds Newtons
+26 3 13.4 7 31.2
+24 5 22.3 10 44.5
+22 8 35.6 15 66.8
+20 13 57.9 19 84.6
+18 20 89.0 38 169.1
+16 30 133.5 50 222.5
+14 50 222.5 70 311.5
+12 70 311.5 110 489.5
+10 80 356.0 150 667.5
+8 90 400.5 225 1001.3
+
+--- PAGE 77 ---
+Tensile Testing
+Tips and Accessories
+• These tools ensure that terminated wire samples
+accurately meet industry strength requirements.
+• Alphatron® testers cover wire ranges from 26 to 8
+AWG and are accurate within ±0.5% of full scale.
+• Optional Accessories
+• Ring Terminal Lower Grip (P/N 15-0066C)
+• Mini-Vise Grip (P/N 15-3314)
+• General Purpose Lower Grip (P/N 15-3087C)
+• Safe-T-Cable Pull Wheel & Grip Set (P/N 15-3318)
+• Customized Grips are available for specific applications
+
+--- PAGE 78 ---
+Banding Tools
+Title of Presentation
+Subtitle
+© Daniels Manufacturing Corporation 2024 Month Day, Year
+
+--- PAGE 79 ---
+Banding Tools
+One-Step
+• The One-Step Band Application Tools are built to SAE AS81306/1
+specifications.
+• Designed to install stamped buckle bands.
+DBS-2200 DBS-2100
+.125 Banding Tool .250 Banding Tool
+
+--- PAGE 80 ---
+Banding Tools
+One-Step
+.125 Wide .250 Wide
+DBS-128-8 DBS-128-4
+M85049/128-8 M85049/128-4Wide Stamped Coiled
+Wide Stamped Coiled
+DBS-128-7 DBS-128-3
+M85049/128-7 M85049/128-3
+Wide Stamped Flat Wide Stamped Flat
+
+--- PAGE 81 ---
+Banding Tools
+Two-Step
+• DMC’s manual two-step banding tools are
+qualified to SAE AS81306/2 specifications.
+• Designed to install welded buckle bands.
+DBS-1200 DBS-1100
+.125 Banding Tool .250 Banding Tool
+
+--- PAGE 82 ---
+Banding Tools
+Two-Step
+.125 Wide .250 Wide
+DBS-128-6 DBS-128-2
+M85049/128-6 M85049/128-2
+.125 Wide Welded- Coiled .250 Wide Welded- Coiled
+DBS-128-5 DBS-128-1
+M85049/128-5 M85049/128-1
+.125 Welded Band- Flat .250 Welded Band- Flat
+
+--- PAGE 83 ---
+Tool Kits
+Title of Presentation
+Subtitle
+© Daniels Manufacturing Corporation 2024 Month Day, Year
+
+--- PAGE 84 ---
+DMC’s Maintenance Tool Kits
+Created For High-Reliability Electrical Systems
+DMC researches, designs, and develops tool kits to support specific
+platforms and wiring systems.
+Our comprehensive kits include all the
+items needed to strip, crimp, insert,
+remove, torque, and test. Kits also come
+with cross-reference charts for the
+connectors, contacts, and terminals
+which eliminates time-consuming
+research. Kits are available in multiple
+configurations including hand-carry kits,
+trolley cases, and roll-around cabinets.
+
+--- PAGE 85 ---
+Safe-T-Cable®
+Title of Presentation
+Subtitle
+© Daniels Manufacturing Corporation 2024 Month Day, Year
+
+--- PAGE 86 ---
+Fastener Retention System
+Safe-T-Cable®
+• User-friendly alternative to lockwire
+• Trusted for its reliability for over 30 years, commonly
+used in aircraft engines and airframes
+• Proven reliability in Space, Marine, and other harsh environments
+• Continued acceptance for quality control and production enhancement
+• The tool applies the tension, crimps, and cuts the excess cable off
+• Adjustable and pre-set tension tools are available with manual, battery, and
+pneumatic power options
+• Multiple nose lengths are available to accommodate most applications
+
+--- PAGE 87 ---
+LaceLok®
+Title of Presentation
+Subtitle
+© Daniels Manufacturing Corporation 2024 Month Day, Year
+
+--- PAGE 88 ---
+Secondary Wire Harness Support
+LaceLok®
+• LaceLok was designed to replace hand-tied lace and cable ties for
+secondary wire harness support
+• Combines the ease of zip ties with the performance of string ties
+• Available in various lengths and colors and is sold in quantities of 100 with
+the option of 6”, 10”, 18”, and 24” lengths
+• Developed by Ideal Industries in 2012
+• Acquired and perfected by DMC in 2022
+• Mil-Spec Qualified since Dec. 2022
+• Listed in SAE AS50881H since Jan. 2023
+
+--- PAGE 89 ---
+DMC Certifications
+DMC, in partnership with Snap-on and The National Coalition of Certification Centers
+(NC3) offers several certification courses designed to provide hands-on specialized
+industry skills.
+• Precision Electrical Termination Certification
+o Learn the proper use of various electrical wiring tools, identification of essential component parts, and the methodology of crimping
+• Safe-T-Cable Certification
+o Learn the history of safety wiring, Safe-T-Cable specifications and best practices, how to install Safe-T-Cable, as well as the identification,
+verification, and maintenance of Safe-T-Cable tools
+Learn More:
+www.dmctools.com/resources/education
+
+--- PAGE 90 ---
+Thank
+You

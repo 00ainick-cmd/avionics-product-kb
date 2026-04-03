@@ -1,0 +1,291 @@
+--- PAGE 1 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+
+--- PAGE 2 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Troubleshooting CMS and IFE Networks
+Presented By:
+Katie Morris – Product Manager, Innovative Advantage
+Mike Nedoroscik – Senior Systems Engineer, Alto Aviation
+
+--- PAGE 3 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Syllabus Audio
+• Speaker Mounting Locations
+• Installation Techniques
+• System Checkout
+• Audio System Tuning
+Cabin Management Systems
+• Creating a thorough test plan
+• Isolating the problem
+• Using diagnostic tools
+Networking
+• Ethernet
+• Addressing
+• Capturing Network Traffic
+• Wireshark
+
+--- PAGE 4 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Speaker Mounting Location Considerations
+Stock locations are okay to retain if you are trying to limit work scope, but usually not ideal.
+1. Main left and right speakers should be in front
+2. Surround speakers behind
+3. Subwoofers in the corners
+
+--- PAGE 5 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Speaker Installation Techniques
+Grill Material Selection:
+• Plastic or metal is ideal.
+• If fabric, it should be acoustically transparent.
+• UltraSuede or leather are not good speaker grill materials, even with holes.
+High quality metal grills
+
+--- PAGE 6 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Speaker Installation Techniques
+Useful Tip: Not sure if a material is acoustically transparent?
+Try to blow air through the material. If air does not pass through with ease, then this
+material is NOT acoustically transparent and would make a poor speaker grill
+
+--- PAGE 7 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Speaker Installation Techniques
+When mounting mid-high frequency
+Consider the use of gasketing on cabinet doors and drawers
+loudspeakers, be sure to use gasket material
+adjacent to subwoofers.
+around the edge of the speaker. This will
+eliminate any potential for buzzing.
+
+--- PAGE 8 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Subwoofer Installation Techniques
+Air Path: Open Grilles and Ports
+Vibration: Include gasket material
+in between any surfaces the
+enclosure may touch.
+
+--- PAGE 9 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Functional System Checkout
+Play each speaker individually – Confirm expected location
+Automated with ALTO’s Forte Software, or in a traditional system you could unplug
+speakers and plug in one at a time to confirm proper channel routing.
+
+--- PAGE 10 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Functional System Checkout (cont.)
+Channel Mapping Testing
+• Play left/right test track for stereo systems. Play 5.1 (or higher)
+test track for surround sound systems.
+• Test left/right/5.1 for every audio source available. Bluetooth,
+HDMI, Analog etc.
+PA Testing
+• Test all microphones, sidetone, SELCAL, briefer and call
+functions
+• Determine if there are any special routing or customer
+requirements (like Call chime limited to certain areas)
+• Set levels considering ambient noise in flight
+
+--- PAGE 11 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Functional System Checkout (cont.)
+Rub and Buzz Testing
+• Use a tone generator app to play a single frequency at a medium to high level.
+• Slowly scroll through the entire frequency spectrum listening for buzzing. If you hear buzzing, address it by de-
+coupling hard materials.
+Shown above is tone generator in ALTO Forte software, but free tone generator apps are available in Apple App Store or Google Play
+Store for mobile devices.
+
+--- PAGE 12 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Audio Tuning
+Custom ALTO tuning performed by an ALTO’s system engineer utilizing custom
+EQDesigner software, or manual tuning using RTA and equalizer or another DSP unit.
+Set audio levels for all sources so switching between devices sounds uniform.
+
+--- PAGE 13 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Cabin Management System Architecture
+Inputs: Controllers: Loads:
+• Switches • Relays • Lights
+• App Network • Potentiometer Network • Temp
+• Media • DAC • In Flight Entertainment
+
+--- PAGE 14 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Cabin Management Documentation
+Configuration Document: Switches
+Interface Definition: Controllers
+
+--- PAGE 15 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Cabin Management Checkout and Troubleshooting
+Create a thorough test plan:
+• Every switch and function is accounted for in your checklist.
+• Include all CMS functions in your checklist (Lighting, Galley, Water, Audio, Video, Call, PA etc.)
+• Test discrete switches as well as all functions on touchscreens/app.
+
+--- PAGE 16 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Cabin Management Checkout and Troubleshooting
+Isolating the problem
+• If a switch doesn’t work, in a discrete system, typically
+you can isolate the switch from the input to CMS and test
+both separately. ALTO switches output a discrete ground
+when pressed, so you can validate keypad on your bench
+with a meter independent from the aircraft.
+• If a switch doesn’t work in a CMS with databus backbone,
+typically diagnostic tools can tell you if issue lies on input
+or output side of the controller.
+
+--- PAGE 17 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Cabin Management Checkout and Troubleshooting
+Using Diagnostic Tools
+• ALTO & Innovative Advantage Provide:
+• ALTO Forte Verifier software
+• IA AVDS Client software
+• ALTO Serial Maintenance Cables
+• Remote Troubleshooting Support
+• ALTO software tutorials are available on YouTube
+HERE.
+• Innovative Advantage Academy
+
+--- PAGE 18 ---
+AEA 2026
+Cabin Management - Network Troubleshooting
+Ethernet - widely used interface on aircraft to connect devices on
+a shared network, allowing them to send and receive data to one
+another
+Common Uses:
+• Cabin management command and control
+• Internet connectivity systems
+• Audio/video systems (IFE, cameras)
+• Sensor and system data
+Benefits:
+• High speed / high bandwidth
+• Scalable architecture
+• Lower implementation cost
+• Standardized communication
+• Reduced wiring complexity
+
+--- PAGE 19 ---
+AEA 2026
+Ethernet Cabling
+Types:
+• Copper, fiber optic, Single Pair Ethernet
+• Copper: Cat5, Cat6, Cat7, etc.
+• Shielded vs. unshielded cables
+• Aerospace is 100% shielded
+Speeds:
+• 10Mbps, 100Mbps, and 1000Mbps (1Gbps) 100Mbps Cable: Straight thru vs. crossover
+most common
+• 2.5Gbps, 10Gbps, and even higher now used
+Pinouts:
+• T568A and T568B standards, 100Base-T, and
+others
+• Straight thru or crossover pinouts
+1Gbps Cable: Straight thru vs. crossover
+
+--- PAGE 20 ---
+AEA 2026
+Ethernet and How it works
+Ethernet Data is transmitted in frames that include:
+• Destination address
+• Source address
+• Data payload
+• Error checking
+Ethernet Switches manage communication between devices
+• Learn device addresses
+• Direct traffic efficiently
+• Reduce unnecessary network traffic
+
+--- PAGE 21 ---
+AEA 2026
+MAC Addresses
+A MAC address is a unique identifier assigned to every device (network interface) for communication on a physical
+network segment
+• You can think of it like the street address of a house — it is permanently associated with the hardware and
+typically does not change
+MAC addresses are 48-bit identifiers
+• Usually written as six pairs of hexadecimal digits separated by colons or hyphens
+• Example: 00:1A:2B:3C:4D:5E
+Vendor Identification
+• The first three bytes (24 bits) of a MAC address are called the Organizationally Unique Identifier (OUI)
+• These prefixes are assigned to manufacturers by the Institute of Electrical and Electronics Engineers (IEEE)
+• Example: A MAC address beginning with C4:48:38 indicates a device manufactured by Satcom Direct
+Broadcast Address
+• The address 255.255.255.255 is a limited broadcast address.
+• Packets sent to this address are delivered to every device on the local network but are not forwarded by routers
+
+--- PAGE 22 ---
+AEA 2026
+IP Addresses
+An IP address is a numerical label assigned to each device on a network
+It allows devices to identify each other and send data across networks
+IP: 192.168.1.5
+• Think of it like a mailing address for a device — it tells the network
+Subnet: /24 (255.255.255.0)
+where data should be delivered. Network: 192.168.1.0
+Host: 5
+A subnet mask divides an IP address into two parts:
+IP: 172.16.1.1
+• Network portion – identifies the network
+Subnet: /16 (255.255.0.0)
+• Host portion – identifies the device
+Network: 172.16.0.0
+Host: 1
+The subnet mask determines which devices can communicate directly
+• Devices within the same subnet communicate directly
+• Devices outside the subnet communicate through a router
+
+--- PAGE 23 ---
+AEA 2026
+Capturing Network Traffic - Hardware
+Networks normally send packets only to their intended destination, so most
+traffic on the network is not visible to your laptop.
+To capture all packets on a network segment, you need one of the following:
+• A network TAP
+• A hub (not a switch)
+• A managed switch with port mirroring (e.g., Netgear GS105Ev2)
+Notes:
+• With a TAP, your monitoring port cannot transmit—your laptop is
+invisible to the network.
+• With port mirroring, you may occasionally see duplicate packets.
+Placement matters:
+You must monitor the specific network link carrying the traffic you want to
+capture.
+
+--- PAGE 24 ---
+AEA 2026
+Capturing Network Traffic - Software
+• Wireshark is a software used to capture all
+network traffic from a specific port
+• Most basic use:
+• Open Wireshark
+• Click the proper adapter to use
+• Click the blue fin to start a capture
+• Click stop when done
+• Save capture and email
+• Lots more information:
+https://www.wireshark.org/learn
+
+--- PAGE 25 ---
+AEA 2026
+Wireshark Basics
+
+--- PAGE 26 ---
+AEA 2026 Troubleshooting CMS / IFE Networks
+Contacting Support Resources
+ALTO Innovative Advantage
++1-972-980-4890 +1-888-838-8230
+support@AltoAviation.com support@In-Advantage.com
+
+--- PAGE 27 ---
+AEA 2026
+THANK YOU
+Join us
+Booth 915

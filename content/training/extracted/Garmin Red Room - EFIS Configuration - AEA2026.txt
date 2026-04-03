@@ -1,0 +1,2223 @@
+--- PAGE 1 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+EFIS Configuration
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+Initial Setup of the GI 275
+as an EFIS System
+
+--- PAGE 2 ---
+March 30, 2026
+Legal Statement
+8:38 AM
+2
+F
+o
+r
+R
+e
+f
+e
+Garmin Aviation Traininrg is intended to provide the best practices for
+e
+N
+n
+o c
+the insttallation, use and maintenanece of Garmin Aviation products. It
+f
+o O
+r n
+is incumbent on te chnicians and pilots to ensure that the instructions
+P l
+y
+u
+b
+contained in the most recent versions of Garmin product manuals,
+l
+i
+c
+bulletins and notifications are followeDd.
+i
+s
+t
+r
+i
+b
+u
+© GARMIN LTD. OR ITS SUBSIDARIES. ALL RIGHTS RESERVED.
+t
+i
+o
+n
+
+--- PAGE 3 ---
+Objectives
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+Focus o on GI 275 c
+t e
+f
+o O
+Rules for being ran ‘Electronic Flight n
+P l
+y
+u
+Information System’ (EFIS)
+b
+l
+i
+c
+Initial Setup and Configuration workf low
+D
+i
+s
+Identify t
+r
+i
+b
+Configure u
+t
+i
+o
+Calibrate
+n
+
+--- PAGE 4 ---
+Objectives
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+After completing this section, you will: y
+u
+b
+l
+Understand the breakdown of thie cFAA’s regulation
+D
+for EFIS systems and how a network of GI-i275’s can
+s
+t
+r
+offer ‘Full Authority’ i
+b
+u
+t
+Identify work processes for better installation experiences. i
+o
+n
+
+--- PAGE 5 ---
+14 CFR 23.1311 Electronic Display Instrument March 30, 2026
+8:38 AM
+5
+Paragraph B of the Subsection: The
+F
+o
+r
+electron ic display indicators, including
+R
+e
+f
+their systems ande installations, and
+r
+e
+N
+n
+considering other airplane systems, must
+o c
+t e
+f
+be designeod so that one display of O
+r n
+P l
+y
+information essentiaul for continued safe
+b
+l
+i
+flight and landing will remainc available to
+D
+i
+the crew, without need for immediate s
+t
+r
+i
+b
+action by any pilot for continued safe
+u
+t
+i
+o
+operation, after any single failure or
+n
+probable combination of failures.
+
+--- PAGE 6 ---
+14 CFR 23.1311 Electronic Display Instrument March 30, 2026
+8:38 AM
+6
+Paragraph C of the Subsection: As used in
+F
+o
+this serction, ‘‘instrument’’ includes devices
+R
+that are physiceally contained in one unit, and
+f
+e
+devices that are comprosed of two or more
+e
+N
+n
+ph o ysically separate units or cocmponents
+t e
+f
+connected otogether (such as a remote O
+r n
+P l
+indicating gyroscopic direction indicator that y
+u
+b
+includes a magnetic sensingl element, a
+i
+c
+D
+gyroscopic unit, an amplifier, and an indicator
+i
+s
+t
+connected together). As used in this section, r
+i
+b
+‘‘primary’’ display refers to the display of a u
+t
+i
+o
+parameter that is located in the instrument
+n
+panel such that the pilot looks at it first when
+wanting to view that parameter.
+
+--- PAGE 7 ---
+March 30, 2026
+14 CFR 23. 2615 Flight, navigation, and powerplant instruments.
+8:38 AM
+7
+Paragraph A of Subsection: Installed
+F
+o
+r systems must provide the flightcrew
+R
+e
+member who sets or monitors parameters
+f
+e
+r
+feor the flight, navigation, and powerplant,
+N
+n
+o c
+t the informeation necessary to do so during
+f
+o O
+r each phase of flinght. This information
+P l
+y
+u
+must:
+b
+l
+i
+c
+(1) Be p resented in a manner that the
+D
+i
+crewmember csan monitor the parameter and
+t
+r
+i
+determine trends, as neebded, to operate the
+u
+t
+airplane; and i
+o
+n
+(2) Include limitations, unless the limitation
+cannot be exceeded in all intended
+operations.
+
+--- PAGE 8 ---
+March 30, 2026
+14 CFR 23. 2615 Flight, navigation, and powerplant instruments.
+8:38 AM
+8
+Paragraph B of Subsection: Indication
+F
+o
+r systems that integrate the display of flight
+R
+e
+or powerplant parameters to operate the
+f
+e
+r
+aeirplane or are required by the operating
+N
+n
+o c
+t rules of tehis chapter must:
+f
+o O
+r n
+(1) Not inhibit the primary display of flight or
+P l
+y
+u
+bpowerplant parameters needed by any
+l
+i
+flighctcrew member in any normal mode of
+D
+operation; anid
+s
+t
+r
+(2) In combination withi other systems, be
+b
+u
+designed and installed so infortmation
+i
+o
+n
+essential for continued safe flight and landing
+will be available to the flightcrew in a timely
+manner after any single failure or probable
+combination of failures.
+
+--- PAGE 9 ---
+FAA Advisory Circular 25.11B March 30, 2026
+8:38 AM
+9
+F
+FAAo Advisory Circular 25.11B offers the
+r
+R
+most compreehensive breakdown of
+f
+e
+Design, Installation, Irntegration, and
+e
+N
+n
+o c
+Approtval of Electronic Flight Deeck
+f
+o O
+displays, com r ponents, and systems n
+P l
+y
+u
+installed in aircraft. b
+l
+i
+c
+D
+EFIS Requires: i
+s
+t
+r
+i
+Primary Flight Display b
+u
+t
+i
+Attitude o
+n
+Altitude
+Airspeed
+Magnetic Heading
+
+--- PAGE 10 ---
+Garmin’s Definitions within 14 CFR March 30, 2026
+8:38 AM
+10
+F
+o
+r
+R
+EFIS Requires:
+e
+f
+e
+Primary Flight Displary
+e
+N
+n
+o c
+tAttitude e
+f
+o O
+Altitude r n
+P l
+y
+Airspeed
+u
+b
+l
+i
+Stabilized Heading c
+D
+i
+Multifunction Display s
+t
+r
+i
+b
+GPS Moving Map
+u
+t
+i
+Pilot Situational Awareness Tools o
+n
+Ancillary and Safety of Flight
+Engine Indication Systems
+
+--- PAGE 11 ---
+GI 275 as an EFIS System March 30, 2026
+8:38 AM
+11
+Single Engine Piston Aircraft:
+F
+o
+r
+PFD (ADRI)
+e
+f
+e
+HSI or EHSI
+r
+e
+N
+n
+oEIS c
+t e
+f
+o O
+Minimum of 3r GI-275’s n
+P l
+y
+u
+b
+Base Model – Engine
+l
+i
+c
+Indication System D
+i
+s
+t
+ADAHRS Models – Primary r
+i
+b
+u
+Flight and Horizontal
+t
+i
+o
+Situation Indicators n
+Additional MFD Optional
+
+--- PAGE 12 ---
+Aviation Training Academy March 30, 2026
+8:38 AM
+12
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 13 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+13
+Best workflow for EFIS Configs:
+F
+o
+r
+R
+e
+f
+e
+r
+Identify e
+N
+n
+o c
+t e
+f
+o O
+r n
+Configure
+P l
+y
+u
+b
+l
+i
+c
+D
+Calibrate
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 14 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+14
+Best workflow for EFIS
+F
+o
+r
+Configs:
+R
+e
+f
+e
+r
+e
+N
+n
+oIdentify: Upon initial start up, c
+t e
+f
+first we moust establish the O
+r n
+P l
+UNIT ID. y
+u
+b
+l
+Required immediate Restart i c
+D
+Best to do all displays in i
+s
+t
+succession at once. r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 15 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+15
+Best workflow for EFIS
+F
+o
+r
+Configs:
+R
+e
+f
+e
+r
+e
+N
+n
+oIdentify: Upon initial start up, c
+t e
+f
+first we moust establish the O
+r n
+P l
+UNIT ID. y
+u
+b
+l
+Required immediate Restart i c
+D
+Best to do all displays in i
+s
+t
+succession at once. r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 16 ---
+March 30, 2026
+STC Installation Manual REV 22 Section 5.3.1
+8:38 AM
+16
+F
+CAUTION
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o Failure to follow thce procedure to set Unit ID
+t e
+f
+o O
+befrore performing any othern configuration steps
+P l
+y
+u
+may result inb configuration errors or
+l
+i
+c
+configuration setting s being overwritten by
+D
+i
+s
+another display. Unit IDs mustt be unique for
+r
+i
+b
+u
+each unit in the system.
+t
+i
+o
+n
+
+--- PAGE 17 ---
+March 30, 2026
+STC Installation Manual REV 22 Section 5.3.1
+8:38 AM
+17
+F
+NOTES
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+fWhen the GI 275 is pow ered on in Configuration
+o O
+r n
+P l
+mode for the first time (or after cyonfiguration
+u
+b
+l
+settings are clearied), it will automatically
+c
+D
+prompt the user to assigni a Unit ID. This cannot
+s
+t
+r
+i
+be skipped. b
+u
+t
+i
+o
+n
+
+--- PAGE 18 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+18
+Verify all GI 275 units are powered off.
+F
+o
+r
+Power uRp a each GI 275 in Configuration
+e
+f
+mode per Sectione 5.1.1
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 19 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+19
+Verify all GI 275 units are powered off.
+F
+o
+r
+Power uRp each GI 275 in Configuration
+e
+f
+mode per Sectione 5.1.1
+r
+e
+N
+n
+oTouch Unit Type → Unit ID →
+c
+LRU and
+t e
+f
+select a uonique Unit ID between 1 andO 6
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 20 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+20
+Verify all GI 275 units are powered off.
+F
+o
+r
+Power uRp each GI 275 in Configuration
+e
+f
+mode per Sectione 5.1.1
+r
+e
+N
+n
+oTouch Unit Type → Unit ID →
+c
+LRU and
+t e
+f
+select a uonique Unit ID between 1 andO 6
+r n
+P l
+y
+Touch Restart to apply the assignment
+u
+b
+l
+i
+When all Unit ID assignments hacve been
+D
+made, power up all displays in Configuration
+i
+s
+t
+mode before moving to the next r
+i
+b
+configuration steps. u
+t
+i
+o
+n
+
+--- PAGE 21 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+21
+Verify all GI 275 units are powered off.
+F
+o
+r
+Power uRp each GI 275 in Configuration
+e
+f
+mode per Sectione 5.1.1
+r
+e
+N
+n
+oTouch Unit Type → Unit ID →
+c
+LRU and
+t e
+f
+select a uonique Unit ID between 1 andO 6
+r n
+P l
+y
+Touch Restart to apply the assignment
+u
+b
+l
+i
+When all Unit ID assignments hacve been
+D
+made, power up all displays in Configuration
+i
+s
+t
+mode before moving to the next r
+i
+b
+configuration steps. u
+t
+i
+o
+n
+
+--- PAGE 22 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+22
+Now we’re ready to Identify Unit Type!
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 23 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+23
+Now we’re ready to Identify Unit Type!
+F
+o
+r
+Select ‘URnit Type’ on the screen.
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 24 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+24
+Now we’re ready to Identify Unit Type!
+F
+o
+r
+Select ‘URnit Type’ on the screen.
+e
+f
+e
+It’s time to set the ‘Master Display’ for the
+r
+e
+N
+n
+osystem.
+c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 25 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+25
+Now we’re ready to Identify Unit Type!
+F
+o
+r
+Select ‘URnit Type’ on the screen.
+e
+f
+e
+It’s time to set the ‘Master Display’ for the
+r
+e
+N
+n
+osystem.
+c
+t e
+f
+Noticeo, no ‘Master Display’ equals no O
+r n
+P l
+System ID y
+u
+b
+We’re setting the System ID lfor the while EFIS
+i
+c
+as a group of GI 275’s D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 26 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+26
+Now we’re ready to Identify Unit Type!
+F
+o
+r
+Select ‘URnit Type’ on the screen.
+e
+f
+e
+It’s time to set the ‘Master Display’ for the
+r
+e
+N
+n
+osystem.
+c
+t e
+f
+Noticeo, no ‘Master Display’ equals no O
+r n
+P l
+System ID y
+u
+b
+We’re setting the System ID lfor the while EFIS
+i
+c
+as a group of GI 275’s D
+i
+s
+This will affect Enablements! t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 27 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+27
+Now we’re ready to Identify Unit Type!
+F
+o
+r
+Select ‘URnit Type’ on the screen.
+e
+f
+e
+It’s time to set the ‘Master Display’ for the
+r
+e
+N
+n
+osystem.
+c
+t e
+f
+Noticeo, no ‘Master Display’ equals no O
+r n
+P l
+System ID y
+u
+b
+We’re setting the System ID lfor the while EFIS
+i
+c
+as a group of GI 275’s D
+i
+s
+This will affect Enablements! t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 28 ---
+GI – Configuration March 30, 2026
+8:38 AM
+28
+We’ve established the GI’s Unit ID’s
+F
+o
+r
+R
+From this point forward each display
+e
+f
+e
+must stay in Config Mrode.
+e
+N
+n
+o c
+Nextt we’ll establish the jobs for tehe
+f
+o O
+various disprlays in the EFIS. n
+P l
+y
+u
+PFD (ADI) b
+l
+i
+c
+HSI
+D
+i
+s
+EIS
+t
+r
+i
+b
+MFD?
+u
+t
+i
+One? Two? o
+n
+Multi-Engine EIS?
+Maximum of 6 displays in a network
+
+--- PAGE 29 ---
+GI – Configuration March 30, 2026
+8:38 AM
+29
+Let’s establish our EFIS displays by
+F
+o
+r
+assignin g the Unit Configuration.
+R
+e
+f
+e
+Note: The GI STC we’re walking thru is the
+r
+e
+N
+n
+oPart 23 AML STC Installation
+c
+t e
+Docum
+f
+enotation, this means we’re wo rOking
+r n
+with ‘Fixed Wing P ’ Aircraft Type. l y
+u
+b
+If you’re working with a rotorlcriaft, follow the
+c
+Part 27 Installation documentation. D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 30 ---
+March 30, 2026
+8:38 AM
+30
+F
+NOTES
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t The GI STC we’re waleking thru is the Part 23 AML STC
+f
+o O
+Irnstallation Documentation, thnis means we’re working
+P l
+y
+u
+with ‘Fixed Wing’ Aircraft Type.
+b
+l
+i
+c
+D
+i
+s
+If you’re working with a rotorcratft, follow the Part 27
+r
+i
+b
+Installation documentation u
+t
+i
+o
+n
+
+--- PAGE 31 ---
+GI – Configuration March 30, 2026
+8:38 AM
+31
+Let’s establish our EFIS displays by
+F
+o
+r
+assignin g the Unit Configuration
+R
+e
+f
+e
+Tap: Unit Configuration
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 32 ---
+GI – Configuration March 30, 2026
+8:38 AM
+32
+Let’s establish our EFIS displays by
+F
+o
+r
+assignin g the Unit Configuration
+R
+e
+f
+e
+Tap: Unit Configuration
+r
+e
+N
+n
+oTap: Instrument Type c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 33 ---
+GI – Configuration March 30, 2026
+8:38 AM
+33
+Let’s establish our EFIS displays by
+F
+o
+r
+assignin g the Unit Configuration
+R
+e
+f
+e
+Tap: Unit Configuration
+r
+e
+N
+n
+oTap: Instrument Type c
+t e
+f
+o O
+Choose your Type:
+r n
+P l
+y
+ADI for our ‘PFD’ u
+b
+l
+HSI i
+c
+D
+EIS
+i
+s
+t
+MFD r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 34 ---
+GI – Configuration March 30, 2026
+8:38 AM
+34
+Once we have our ADI established
+F
+o
+r
+PreferabRly GI 1
+e
+f
+e
+Preferably the “Smartest” GI in the system
+r
+e
+N
+n
+oMust be an ADAHRS model for cADI
+t e
+f
+o O
+We’ll want anr HSI for our directional n
+P l
+y
+u
+indicator or EHSI to give us our GPS
+b
+l
+i
+c
+Moving Map
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 35 ---
+GI – Configuration March 30, 2026
+8:38 AM
+35
+Once we have our ADI established
+F
+o
+r
+PreferabRly GI 1
+e
+f
+e
+Preferably the “Smartest” GI in the system
+r
+e
+N
+n
+oMust be an ADAHRS model for cADI
+t e
+f
+o O
+We’ll want anr HSI for our directional n
+P l
+y
+u
+indicator or EHSI to give us our GPS
+b
+l
+i
+c
+Moving Map
+D
+i
+s
+t
+Requires ADAHRS for EHSI functions r
+i
+b
+u
+Must be ADAHRS if it’s to be the t
+i
+o
+n
+Integrated Electronic Standby Instrument
+
+--- PAGE 36 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+36
+Next Steps:
+F
+o
+r
+R
+e
+f
+e
+r
+Identify e
+N
+n
+o c
+t e
+f
+o O
+r n
+Configure
+P l
+y
+u
+b
+l
+i
+c
+D
+Calibrate
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 37 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+37
+Configure
+F
+o
+r
+EstablisRh Interfaces
+e
+f
+e
+IFR Navigators
+r
+e
+N
+n
+oTransponders
+c
+t e
+f
+Additioonal Systems O
+r n
+P l
+Identify LRU’s for EFIS Systems y
+u
+b
+l
+GMU i
+c
+D
+GTP i
+s
+t
+r
+GEA i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 38 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+38
+Next Steps:
+F
+o
+r
+R
+e
+f
+e
+r
+Identify e
+N
+n
+o c
+t e
+f
+o O
+r n
+Configure
+P l
+y
+u
+b
+l
+i
+c
+D
+Calibrate
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 39 ---
+GI – Configuration Checklist March 30, 2026
+8:38 AM
+39
+Calibrate
+F
+o
+r
+SystemsR will need individual
+e
+f
+calibration for fineal checkout and
+r
+e
+N
+installation delivery n
+o c
+t e
+f
+GI 275 Paort 23 AML STC O
+r n
+P l
+Installation Manual y
+u
+b
+l
+Section 5.8 covers Calibrationi and
+c
+various system checks. D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 40 ---
+Shameless Plug March 30, 2026
+8:38 AM
+40
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 41 ---
+March 30, 2026
+8:38 AM
+41
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+The first step for configurilngi the GI 275 EFIS system is:
+c
+D
+i
+s
+t
+A. Assign the System ID r
+i
+b
+u
+t
+B. Choosing the proper Unit ID i
+o
+n
+C. Choosing the proper Unit Type
+D. Selecting the Master Display
+
+--- PAGE 42 ---
+March 30, 2026
+8:38 AM
+42
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+The first step for configurilngi the GI 275 EFIS system is:
+c
+D
+i
+s
+t
+A. Assign the System ID r
+i
+b
+u
+t
+B. Choosing the proper Unit ID i
+o
+n
+C. Choosing the proper Unit Type
+D. Selecting the Master Display
+
+--- PAGE 43 ---
+March 30, 2026
+8:38 AM
+43
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+True or False: GI 275 offers full EFIS Function with as little
+b
+l
+i
+c
+as three instr uments?
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 44 ---
+March 30, 2026
+8:38 AM
+44
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+True or False: GI 275 offers full EFIS Function with as little
+b
+l
+i
+c
+as three instr uments?
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 45 ---
+March 30, 2026
+8:38 AM
+45
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+True or False: FAA AC 25 -11b offers guidance on EFIS
+b
+l
+i
+c
+systems and their requirements
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 46 ---
+March 30, 2026
+8:38 AM
+46
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+True or False: FAA AC 25 -11b offers guidance on EFIS
+b
+l
+i
+c
+systems and their requirements
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 47 ---
+March 30, 2026
+8:38 AM
+47
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+True or False: a pair of ADAHRS GI 275’s can replace a full
+b
+l
+i
+c
+6 -pack of traditional an alog instruments?
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 48 ---
+March 30, 2026
+8:38 AM
+48
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+True or False: a pair of ADAHRS GI 275’s can replace a full
+b
+l
+i
+c
+6 -pack of traditional an alog instruments?
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 49 ---
+March 30, 2026
+8:38 AM
+49
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+I participated in the Red Rolomi EFIS Configuration Section
+c
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 50 ---
+Recap
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+We examined the FAeA’s definitions
+r
+e
+N
+n
+for EFoIS system and the Advisor
+c
+y
+t e
+f
+Circular (25-1o1B) which offers guidelinOes
+r n
+P l
+y
+on systems and installautions
+b
+l
+i
+c
+We broke down the Config Workflo w
+D
+i
+s
+t
+Identify r
+i
+b
+u
+Configure
+t
+i
+o
+Calibrate n
+Walked thru the initial start up configuration steps to
+Identify and Configure the GI-275 network to operate as an EFIS.
+
+--- PAGE 51 ---
+March 30, 2026
+8:38 AM
+51
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+Any Questions? i b
+u
+t
+i
+o
+n
+
+--- PAGE 52 ---
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+Thank You!
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+Chris Hendrix i
+b
+u
+t
+i
+o
+n
+Senior Aviation Maintenance Instructor
+Garmin Aviation Training
+Aviation.training@garmin.com

@@ -1,0 +1,295 @@
+--- PAGE 2 ---
+Regulatory Rise & Shine
+Ric Peri
+Aircraft Electronics Association
+ricp@aea.net
+202-589-1144
+
+--- PAGE 3 ---
+From the FAA
+
+--- PAGE 4 ---
+Final Rule
+• Inspection Programs for Single-Engine Turbine-Powered Airplanes and
+Unmanned Aircraft; Miscellaneous Maintenance-Related Updates
+• Directly affecting repair stations by proposing to amend:
+• 14 CFR 145.109 by removing the last sentence and its prescriptive list of documents in
+§145.109(d).
+• §§145.201(a)(2) and 145.217 (Contract Maintenance),
+• Currently at DOT awaiting signature.
+
+--- PAGE 5 ---
+§ 145.109 Equipment, materials, and data requirements.
+• (d) A certificated repair station must maintain, in a format acceptable to
+the FAA, the documents and data required for the performance of
+maintenance, preventive maintenance, or alterations under its repair
+station certificate and operations specifications in accordance with part
+43. The following documents and data must be current and accessible
+when the relevant work is being done:
+(1) Airworthiness directives,
+(2) Instructions for continued airworthiness,
+(3) Maintenance manuals,
+(4) Overhaul manuals,
+(5) Standard practice manuals,
+(6) Service bulletins, and
+(7) Other applicable data acceptable to or approved by the FAA.
+
+--- PAGE 6 ---
+We Ask – FAA Answers
+• New part 43 (43.3/43.7) proposal being processed:
+• Mutual Acceptance of Maintenance
+
+--- PAGE 7 ---
+We Ask – FAA Answers
+We [FAA] conclude that the
+CAET certification program
+provides current,
+comprehensive, and rigorous
+assessments, and is an
+acceptable AMOC.
+As such, it meets the intent of
+the regulatory requirements
+outlined in 14 CFR §
+65.101(a)(5)(ii) for the issuance
+of a repairman’s certificate.
+
+--- PAGE 8 ---
+ADS-B
+• When testing ADS-B please validate that you are using the
+prescribed RF shielding equipment to prevent HMI (Hazardously
+Misleading Information) events at your repair station/airport.
+• The ADS-B Focus Team (AFT) refers to these as Ramp Test Events and
+are checked daily by an Inspector with the AFT. Most of these events
+are caused by not following the Aircrafts Maintenance Manual. The AFT
+also see “escapes” caused by improper use of the transponder antenna
+shields or RF Blankets. Refer to the Safety Alert for Operators (SAFO)
+17002, “Improper Transponder and Automatic Dependent Surveillance-
+Broadcast (ADS-B) OUT Equipment Testing”.
+
+--- PAGE 9 ---
+ADS-B
+• When repairing/replacing ADS-B components please request a
+Public ADS-B Performance Report (PAPR) as your final
+confirmation that the system is operating appropriately as
+required.
+• When replacing a transponder, make sure the transponder is
+programmed with the aircraft’s correct N-number and corresponding
+ICAO address.
+
+--- PAGE 10 ---
+ADS-B
+• The AFT highly recommends that IA mechanics request a Public ADS-
+B Performance Report (PAPR) before performing an Annual
+Inspection, to check the aircraft’s ADS-B for compliance with
+§91.227.
+• https://adsbperformance.faa.gov/PAPRRequest.aspx
+• If an individual has trouble requesting a Public ADS-B Performance Report
+(PAPR), contact the ADS-B Focus Team at adsbfocusteam@faa.gov or 9-AWA-
+AFS-300-ADSB-AvionicsCheck (FAA) for assistance.
+
+--- PAGE 11 ---
+AC 43.13-1
+• The Advisory Circular AC 43.13-1 is in the beginning stages of a
+rewrite affecting several chapters.
+• An online format change will be changing the numbering and
+sequence of the topics; and the addition of one new topic.
+
+--- PAGE 12 ---
+Cockpit Voice Recorder (CVR)
+• Per the FAA Reauthorization Act of 2024, Title III Aviation Safety
+Improvements, Section 366 - 25 HR Cockpit Voice Recorder
+(CVR), the Forward Fit (newly manufactured aircraft) has been
+released affecting 14 CFR Parts 91, 121, 125, 129 and 135
+operators and the retrofit portion (existing aircraft) will be
+released in a subsequent rulemaking document.
+
+--- PAGE 13 ---
+25-Hour Cockpit Voice Recorder (CVR) Requirement,
+New Aircraft Production
+• Final rule published February 2, 2026.
+• This final rule increases the recording time of cockpit voice recorders
+(CVRs) from the currently mandated 2 hours to 25 hours for all affected
+future manufactured aircraft. This action provides accident
+investigators, aircraft operators, and civil aviation authorities with
+substantially more CVR data to help determine the probable causes of
+incidents and accidents and prevent future incidents and accidents.
+The action will also align the Federal Aviation Administration’s (FAA)
+regulations more closely with existing international requirements.
+
+--- PAGE 14 ---
+§91.609 Flight data recorders and cockpit voice recorders.
+• (i) (2) Retains at least—
+• (i) The last 25 hours of recorded information using a recorder that meets the
+standards of TSO–C123c, or later revision, if:
+• (A) Manufactured on or after May 16, 2025, for transport category aircraft type-
+certificated with 30 or more passenger seats, or
+• (B) Manufactured on or after February 2, 2027, for airplanes or rotorcraft with a maximum
+certified takeoff weight (MCTOW) of 59,525 pounds or more and type-certificated for 29
+or fewer passenger seats; or
+• (C) Manufactured on or after February 2, 2029, for airplanes or rotorcraft with a
+maximum certified takeoff weight (MCTOW) of 59,524 pounds or less; or (ii) …
+(*** 14 CFR Part 91, 125, 135 ***)
+
+--- PAGE 15 ---
+Cockpit Voice Recorder (CVR) - retroactive
+NOTE:
+• Section 366 is a self-enacting statute per the FAA
+Reauthorization Act of 2024 (law), so operators are required to
+still meet those requirements of 366.
+(https://www.govinfo.gov/content/pkg/PLAW-
+118publ63/pdf/PLAW-118publ63.pdf)
+
+--- PAGE 16 ---
+SEC. 366. 25-HOUR COCKPIT VOICE RECORDER.
+• (a) IN GENERAL
+• (2) COCKPIT VOICE RECORDER FOR COVERED AIRCRAFT.— Not later than 6
+years after the date of enactment of this Act, a covered operator may not
+operate a covered aircraft unless such aircraft has a cockpit voice recorder
+installed that retains the last 25 hours of recorded information using a
+recorder that meets the standards of Technical Standard Order TSO–C123c,
+or any later revision.
+
+--- PAGE 17 ---
+SEC. 366. 25-HOUR COCKPIT VOICE RECORDER.
+• (f) DEFINITIONS.—In this section:
+• (1) COVERED AIRCRAFT.—The term ‘‘covered aircraft’’ means—
+• (A) an aircraft operated by an air carrier under part 121 of title 14, Code of Federal
+Regulations; or
+• (B) a transport category aircraft designed for operations by an air carrier or foreign air
+carrier type-certificated with a passenger seating capacity of 30 or more or an all-cargo
+or combi derivative of such an aircraft.
+
+--- PAGE 18 ---
+GPS repeaters
+• FAA is seeing the use of GPS repeaters inappropriately, if you are
+operating one you should have an FCC license, if you do not, and are
+using it, you should deactivate and secure it.
+• The use of a GPS repeater inappropriately is an enforceable event
+from both the FAA and the FCC.
+
+--- PAGE 19 ---
+GPS repeaters
+• Federal law prohibits the operation, marketing, or sale of any type of
+jamming equipment that interferes with authorized radio
+communications, including cellular and Personal Communication
+Services (PCS), police radar, and Global Positioning Systems (GPS).
+
+--- PAGE 20 ---
+GPS repeaters
+• The following statement is from a supplier:
+• U.S. commercial customers must provide proof of authorization from the
+FCC. U.S. Government and military users must provide proof of authorization
+from the NTIA. Authorization/licensing needs to be obtained before
+purchase. For further information regarding NTIA requirements, see Chapter
+8.3.28 of the NTIA manual. For further information regarding NTIA
+requirements, see: https://apps.fcc.gov/coresWeb/publicHome.do
+
+--- PAGE 21 ---
+GPS repeaters
+• Additional from a supplier:
+• Current GPS Re-Radiating Kit Regulatory Concerns The regulatory policy that
+is currently in effect allows GPS Re-Radiating Kits to be sold to the following:
+• International Customers (outside the U.S.)
+• Agencies of the US Federal Government --All Branches of the US Military --Parties
+Operating under the Direction of US Federal Government
+• Parties that have received an STA or Experimental License under part 5 of the FCC rules
+• Parties that will be operating GPS Re-Radiators in a shielded room or under an approved
+GPS Networking Re-Radiating Hood
+
+--- PAGE 22 ---
+GPS repeaters
+• FAA is seeing the use of GPS repeaters inappropriately, if you are
+operating one you should have an FCC license, if you do not, and are
+using it, you should deactivate and secure it.
+• The use of a GPS repeater inappropriately is an enforceable event
+from both the FAA and the FCC.
+
+--- PAGE 23 ---
+GPS repeaters
+• FAA is seeing the use of GPS repeaters inappropriately, if you are
+operating one you should have an FCC license, if you do not, and are
+using it, you should deactivate and secure it.
+• The use of a GPS repeater inappropriately is an enforceable event
+from both the FAA and the FCC.
+
+--- PAGE 24 ---
+Suspected Unapproved Parts
+
+--- PAGE 25 ---
+Suspected Unapproved Parts
+• PURPOSE
+• This notification advises all aircraft owners, operators,
+manufacturers, maintenance organizations, parts suppliers, and
+distributors of the referenced articles manufactured or sold by
+Superior Panel Technology that the referenced articles may not meet
+FAA production approval.
+
+--- PAGE 26 ---
+§ 21.9 Replacement and modification articles.
+• (a) If a person knows, or should know, that a replacement or modification
+article is reasonably likely to be installed on a type-certificated product,
+the person may not produce that article unless it is—
+• (1) Produced under a type certificate;
+• (2) Produced under an FAA production approval;
+• (3) A standard part (such as a nut or bolt) manufactured in compliance with a
+government or established industry specification;
+• (4) A commercial part as defined in § 21.1 of this part;
+• (5) Produced by an owner or operator for maintaining or altering that owner or
+operator's product;
+• (6) Fabricated by an appropriately rated certificate holder with a quality system, and
+consumed in the repair or alteration of a product or article in accordance with part
+43 of this chapter; or
+• (7) Produced in any other manner approved by the FAA.
+
+--- PAGE 27 ---
+Suspected Unapproved Parts
+• RECOMMENDATIONS
+• FAA regulations require that type-certificated products conform to
+their type design.
+
+--- PAGE 28 ---
+Suspected Unapproved Parts
+• RECOMMENDATIONS
+• The FAA encourages aircraft owners, operators, manufacturers,
+maintenance organizations, and parts suppliers and distributors to
+inspect their aircraft and aircraft parts inventory for the referenced
+part numbers.
+
+--- PAGE 29 ---
+Suspected Unapproved Parts
+• RECOMMENDATIONS
+• If these Fiberlites are found in existing inventory, the FAA
+recommends that they be quarantined to prevent installation until a
+determination can be made regarding their eligibility for installation.
+
+--- PAGE 30 ---
+§ 21.8 Approval of articles.
+• If an article is required to be approved under this chapter, it may be
+approved—
+a) Under a PMA;
+b) Under a TSO;
+c) In conjunction with type certification procedures for a product; or
+d) In any other manner approved by the FAA.
+
+--- PAGE 31 ---
+§ 43.13 Performance rules (general).
+• (b) Each person maintaining or altering, or performing preventive
+maintenance, shall do that work in such a manner and use materials
+of such a quality, that the condition of the aircraft, airframe, aircraft
+engine, propeller, or appliance worked on will be at least equal to its
+original or properly altered condition (with regard to aerodynamic
+function, structural strength, resistance to vibration and
+deterioration, and other qualities affecting airworthiness).
+
+--- PAGE 32 ---
+AC No: 20-62E: Eligibility, Quality, and Identification of
+Aeronautical Replacement Parts
+• b. Acceptable Parts. The following parts may be found to be
+acceptable for installation on a TC’d product:
+(3) Parts for which inspections and tests have been accomplished by
+appropriately certificated persons authorized to determine conformity to FAA-
+approved design.
+
+--- PAGE 33 ---
+Thank you
+Questions?

@@ -1,0 +1,2722 @@
+--- PAGE 1 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+FlyGarmin Adminstration
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+What FlyGarmin users and service
+centers really need to know
+
+--- PAGE 2 ---
+March 30, 2026
+Legal Statement
+9:34 AM
+2
+F
+o
+r
+R
+e
+f
+e
+Garmin Aviation Traininrg is intended to provide the best practices for
+e
+N
+n
+o c
+the insttallation, use and maintenanece of Garmin Aviation products. It
+f
+o O
+r n
+is incumbent on te chnicians and pilots to ensure that the instructions
+P l
+y
+u
+b
+contained in the most recent versions of Garmin product manuals,
+l
+i
+c
+bulletins and notifications are followeDd.
+i
+s
+t
+r
+i
+b
+u
+© GARMIN LTD. OR ITS SUBSIDARIES. ALL RIGHTS RESERVED.
+t
+i
+o
+n
+
+--- PAGE 3 ---
+Objectives
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+For Dealers: o O
+r n
+P l
+y
+Adding New Users to Fl
+u
+yGarmin
+b
+l
+i
+c
+Adding GDL 60 to your Customer’s FlyGarmin
+D
+i
+s
+t
+For Service Centers: r
+i
+b
+u
+Managing Customer’s Accounts t
+i
+o
+n
+Linking accounts and managing who has access to what
+
+--- PAGE 4 ---
+Objectives
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+After comtpleting this section, you
+e
+will:
+f
+o O
+r n
+Understand the br eakdown of Garmin’s
+P l
+y
+u
+GFC 500 Model Specific Adbdendums for
+l
+i
+c
+Autopilot Installation.
+D
+i
+s
+Better articulate the common faults as presentetd by
+r
+i
+b
+the notes and advice by Garmin Autopilot u
+t
+i
+o
+Subject Matter Experts.
+n
+Identify work processes for better installation experiences.
+
+--- PAGE 5 ---
+Establishing Customer’s FlyGarmin March 30, 2026
+9:34 AM
+5
+Step 1: Establish an
+F
+o
+account for your
+r
+R
+customer or assist your
+e
+f
+customer in establieshing
+r
+e
+Na Fly.Garmin.com n
+o c
+accoutnt. (This is e
+f
+o O
+mandatory) r n
+P l
+y
+u
+b
+l
+i
+c
+If the customer has an
+D
+i
+existing Fly.Garmin.com s
+t
+r
+account, you will need to i b
+u
+access the customer’s t
+i
+o
+account to add the n
+newly installed
+equipment. (Skip to step
+4).
+
+--- PAGE 6 ---
+Establishing Customer’s FlyGarmin March 30, 2026
+9:34 AM
+6
+SFtep 2: Add your
+o
+r
+custome rRs’ devices to
+e
+f
+the newly createde
+r
+e
+N
+n
+acocount
+c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 7 ---
+Establishing Customer’s FlyGarmin March 30, 2026
+9:34 AM
+7
+SFtep 3: Transfer the
+o
+r
+newly cr eRated account
+e
+f
+to the customer e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 8 ---
+Customer’s FlyGarmin Established! March 30, 2026
+9:34 AM
+8
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 9 ---
+Customer’s FlyGarmin Established! March 30, 2026
+9:34 AM
+9
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 10 ---
+Handshake with Customer’s FlyGarmin March 30, 2026
+9:34 AM
+10
+Step 4: Request
+F
+o
+accessr to the
+R
+e
+customers accofunt via
+e
+r
+Nthe Dealer Tab -> drop e
+n
+o c
+downt -> Manage e
+f
+o O
+Customer Air r craft n
+P l
+y
+u
+b
+l
+i
+c
+Must be granted D
+i
+s
+t
+Dealer Status in r
+i
+b
+u
+FlyGarmin
+t
+i
+o
+n
+DealerApps.Support@
+Garmin.com
+
+--- PAGE 11 ---
+Handshake with Customer’s FlyGarmin March 30, 2026
+9:34 AM
+11
+Step 4: Request
+F
+o
+accessr to the
+R
+e
+customers accofunt via
+e
+r
+Nthe Dealer Tab -> drop e
+n
+o c
+downt -> Manage e
+f
+o O
+Customer Air r craft n
+P l
+y
+u
+b
+l
+i
+c
+Must be granted D
+i
+s
+t
+Dealer Status in r
+i
+b
+u
+FlyGarmin
+t
+i
+o
+n
+DealerApps.Support@
+Garmin.com
+
+--- PAGE 12 ---
+Managing Flygarmin March 30, 2026
+9:34 AM
+12
+TFap
+o
+r
+R
+‘Search For Account’
+e
+f
+e
+r
+e
+Nto find the Customer’s
+n
+o c
+t e
+FlyGarm fin Account
+o O
+r n
+and ask for accePss. l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 13 ---
+Managing Flygarmin March 30, 2026
+9:34 AM
+13
+FFrom Dealer Tab:
+o
+r
+R
+Manage Customer
+e
+f
+e
+Aircraft and Devices r
+e
+N
+n
+o c
+t e
+Search ffor the
+o O
+r n
+customers’ accoPunt l
+y
+u
+b
+using their email l
+i
+c
+D
+address.
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 14 ---
+Managing Flygarmin March 30, 2026
+9:34 AM
+14
+SFelect Search
+o
+r
+R
+The customer’s
+e
+f
+e
+FlyGarmin account isr
+e
+N
+n
+o c
+foundt.
+e
+f
+o O
+r n
+Select Submit AcPcess l
+y
+u Joe Customer
+b
+Request l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 15 ---
+Managing Flygarmin March 30, 2026
+9:34 AM
+15
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 16 ---
+Managing Flygarmin March 30, 2026
+9:34 AM
+16
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 17 ---
+Managing Flygarmin March 30, 2026
+9:34 AM
+17
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 18 ---
+Managing Flygarmin March 30, 2026
+9:34 AM
+18
+NFow that we’ve created
+o
+r
+our Cust oRmer’s FlyGarmin
+e
+f
+Account and estaeblished
+r
+e
+N
+n
+theo Dealer ‘Handshake’
+c
+t e
+f
+o O
+Let’s look at trhe process n
+P l
+y
+u
+for adding the GDL 60 fbor
+l
+i
+c
+the customer and D
+i
+s
+t
+activating the GDL for
+r
+i
+b
+u
+Database Management
+t
+i
+o
+n
+
+--- PAGE 19 ---
+Adding a GDL 60 March 30, 2026
+9:34 AM
+22
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 20 ---
+Adding a GDL 60 March 30, 2026
+9:34 AM
+23
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 21 ---
+Adding a GDL 60 March 30, 2026
+9:34 AM
+24
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 22 ---
+Adding a GDL 60 March 30, 2026
+9:34 AM
+25
+F
+o
+Search for the GDL 60 and click on the image of the GDL 60
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l Search
+i
+c
+for the
+D
+i
+GDL s
+t
+r
+60 and i
+b
+u
+click
+t
+i
+o
+on the
+n
+image
+of the
+GDL
+60:
+
+--- PAGE 23 ---
+Adding a GDL 60 March 30, 2026
+9:34 AM
+26
+F Add the Device
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 24 ---
+Adding a GDL 60 March 30, 2026
+9:34 AM
+27
+Once the device is added it will now be ready to activate
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 25 ---
+March 30, 2026
+9:34 AM
+28
+F
+o
+When Activate is selected you will be asked if the system is
+r
+R
+capablee of RAS (Remote Aircraft Status). Select Yes or No and
+f
+e
+r continue
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 26 ---
+March 30, 2026
+Adding a GDL 60
+9:34 AM
+29
+F
+o
+Once you select continue the system will reciprocate with
+r
+R
+a eone-time code to enter into the avionics (GTN Xi)
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 27 ---
+March 30, 2026
+Adding a GDL 60
+9:34 AM
+30
+Ensure the Avionics has an
+F
+o
+r
+establish ed internet connection
+R
+e
+f
+under GTN Xi – Syestem - Connext
+r
+e
+N
+n
+Setup - Networks & Pairing
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+Home -> System: l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 28 ---
+March 30, 2026
+Adding a GDL 60
+9:34 AM
+31
+Ensure the Avionics has an
+F
+o
+r
+establish ed internet connection
+R
+e
+f
+under GTN Xi – Syestem - Connext
+r
+e
+N
+n
+Setup - Networks & Pairing
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+Home -> System: l
+i
+c
+D
+i
+Connext Setup: s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 29 ---
+March 30, 2026
+Adding a GDL 60
+9:34 AM
+32
+Ensure the Avionics has an
+F
+o
+r
+establish ed internet connection
+R
+e
+f
+under GTN Xi: e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+Home -> SystemP: l
+y
+u
+b
+l
+i
+Connext Setup: c
+D
+i
+s
+Networks & Pairing t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 30 ---
+March 30, 2026
+Adding a GDL 60
+9:34 AM
+33
+Make sure that external WiFi is
+F
+o
+r
+available (LTE optional) it’s
+R
+e
+f
+enabled and conneected:
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 31 ---
+March 30, 2026
+Adding a GDL 60
+9:34 AM
+34
+Return to the registration
+F
+o
+r
+selection and once available
+R
+e
+f
+select One-time coede and enter
+r
+e
+N
+n
+your code
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 32 ---
+March 30, 2026
+Adding a GDL 60
+9:34 AM
+35
+Return to the registration
+F
+o
+r
+selection and once available
+R
+e
+f
+select One-time coede and enter
+r
+e
+N
+n
+your code
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 33 ---
+March 30, 2026
+Adding a GDL 60
+9:34 AM
+36
+Once registered, the system will
+F
+o
+r
+show “R egistered” status…
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+The GD L 60 is now registered
+f
+o O
+r n
+and ready for triaPl services l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 34 ---
+March 30, 2026
+9:34 AM
+37
+F
+NOTES
+o
+r
+R
+e
+f
+e
+Additional Resources
+r
+e
+N
+n
+o c
+t GDL 60-GTN Xi Regeistration & Activation Guide
+f
+o O
+r n
+an d several articles at support.garmin.com
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+Dealer Training Academy several videos
+t
+r
+i
+b
+covering GTN Xi user operation and uPlaneSync.
+t
+i
+o
+n
+
+--- PAGE 35 ---
+March 30, 2026
+9:34 AM
+38
+F
+NOTES
+o
+r
+R
+e
+f
+e
+r Final Note
+e
+N
+n
+o c
+t e
+Software, when updating devices interfaced to
+f
+o O
+r n
+the PGDL 60 (i.e. GTN Xi) verifly per the Master
+y
+u
+b
+Drawing Listl the GDL 60 required software.
+i
+c
+D
+i
+s
+t
+r
+i
+b
+It is NOT always covered by the suupporting
+t
+i
+o
+device software bulletin. n
+
+--- PAGE 36 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+Managing Users
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 37 ---
+March 30, 2026
+Connected Cockpit Admin
+9:34 AM
+42
+F The administrator can manage users that will have access to the aircraft
+o
+r MANAGE SHARING
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 38 ---
+March 30, 2026
+Connected Cockpit Admin
+9:34 AM
+43
+F The administrator can manage users that will have access to the aircraft
+o
+r MANAGE SHARING
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 39 ---
+March 30, 2026
+Connected Cockpit Admin
+9:34 AM
+44
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 40 ---
+March 30, 2026
+Connected Cockpit Admin
+9:34 AM
+45
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 41 ---
+March 30, 2026
+Connected Cockpit Admin
+9:34 AM
+46
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 42 ---
+Connected Cockpit Admin March 30, 2026
+9:34 AM
+47
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+Aircraft Afdministrator
+o O
+r n
+P l
+y
+Aircraft User u
+b
+l What Do these Roles mean
+i
+c
+Aircraft User (RAS Receive) D
+i
+s
+t
+r
+Aircraft User (RAS Trigger) i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 43 ---
+Connected Cockpit Admin March 30, 2026
+9:34 AM
+48
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+Aircraft Afdministrator
+o O
+r n
+P l
+y
+Aircraft User u Allows this u ser to view, manage,
+b
+l
+i
+c
+Aircraft User (RAS Receive) aDnd share this aircraft.
+i
+s
+t
+r
+Aircraft User (RAS Trigger) i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 44 ---
+Connected Cockpit Admin March 30, 2026
+9:34 AM
+49
+F
+o
+r
+R
+e
+f
+e Allows this user to view,
+r
+e
+N
+n
+o c manage, and share this
+t e
+Aircraft Afdministrator
+o O
+aircraft.
+r n
+P l
+y
+Aircraft User u
+b This role is the keys to add
+l
+i
+c
+Aircraft User (RAS Receive) Dand remove other users. As
+i
+s
+t
+well as mraking any changes
+Aircraft User (RAS Trigger) i
+b
+u
+to the aircraft sucht as buying
+i
+o
+n
+databases etc.
+
+--- PAGE 45 ---
+Connected Cockpit Admin March 30, 2026
+9:34 AM
+50
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+Aircraft Afdministrator
+o O
+r n
+P l
+y
+Aircraft User u
+Allows User to view the
+b
+l
+i
+c
+aircraft
+Aircraft User (RAS Receive) D
+i
+s
+t
+r
+Aircraft User (RAS Trigger) i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 46 ---
+Connected Cockpit Admin March 30, 2026
+9:34 AM
+51
+F
+o
+r
+R
+e
+f
+e Allows User to view the
+r
+e
+N
+n aircraft
+o c
+t e
+Aircraft Afdministrator
+o O
+r This w n ill allow the user to see
+P l
+y
+Aircraft User u
+the aircraft in fly Garmin.
+b
+l
+i
+c
+Aircraft User (RAS Receive) D
+This can be useful if they only
+i
+s
+t
+want to sree database status
+Aircraft User (RAS Trigger) i
+b
+u
+or manually retrievte
+i
+o
+n
+databases
+
+--- PAGE 47 ---
+Connected Cockpit Admin March 30, 2026
+9:34 AM
+52
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+Aircraft Afdministrator
+o O
+r Allow n s this user to receive
+P l
+y
+Aircraft User u
+flight data logs and
+b
+l
+i
+c
+dashboard status from all
+Aircraft User (RAS Receive) D
+i
+s
+events ton this aircraft.
+r
+Aircraft User (RAS Trigger) i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 48 ---
+Connected Cockpit Admin March 30, 2026
+9:34 AM
+53
+F
+o Allows this user to receive
+r
+R
+e flight data logs and
+f
+e
+r
+dashboard status from all
+e
+N
+n
+o c
+t eevents on this aircraft.
+Aircraft Afdministrator
+o O
+r n
+P This willl leyt a user see the
+Aircraft User u
+b
+l information after and RAS
+i
+c
+Aircraft User (RAS Receive) D
+eveint has occurred but will
+s
+t
+r
+Aircraft User (RAS Trigger) not allow thie user to trigger
+b
+u
+t
+an event i
+o
+n
+It includes all permissions
+included in aircraft user
+
+--- PAGE 49 ---
+Connected Cockpit Admin March 30, 2026
+9:34 AM
+54
+F
+o
+r
+R
+e
+f Enables the user to query the
+e
+r
+e
+N aircraft anytime to refresh the
+n
+o c
+t e
+dashboard status and receive
+Aircraft Afdministrator
+o O
+r n
+P flight datla logs and status
+y
+Aircraft User u
+b
+updates for all events related to
+l
+i
+c
+Aircraft User (RAS Receive) Dthe aircraft.
+i
+s
+t
+r
+Aircraft User (RAS Trigger) This includies all permissions
+b
+u
+t
+included in the RAS iReceive
+o
+n
+and Aircraft User
+
+--- PAGE 50 ---
+March 30, 2026
+Connected Cockpit Admin
+9:34 AM
+55
+F Once added the administrator can EDIT and invite other users
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 51 ---
+March 30, 2026
+Connected Cockpit Admin
+9:34 AM
+56
+F
+The user will receive an email to access the aircraft
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 52 ---
+March 30, 2026
+Connected Cockpit Admin
+9:34 AM
+57
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 53 ---
+March 30, 2026
+Connected Cockpit Admin
+9:34 AM
+58
+Accept or Decline invite
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 54 ---
+March 30, 2026
+Connected Cockpit Admin
+9:34 AM
+59
+View the aircraft information
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 55 ---
+March 30, 2026
+Connected Cockpit Admin
+9:34 AM
+60
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 56 ---
+March 30, 2026
+9:34 AM
+61
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+Once I have access to my Customier's FlyGarmin Account I can...
+c
+D
+i
+s
+t
+A. Buy databases r
+i
+b
+u
+B. Create Aircraft and Add Devices t
+i
+o
+n
+C. Delete the Account
+D. Manage my Customer's Database Preferences
+E. Change my Customer's Profile picture.
+
+--- PAGE 57 ---
+March 30, 2026
+9:34 AM
+62
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+Once I have access to my Customier's FlyGarmin Account I can...
+c
+D
+i
+s
+t
+A. Buy databases r
+i
+b
+u
+B. Create Aircraft and Add Devices t
+i
+o
+n
+C. Delete the Account
+D. Manage my Customer's Database Preferences
+E. Change my Customer's Profile picture.
+
+--- PAGE 58 ---
+March 30, 2026
+9:34 AM
+63
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+True or False: You can still cbreate accounts for your customers in
+l
+i
+c
+FlyGarm in ?
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False. o
+n
+
+--- PAGE 59 ---
+March 30, 2026
+9:34 AM
+64
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+True or False: You can still cbreate accounts for your customers in
+l
+i
+c
+FlyGarm in ?
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False. o
+n
+
+--- PAGE 60 ---
+March 30, 2026
+9:34 AM
+65
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What does the role "Aircrafbt User (RAS Trigger)" enable a user to
+l
+i
+c
+do ?
+D
+i
+s
+t
+A. View the aircraft r
+i
+b
+u
+t
+B. Receive flight data logs i
+o
+n
+C. Query the aircraft anytime
+D. Manage and share the aircraft
+
+--- PAGE 61 ---
+March 30, 2026
+9:34 AM
+66
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What does the role "Aircrafbt User (RAS Trigger)" enable a user to
+l
+i
+c
+do ?
+D
+i
+s
+t
+A. View the aircraft r
+i
+b
+u
+t
+B. Receive flight data logs i
+o
+n
+C. Query the aircraft anytime
+D. Manage and share the aircraft
+
+--- PAGE 62 ---
+March 30, 2026
+9:34 AM
+67
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What is the greatest source of information learned during
+b
+l
+i
+c
+the certificatio n process?
+D
+i
+s
+t
+A. STC Master Drawing List r
+i
+b
+u
+t
+B. AML STC Installation Manual i
+o
+n
+C. Garmin Service Bulletin or Communique
+D. Installation Manual Addendum
+
+--- PAGE 63 ---
+Summary
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+We’ve reviefwed FlyGarmin and the
+o O
+r n
+P l
+process for adding new users y
+u
+b
+l
+i
+c
+Established the basic instructions for adding
+D
+i
+s
+GDL 60 to our Customer’s FlyGarmin Accounts
+t
+r
+i
+b
+u
+We examined the ‘Handshake’ and how we can add t
+i
+o
+n
+and manage additional users to our FlyGarmin Accounts
+
+--- PAGE 64 ---
+March 30, 2026
+9:34 AM
+69
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+Any Questions? i b
+u
+t
+i
+o
+n
+
+--- PAGE 65 ---
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+Thank You!
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+Nick Wright D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+Lead Aviation Maintenance Instructor
+n
+Garmin Aviation Training
+Aviation.training@garmin.com

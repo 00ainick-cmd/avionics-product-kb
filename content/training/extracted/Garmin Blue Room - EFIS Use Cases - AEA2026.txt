@@ -1,0 +1,1318 @@
+--- PAGE 1 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+EFIS System Use Cases
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+AEA Nationals 2026
+
+--- PAGE 2 ---
+March 30, 2026
+Legal Statement
+9:36 AM
+2
+F
+o
+r
+R
+e
+f
+e
+Garmin Aviation Traininrg is intended to provide the best practices for
+e
+N
+n
+o c
+the insttallation, use and maintenanece of Garmin Aviation products. It
+f
+o O
+r n
+is incumbent on te chnicians and pilots to ensure that the instructions
+P l
+y
+u
+b
+contained in the most recent versions of Garmin product manuals,
+l
+i
+c
+bulletins and notifications are followeDd.
+i
+s
+t
+r
+i
+b
+u
+© GARMIN LTD. OR ITS SUBSIDARIES. ALL RIGHTS RESERVED.
+t
+i
+o
+n
+
+--- PAGE 3 ---
+Desired Learning Outcome March 30, 2026
+9:36 AM
+3
+In this course we'll break down the various intended use cases
+F
+o
+r
+for a giv en EFIS system to satisfy your Certified Aircraft
+R
+e
+f
+Customer. e
+r
+e
+N
+n
+o c
+At the end of this the learner should understand the desired use
+t e
+f
+o O
+case for the frederated EFIS systems Ganrmin has.
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 4 ---
+14 CFR 23.1311 Electronic Display Instrument March 30, 2026
+9:36 AM
+4
+Paragraph B of the Subsection: The
+F
+o
+r
+electron ic display indicators, including
+R
+e
+f
+their systems ande installations, and
+r
+e
+N
+n
+considering other airplane systems, must
+o c
+t e
+f
+be designeod so that one display of O
+r n
+P l
+y
+information essentiaul for continued safe
+b
+l
+i
+flight and landing will remainc available to
+D
+i
+the crew, without need for immediate s
+t
+r
+i
+b
+action by any pilot for continued safe
+u
+t
+i
+o
+operation, after any single failure or
+n
+probable combination of failures.
+
+--- PAGE 5 ---
+14 CFR 23.1311 Electronic Display Instrument March 30, 2026
+9:36 AM
+5
+Paragraph C of the Subsection: As used in
+F
+o
+this serction, ‘‘instrument’’ includes devices
+R
+that are physiceally contained in one unit, and
+f
+e
+devices that are comprosed of two or more
+e
+N
+n
+ph o ysically separate units or cocmponents
+t e
+f
+connected otogether (such as a remote O
+r n
+P l
+indicating gyroscopic direction indicator that y
+u
+b
+includes a magnetic sensingl element, a
+i
+c
+D
+gyroscopic unit, an amplifier, and an indicator
+i
+s
+t
+connected together). As used in this section, r
+i
+b
+‘‘primary’’ display refers to the display of a u
+t
+i
+o
+parameter that is located in the instrument
+n
+panel such that the pilot looks at it first when
+wanting to view that parameter.
+
+--- PAGE 6 ---
+March 30, 2026
+14 CFR 23. 2615 Flight, navigation, and powerplant instruments.
+9:36 AM
+6
+Paragraph A of Subsection: Installed
+F
+o
+r systems must provide the flightcrew
+R
+e
+member who sets or monitors parameters
+f
+e
+r
+feor the flight, navigation, and powerplant,
+N
+n
+o c
+t the informeation necessary to do so during
+f
+o O
+r each phase of flinght. This information
+P l
+y
+u
+must:
+b
+l
+i
+c
+(1) Be p resented in a manner that the
+D
+i
+crewmember csan monitor the parameter and
+t
+r
+i
+determine trends, as neebded, to operate the
+u
+t
+airplane; and i
+o
+n
+(2) Include limitations, unless the limitation
+cannot be exceeded in all intended
+operations.
+
+--- PAGE 7 ---
+March 30, 2026
+14 CFR 23. 2615 Flight, navigation, and powerplant instruments.
+9:36 AM
+7
+Paragraph B of Subsection: Indication
+F
+o
+r systems that integrate the display of flight
+R
+e
+or powerplant parameters to operate the
+f
+e
+r
+aeirplane or are required by the operating
+N
+n
+o c
+t rules of tehis chapter must:
+f
+o O
+r n
+(1) Not inhibit the primary display of flight or
+P l
+y
+u
+bpowerplant parameters needed by any
+l
+i
+flighctcrew member in any normal mode of
+D
+operation; anid
+s
+t
+r
+(2) In combination withi other systems, be
+b
+u
+designed and installed so infortmation
+i
+o
+n
+essential for continued safe flight and landing
+will be available to the flightcrew in a timely
+manner after any single failure or probable
+combination of failures.
+
+--- PAGE 8 ---
+FAA Advisory Circular 25.11B March 30, 2026
+9:36 AM
+8
+F
+FAAo Advisory Circular 25.11B offers the
+r
+R
+most compreehensive breakdown of
+f
+e
+Design, Installation, Irntegration, and
+e
+N
+n
+o c
+Approtval of Electronic Flight Deeck
+f
+o O
+displays, com r ponents, and systems n
+P l
+y
+u
+installed in aircraft. b
+l
+i
+c
+D
+EFIS Requires: i
+s
+t
+r
+i
+Primary Flight Display b
+u
+t
+i
+Attitude o
+n
+Altitude
+Airspeed
+Magnetic Heading
+
+--- PAGE 9 ---
+Garmin’s Definitions within 14 CFR March 30, 2026
+9:36 AM
+9
+F
+o
+r
+R
+EFIS Requires:
+e
+f
+e
+Primary Flight Displary
+e
+N
+n
+o c
+tAttitude e
+f
+o O
+Altitude r n
+P l
+y
+Airspeed
+u
+b
+l
+i
+Stabilized Heading c
+D
+i
+Multifunction Display s
+t
+r
+i
+b
+GPS Moving Map
+u
+t
+i
+Pilot Situational Awareness Tools o
+n
+Ancillary and Safety of Flight
+Engine Indication Systems
+
+--- PAGE 10 ---
+G5 March 30, 2026
+9:36 AM
+10
+G5 Electronic Flight Instrument
+F
+o
+r
+Attitud e Indicator
+R
+e
+Turn coordinatorf
+e
+r
+e
+N
+Slip/Skid ball n
+o c
+t e
+HSI pagfe
+o O
+r n
+P l
+y
+Entry point for Technically
+u
+b
+l
+Advanced Aircraft Bare- i
+c
+D
+minimum when paired with an i
+s
+t
+r
+IFR navigator and GFC 500 i
+b
+u
+t
+Digital Autopilot i
+o
+n
+
+--- PAGE 11 ---
+G5 March 30, 2026
+9:36 AM
+11
+This is made to provide
+F
+o
+r
+essentia l instrumentation
+R
+e
+f
+e
+Think replacing the Arttitude
+e
+N
+n
+o c
+Gyro as it fails
+t e
+f
+o O
+r n
+No frills P l
+y
+u
+b
+l
+i
+Limited integration c
+D
+i
+s
+Ideal for VFR Aircraft t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 12 ---
+GI275 March 30, 2026
+9:36 AM
+12
+The GI 275
+F
+o
+r
+DisplaysR
+e
+f
+e
+Primary Attitude Indicator (Attitude, Altitude,
+r
+e
+N
+Airspeed, and Heading) Stanndby Indicator
+o c
+t e
+Horifzontal Situation Indicator (HSI) and
+o O
+r n
+Enhanced HS I
+P l
+y
+u
+Engine Indication Systemb (EIS)
+l
+i
+c
+Multi-Function Display (MFD)
+D
+i
+s
+Full Authority EFIS requiring minimum t
+r
+i
+b
+u
+panel modification
+t
+i
+o
+n
+Ideal for classic aircraft restoration
+
+--- PAGE 13 ---
+GI275 March 30, 2026
+9:36 AM
+13
+The GI275 is made to provide a more
+F
+o
+r
+complet e avionics integration
+R
+e
+f
+experience with meinimal panel
+r
+e
+N
+n
+modification
+o c
+t e
+f
+o O
+Think not onlry Upgrading analog n
+P l
+y
+u
+instruments but also adbding capability
+l
+i
+c
+to the airframe
+D
+i
+s
+t
+r
+Easily Integrated with HSDB systems i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 14 ---
+G3X Touch for Certificated Aircraft March 30, 2026
+9:36 AM
+14
+The G3X
+F
+o
+r
+PrimaRry Attitude Indicator (Attitude,
+e
+Altitude, Airspfeed, and Heading)
+e
+r
+e
+N Horizontal Situation Indicator (HSI)
+n
+o c
+t e
+En gine Indication System (EIS)
+f
+o O
+r n
+Multi-Function Display (MFD)
+P l
+y
+u
+UI designed by G1000 tebam meets
+l
+i
+c
+the desire for a flightdeck
+D
+i
+s
+experience in small aircfaft
+t
+r
+i
+b
+Features two sizes 10.6” and 7” u
+t
+i
+o
+Portrait
+n
+Ideal for aircraft which offer
+upgrade potential
+
+--- PAGE 15 ---
+G3X Touch for Certificated Aircraft March 30, 2026
+9:36 AM
+15
+The G3X
+F
+o
+r
+Made toR provide a Flightdeck like
+e
+f
+experience e
+r
+e
+N
+n
+oAll integration can be done on
+c
+one
+t e
+f
+screen (RoEF: CNS Bar) O
+r n
+P l
+y
+Think a customer who wants to
+u
+b
+l
+improve their experience noti just
+c
+D
+replace broken parts
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 16 ---
+Standby March 30, 2026
+9:36 AM
+16
+The G5 is an Idel candidate as the
+F
+o
+r
+Standby for a G3X
+R
+e
+f
+e
+While the Airspeed and altitude are not
+r
+e
+N
+n
+oprimary indications they are s
+c
+uitable as a
+t e
+second
+f
+aroy indication O
+r n
+P l
+Because it communicates on the Can Bus y
+u
+b
+it is designed to integrate wlitih the G3X
+c
+D
+sytem
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 17 ---
+G500/G600/G700 TXi March 30, 2026
+9:36 AM
+17
+The TXi
+F
+o
+r
+Primary RAttitude Indicator (Attitude,
+e
+Altitude, Airspeefd, and Heading)
+e
+r
+e
+N
+Standby Attitude Indicator (Anttitude,
+o c
+t e
+Altitud e, Airspeed, and Heading)
+f
+o O
+r n
+Horizontal Situa tiPon Indicator (HSI) l
+y
+u
+and HSI Map b
+l
+i
+c
+Engine Indication System (EIS)
+D
+i
+s
+Multi-Function Display (MFD) t
+r
+i
+b
+u
+A range of sizes featuring the largest t
+i
+o
+retrofit screen Garmin produces n
+The GDU 1210, 1060, 700P and 700L are all
+different sizes and can be configured for
+layouts to provide a custom avionics package
+on approved aircraft.
+
+--- PAGE 18 ---
+G500/G600/G700 TXi March 30, 2026
+9:36 AM
+18
+Provides a premium flightdeck
+F
+o
+r
+experien ce
+R
+e
+f
+e
+All integration can be done on
+r
+e
+N
+n
+oone screen
+c
+t e
+f
+Has the coapability to integrate O
+r n
+P l
+with a wide range of avionics y
+u
+b
+both Garmin and non-Garmlini
+c
+D
+(where necessary)
+i
+s
+t
+r
+i
+Ideal for next generation b
+u
+t
+i
+aircraft integrations o
+n
+
+--- PAGE 19 ---
+Standby March 30, 2026
+9:36 AM
+19
+The GI 275 is a suitable Standby
+F
+o
+r
+device fo r TXi
+R
+e
+f
+e
+Primary qualified indications off all flight
+r
+e
+N
+n
+oparameters
+c
+t e
+f
+Communoicates on the HSDB so is a fu O lly
+r n
+P l
+featured standby for TXi y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 20 ---
+American Champion Scout 8GCBC March 30, 2026
+9:36 AM
+20
+Rugged Light VFR
+F
+o
+r
+R
+Minimal Panel
+e
+f
+e
+r
+N e Small aircraft Small mission
+n
+o c
+t e
+f
+o IdOeal candidate for a G5
+r n
+P l
+y
+u
+A small format navigator
+b
+l
+i
+c
+make this a full featured
+D
+i
+s
+upgradte
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 21 ---
+Cessna 195 March 30, 2026
+9:36 AM
+21
+Classic airframe
+F
+o
+r
+R
+Space limited
+e
+f
+e
+r
+NMore integration e
+n
+o c
+t e
+opportu nities
+f
+o O
+r n
+P l
+y
+Ideal candidate for GI 275
+u
+b
+l
+i
+c
+Add a GTN 650Xi for Next
+D
+i
+s
+Generation capabilities t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 22 ---
+Cessna 195 March 30, 2026
+9:36 AM
+22
+Classic airframe
+F
+o
+r
+R
+Space limited
+e
+f
+e
+r
+NMore integration e
+n
+o c
+t e
+opportu nities
+f
+o O
+r n
+P l
+y
+Ideal candidate for GI 275
+u
+b
+l
+i
+c
+Add a GTN 650Xi for Next
+D
+i
+s
+Generation capabilities t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 23 ---
+Beechcraft Bonanza March 30, 2026
+9:36 AM
+23
+AN aircraft with Upgrade
+F
+o
+r
+potential
+R
+e
+f
+e
+Engine STC’s
+r
+e
+N
+n
+o c
+t e Space availability for
+f
+o O
+r additinonal integration
+P l
+y
+u
+b
+l Users tend to invest long-
+i
+c
+D
+term
+i
+s
+t
+r
+i
+b
+Ideal G3X Candidate
+u
+t
+i
+o
+n
+Add GTN and Small format
+for a full featured experience
+
+--- PAGE 24 ---
+Cessna 421 Golden Eagle March 30, 2026
+9:36 AM
+24
+Larger Multi engine
+F
+o
+r
+R
+Candidate for a 135 Operation
+e
+f
+e
+r
+NPossible existing equipement
+n
+o c
+t e
+can be integrated
+f
+o O
+r n
+P l
+y
+Lots of panel space
+u
+b
+l
+i
+c
+Three displays Two GTN’s
+D
+i
+s
+Opportunity for a fully fatured t
+r
+i
+b
+flight deck u
+t
+i
+o
+n
+
+--- PAGE 25 ---
+March 30, 2026
+9:36 AM
+25
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+What makes GI 275 a grealti option for classic airframes
+c
+D
+i
+s
+t
+r
+A. Rear mounted i
+b
+u
+t
+i
+B. Fits a standard instrument cutout o
+n
+C. All in one HSI ADI
+
+--- PAGE 26 ---
+March 30, 2026
+9:36 AM
+26
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+What makes GI 275 a grealti option for classic airframes
+c
+D
+i
+s
+t
+r
+A. Rear mounted i
+b
+u
+t
+i
+B. Fits a standard instrument cutout o
+n
+C. All in one HSI ADI
+
+--- PAGE 27 ---
+March 30, 2026
+9:36 AM
+27
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What about an airframe would necessitate a TXi over a
+b
+l
+i
+c
+G3 X
+D
+i
+s
+t
+A. Over 6000 MGTOW r
+i
+b
+u
+t
+B. Customer wants GFC 500 i
+o
+n
+C. Multi Engine EIS Display
+D. Customer requested Synthetic Vision
+
+--- PAGE 28 ---
+March 30, 2026
+9:36 AM
+28
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What about an airframe would necessitate a TXi over a
+b
+l
+i
+c
+G3 X
+D
+i
+s
+t
+A. Over 6000 MGTOW r
+i
+b
+u
+t
+B. Customer wants GFC 500 i
+o
+n
+C. Multi Engine EIS Display
+D. Customer requested Synthetic Vision
+
+--- PAGE 29 ---
+March 30, 2026
+9:36 AM
+29
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+I attended EFIS System Ulsie Cases in the Blue Room.
+c
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 30 ---
+March 30, 2026
+9:36 AM
+30
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+I attended EFIS System Ulsie Cases in the Blue Room.
+c
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n

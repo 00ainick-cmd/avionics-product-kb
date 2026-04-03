@@ -1,0 +1,2797 @@
+--- PAGE 1 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+GFC 500
+r n
+P l
+y
+u
+b
+l
+i
+Working withc the Addendum
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 2 ---
+March 30, 2026
+Legal Statement
+9:12 AM
+2
+F
+o
+r
+R
+e
+f
+e
+r
+Garmin Aviation Traininge is intended to provide the best practices for
+N
+n
+o c
+the ins t ta llation, use and maintenaence of Garmin Aviation products. It
+f
+o O
+r n
+is incumbent on tePchnicians and pilots to enslure that the instructions
+y
+u
+b
+contained in the most recenlt versions of Garmin product manuals,
+i
+c
+D
+bulletins and notifications are followed.
+i
+s
+c
+t
+r
+i
+b
+© GARMIN LTD. OR ITS SUBSIDARIES. ALL RIGHTS RESERVEDu.
+t
+i
+o
+n
+
+--- PAGE 3 ---
+Objectives
+Monday, March 30, 2026
+F
+o
+Update on SLEP: Tick-tock
+r
+R
+e
+Documentation: f
+e
+r
+e
+N
+n
+Pre-Install Checklist
+o c
+t e
+f
+Master Draowing List O
+r n
+P l
+y
+Model Specific Addenudums
+b
+l
+i
+Cessna 210-5 (Most Recent) c
+D
+i
+Cessna 172 E/S (First Issuance) s
+c
+t
+Gains Addendum r
+i
+b
+u
+Aircraft Flight Manual Supplement t
+i
+o
+n
+
+--- PAGE 4 ---
+Objectives
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+After c t om pleting this section, youe will:
+f
+o O
+r n
+Understand the brPeakdown of Garmin’s l
+y
+u
+b
+GFC 500 Model Specific Addendums for
+l
+i
+c
+Autopilot Installation. D
+i
+s
+c
+Better articulate the common faults as presented by
+t
+r
+i
+b
+the notes and advice by Garmin Autopilot
+u
+t
+i
+Subject Matter Experts. o
+n
+Identify work processes for better installation experiences.
+
+--- PAGE 5 ---
+GSA 28 Service Life Extension Program March 30, 2026
+9:12 AM
+5
+FCertified SB 23024 & Experimental SB 23038
+o
+r
+R
+e
+f
+e
+r
+e
+NTo improve GSA reliabilinty.
+o c
+t e
+f
+o O
+Several design and manufacturing process improvements led
+r n
+P l
+y
+to the current versiuon of GSA 28 (-20/-21 Mod 1), which began
+b
+l
+i
+shipping in September 2022c.
+D
+i
+s
+c
+Service Life Extension Program no cost exchanges for Mod 1
+t
+r
+i
+b
+are allowed for 5 years (4May23 – 4May28). u
+t
+i
+o
+n
+
+--- PAGE 6 ---
+GSA 28 Service Life Extension Program March 30, 2026
+9:12 AM
+6
+FNOH replacement servos will have the greater of either:
+o
+r
+R
+the remaining 2yr factory warranty or
+e
+f
+e
+standard 6-month rrepair/exchange warranty.
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+It is important to promptly return ‘removedy servos’, as these will
+u
+b
+l
+be upgraded to Mod 1 unitis and eventually sent back out.
+c
+D
+i
+s
+c
+t
+r
+i
+b
+RMA submissions should have the planned installu date for
+t
+i
+o
+when they need servos. n
+
+--- PAGE 7 ---
+GSA SLEP RMA Process March 30, 2026
+9:12 AM
+7
+FUpdated RMA (Return Material Authorization) form MUST be
+o
+r
+used. R
+e
+f
+e
+No longer need ‘GSrA28 RMA Scheduling Form” as the initial rush for
+e
+N
+n
+oprogram adoption is past. c
+t e
+f
+o O
+Like other SrB, warranty labor will be pnaid to dealers, but not to
+P l
+y
+u
+experimental customebrs.
+l
+i
+c
+D
+Experimental RMA: G3Xpert@garmin.com
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 8 ---
+March 30, 2026
+9:12 AM
+8
+F
+RMoA Forms: avionicsrma.americas@garmin.com
+r
+R
+e
+Warranty Claims or Questions: warranty@garmin.com
+f
+e
+r
+e
+N
+n
+Foor inquiries, scheduling, a
+c
+nd customers who have already
+t e
+f
+paid for oout of warranty replaceme O nt:
+r n
+P l
+y
+GSAinquiries@Gaurmin.com
+b
+l
+i
+c
+Experimental RMA: G3Xpert@gDarmin.com
+i
+s
+c
+t
+Customer Support Articles can be found onr the public facing
+i
+b
+u
+website: www.Garmin.com/GSA28Info. t
+i
+o
+n
+
+--- PAGE 9 ---
+March 30, 2026
+9:12 AM
+9
+F
+o NOTES
+r
+R
+e
+Ends May 4, 2028
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+All affected servo units are covered under by the
+r n
+P l
+y
+programu for a period of five (5) ye ars from the
+b
+l
+date of the serviice bulletin (May 4 2023).
+c
+D
+i
+s
+c
+t
+r
+i
+b
+Labor reimbursement for installations in
+u
+t
+i
+certified aircraft performed by an Authorized o
+n
+Garmin Dealer ONLY (2.5 hrs per Servo).
+
+--- PAGE 10 ---
+Aviation Training Academy March 30, 2026
+9:12 AM
+10
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 11 ---
+Getting Started! March 30, 2026
+9:12 AM
+11
+FPre-Install Checklist
+o
+r
+R
+Aircraft Photos?
+e
+f
+e
+Other Modificationsr?
+e
+N
+n
+o c
+Garmtin Documents e
+f
+o O
+r n
+Approved ModPels List l
+y
+u
+b
+Price Catalog l
+i
+c
+D
+Master Data List
+i
+s
+c
+t
+Addendums r
+i
+b
+u
+Flight Manual Supplements
+t
+i
+o
+Installation Documentation n
+Post-Install Checkout
+
+--- PAGE 12 ---
+AP Pre -Installation Checklist March 30, 2026
+9:12 AM
+12
+F
+o
+r
+R
+e
+f
+e
+r
+e
+NWhere to start?
+n
+o c
+t e
+f
+Approvoed Model List and O
+r n
+P l
+Autopilot Price Catalog y
+u
+b
+l
+i
+Price Catalog c
+D
+i
+s
+Master Drawing List
+c
+t
+r
+i
+Type-specific Addendums b
+u
+t
+i
+and AFMS o
+n
+
+--- PAGE 13 ---
+Before you Deliver! March 30, 2026
+9:12 AM
+13
+FDouble check your MDL
+o
+r
+EnsureR you’re using the most
+e
+recent documfentation for your
+e
+r
+e
+N airframe!
+n
+o c
+t e
+f
+o O
+For every 10 r minutes you n
+P l
+y
+u
+spend reading the notbes on
+l
+i
+c
+the Model Specific Addendum
+D
+i
+s
+You’ll save an HOUR of
+c
+t
+r
+troubleshooting your i
+b
+u
+installation! t
+i
+o
+n
+We never have time to do it
+‘right’, but we always make time
+to do it again!
+
+--- PAGE 14 ---
+Master Drawing List March 30, 2026
+9:12 AM
+14
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+Current MDL is revision 99 i
+o
+n
+Always check for updates before delivery of the aircraft!
+
+--- PAGE 15 ---
+Filter by Product Version March 30, 2026
+9:12 AM
+15
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 16 ---
+Filter by Product Version March 30, 2026
+9:12 AM
+16
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 17 ---
+Filter by Product Version March 30, 2026
+9:12 AM
+17
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 18 ---
+Filter by Product Version March 30, 2026
+9:12 AM
+18
+FUsing the product
+o
+r
+version fRilter
+e
+f
+e
+Offers simplicity forr
+e
+N
+n
+o quick reference c
+t e
+f
+o O
+Works for arll Garmin
+n
+P l
+y
+STC products u
+b
+l
+i
+c
+Focuses searches on
+D
+i
+only the most recent s
+c
+t
+r
+documents
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 19 ---
+Notas Legere : Read the Notes! March 30, 2026
+9:12 AM
+19
+FNotes offer a direct
+o
+r
+insight inRto the lessons
+e
+f
+e
+learned by the certification
+r
+e
+N
+n
+te o am during initial c
+t e
+f
+o O
+issuance of rthe STC
+n
+P l
+y
+u
+Newest addition to theb GFC
+l
+i
+c
+500 AML is the Cessna
+D
+i
+s
+210-5(A)
+c
+t
+r
+i
+How many notes does the b
+u
+t
+Cessna 210-5 (A) Model i
+o
+n
+Specific Addendum offer?
+
+--- PAGE 20 ---
+Notas Legere : Read the Notes! March 30, 2026
+9:12 AM
+20
+FNotes offer a direct
+o
+r
+insight inRto the lessons
+e
+f
+e
+learned by the certification
+r
+e
+N
+n
+te o am during initial c
+t e
+f
+o O
+issuance of rthe STC
+n
+P l
+y
+u
+Newest addition to theb GFC
+l
+i
+c
+500 AML is the Cessna
+D
+i
+s
+210-5(A)
+c
+t
+r
+i
+How many notes does the b
+u
+t
+Cessna 210-5 (A) Model i
+o
+n
+Specific Addendum offer?
+49 as of Rev 2
+
+--- PAGE 21 ---
+Notas Legere : Read the Notes! March 30, 2026
+9:12 AM
+21
+FLet’s compare the Cessna
+o
+r
+172 E/S RModel initial
+e
+f
+e
+issuance from 2017?
+r
+e
+N
+n
+o c
+Htow many notes?
+e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 22 ---
+Notas Legere : Read the Notes! March 30, 2026
+9:12 AM
+22
+FLet’s compare the Cessna
+o
+r
+172 E/S RModel initial
+e
+f
+e
+issuance from 2017?
+r
+e
+N
+n
+o c
+Htow many notes?
+e
+f
+o O
+31 as of rRev 11 n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 23 ---
+Notas Legere : Read the Notes! March 30, 2026
+9:12 AM
+23
+FAlways READ THE NOTES
+o
+r
+R
+Initial issuance of the172
+e
+f
+e
+Model Specific Addendum
+r
+e
+N
+n
+oonly featured 29 Notes
+c
+t e
+f
+o O
+We include the lessons
+r n
+P l
+y
+learned since 2017u in the
+b
+l
+notations we add to the i
+c
+D
+addendum
+i
+s
+c
+t
+Initial issuance also r
+i
+b
+u
+included the Gains
+t
+i
+o
+Addendum which is now a n
+separate document.
+
+--- PAGE 24 ---
+Let’s Choose! March 30, 2026
+9:12 AM
+24
+FWe’ve been talking
+o
+r
+about GFRC 500 Tips
+e
+f
+e
+and Tricks for years!
+r
+e
+N
+n
+o c
+Let’st revisit an oldie e
+f
+o O
+r n
+but a goodie…
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 25 ---
+Conformity with the Diagram March 30, 2026
+9:12 AM
+25
+Remember this?
+F
+o
+C210 Yaw servo bracket - picture from installer. Arrows point to the
+r
+R
+elevator upper control cables.
+e
+f
+e
+We use this to poinrt out how installers sometimes don’t reference the
+e
+N
+n
+odocumentation correctly. Th
+c
+ere has been a revision of this
+t e
+informfa o tion… Observe! O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 26 ---
+Let’s Choose! March 30, 2026
+9:12 AM
+26
+FSort by MDL:
+o
+r
+R
+Use Keywored Search:
+f
+e
+r
+e
+N Cessna 210
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 27 ---
+Let’s Choose! March 30, 2026
+9:12 AM
+27
+FSort by MDL:
+o
+r
+R
+Use Keywored Search:
+f
+e
+r
+e
+N Cessna 210
+n
+o c
+t e
+Sub Mfodel Addendum:
+o O
+r n
+Cessna 210 KP/L/M/N l
+y
+u
+b
+190-02291-13
+l
+i
+c
+Current Rev. 16 D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 28 ---
+Conformity with the Diagram March 30, 2026
+9:12 AM
+28
+LFatest revision: Textron Aviation Cessna 210 MSA: 190-02291-13
+o
+r
+R
+Page 16: Viewe 15-B: Still see the original orientation mistake…
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 29 ---
+Conformity with the Diagram March 30, 2026
+9:12 AM
+29
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 30 ---
+Conformity with the Diagram March 30, 2026
+9:12 AM
+30
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 31 ---
+Cessna 210 K/L/M/N - Addendum March 30, 2026
+9:12 AM
+31
+FNotice the newest
+o
+r
+changesR to this MSA:
+e
+f
+e
+Change of the Figurres
+e
+N
+n
+o and more figures c
+t e
+f
+o O
+available.
+r n
+P l
+y
+Let’s examine… u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 32 ---
+Cessna 210 K/L/M/N - Addendum March 30, 2026
+9:12 AM
+32
+FNotice the newest
+o
+r
+changesR to this MSA:
+e
+f
+e
+Change of the Figurre
+e
+N
+n
+o means more figures c
+t e
+f
+o O
+available.
+r n
+P l
+y
+Let’s examine… u
+b
+l
+i
+Added views to ensure c
+D
+installation accuracy. i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 33 ---
+Cessna 210 K/L/M/N - Addendum March 30, 2026
+9:12 AM
+33
+FNotice the newest
+o
+r
+changesR to this MSA:
+e
+f
+e
+Change of the Figurre
+e
+N
+n
+o means more figures c
+t e
+f
+o O
+available.
+r n
+P l
+y
+Let’s examine… u
+b
+l
+i
+Added views to ensure c
+D
+installation accuracy. i
+s
+c
+t
+r
+Review each page of i b
+u
+t
+the addendum i
+o
+n
+
+--- PAGE 34 ---
+Trim Runs Backwards March 30, 2026
+9:12 AM
+34
+F
+o
+Pitch Trim on my Cessna
+r
+R
+e
+177/172/182/210/206 runs
+f
+e
+r
+Nbackwards? e
+n
+o c
+t e
+Softwfare and servos are NOT
+o O
+r n
+the root causeP. l
+y
+u
+b
+Line-up of the Usual Susplects:
+i
+c
+D
+Is the trim switch is wiring
+i
+s
+c
+installed correctly?
+t
+r
+i
+b
+Are the trim servo capstan and
+u
+t
+idler are wrapped correctly? i
+o
+n
+Is The aircraft trim system is
+rigged correctly under the
+pedestal or in the aft fuselage.
+
+--- PAGE 35 ---
+Trim Runs Backwards March 30, 2026
+9:12 AM
+35
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 36 ---
+Trim Runs Backwards March 30, 2026
+9:12 AM
+36
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 37 ---
+Trim Runs Backwards March 30, 2026
+9:12 AM
+37
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 38 ---
+Trim Runs Backwards March 30, 2026
+9:12 AM
+38
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 39 ---
+Trim Runs Backwards March 30, 2026
+9:12 AM
+39
+FEnsure your rigging offers the
+o
+r
+expectedR outcome
+e
+f
+e
+Servo vs Anti-servor Trim Tabs
+e
+N
+n
+o c
+Ensture there aren’t Service e
+f
+o O
+r n
+Documents su perseding the
+P l
+y
+u
+b
+OEM Documentation
+l
+i
+c
+D
+Cessna 195
+i
+s
+c
+Garmin Service Bulletin 24080 t
+r
+i
+b
+u
+Updated Addendum (Rev 2)
+t
+i
+o
+incorporates the SB. n
+
+--- PAGE 40 ---
+Trim Runs Backwards March 30, 2026
+9:12 AM
+40
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 41 ---
+Trim Runs Backwards March 30, 2026
+9:12 AM
+41
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 42 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+42
+FEvery system will push
+o
+r
+softwa re to GFC for updates
+R
+e
+f
+Not every proceedure for initial
+r
+e
+N load of software matches
+n
+o c
+t e
+Foll ofw the Documentation!
+o O
+r n
+Read the notePs!! l
+y
+u
+b
+l
+i
+c
+D
+Procedure is outlined in EFIS i
+s
+c
+t
+Installation Manuals
+r
+i
+b
+u
+G3X Touch t
+i
+o
+n
+G5
+GI 275
+
+--- PAGE 43 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+43
+FG3X Touch Software
+o
+r
+LoadingR:
+e
+f
+e
+Section 5.3.2.1.1 r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 44 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+44
+FG3X Touch Software
+o
+r
+Loadin g:
+R
+e
+f
+Section 5.3.2.1.e1
+r
+e
+N
+n
+GSA 28 and GMC 507
+o c
+t e
+i ncluded in EFIS Software
+f
+o O
+loading arnd updates. n
+P l
+y
+u
+G5 works the same:
+b
+l
+i
+c
+Remember: G5 was the
+D
+i
+first EFIS system s
+c
+t
+for GFC 500! r
+i
+b
+u
+t
+GI-275: i
+o
+n
+Cannot load Software
+without prior configuration
+
+--- PAGE 45 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+45
+F
+o NOTES
+r
+R
+e
+f
+e
+GSA 28’sr still ship with Software 4.30.
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+GI-275 will not recognize a GSA with software
+u
+b
+l
+below 4.80. i c
+D
+i
+s
+c
+t
+r
+i
+b
+GI-275 will not automatically push softwuare like
+t
+i
+o
+G3X Touch and G5 will. n
+
+--- PAGE 46 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+46
+F
+o
+r
+Keep in mind: GI 275 is VERY
+R
+e
+f
+particular about esequence.
+r
+e
+N
+n
+oStart with Unit ID c
+t e
+f
+o O
+GI-1, then GI-2, and so on.
+r n
+P l
+y
+RESTART REQUIRuED
+b
+l
+Configure GI275’s Interfaceidc & GFC500
+D
+servos BEFORE loading software i
+s
+c
+t
+Screen will have Yellow Questions Marks r
+i
+b
+indicating you’re ready to load software and u
+t
+i
+o
+sync the manifest
+n
+
+--- PAGE 47 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+47
+F
+o
+r
+R
+e
+BEFORE loadinfg GI 275/GFC500
+e
+r
+e
+NSoftware
+n
+o c
+t e
+f
+Configuroe all GI 275s present on e O ach
+r n
+P l
+y
+GI u
+b
+l
+i
+c
+Interfaces > GI 275s Installed
+D
+i
+s
+c
+Configure GFC 500 & servos present
+t
+r
+i
+b
+Interfaces > Autopilot > Settings u
+t
+i
+o
+Scroll to bottom, touch “Copy Config from n
+GI 275 to GFC 500”
+
+--- PAGE 48 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+48
+F“GFC 500 Manifest”
+o
+r
+R
+SW/Config>Config Options > GFC500
+e
+f
+e
+Manifest
+r
+e
+N
+n
+oManually sync up the reportecd software
+t e
+f
+versionos of the LRUs AFTER updatin O g
+r n
+P l
+y
+them all to the correct software level.
+u
+b
+l
+i
+c
+Manifest Sync does NOT load
+D
+i
+s
+software to the GFC 500 LRUs
+c
+t
+r
+i
+b
+Manifest Sync establishes the comms
+u
+t
+i
+between the GI and GFC o
+n
+
+--- PAGE 49 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+49
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+From the Software Loading Page
+r n
+P l
+y
+u
+Ensure you’ve selectebd the GFC 500
+l
+i
+c
+packages for loading before hitt ing the
+D
+i
+s
+‘Update Package’ button at the bottom of
+c
+t
+r
+the screen. i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 50 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+50
+F
+o
+r
+R
+e
+Wait for it…
+f
+e
+r
+e
+N
+Don’t interrupt the softwanre load for any
+o c
+t e
+give nf LRU in the GI-275 EFIS system
+o O
+r n
+GEA P l
+y
+u
+b
+GHA l
+i
+c
+GMC D
+i
+s
+c
+GSA
+t
+r
+i
+b
+u
+t
+i
+o
+Next step?
+n
+Synchronize the Manifest!
+
+--- PAGE 51 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+51
+F
+o
+r
+R
+What does ea Sync’ed Manifest look
+f
+e
+r
+like?
+e
+N
+n
+o c
+t e
+Left column= GI275
+f
+o O
+r n
+Right column =P GFC500 l
+y
+u
+b
+Mismatches will be highlilghted yellow
+i
+c
+D
+Notice with the mismatch: i
+s
+c
+t
+r
+We’re not currently communicating with i
+b
+u
+the GSA’s. t
+i
+o
+n
+Must Sync the Manifest to establish
+communication!
+
+--- PAGE 52 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+52
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+Communication esutablished
+b
+l
+i
+c
+Software on the GSA’s match th e
+D
+i
+s
+software on the GI.
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 53 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+53
+F
+o
+r
+R
+e
+Expectation vs Reality
+f
+e
+r
+e
+N
+If you still see a ‘Yellow Qnuestion Mark’
+o c
+t e
+instefad of all LRU’s being ‘Green Ch eck’
+o O
+r n
+Go back to SofPtware Loading page and l y
+u
+b
+reselect the GFC packagels
+i
+c
+D
+If you accomplish this task more than once
+i
+s
+c
+and the ‘Yellow Question Mark’ remains?
+t
+r
+i
+b
+Don’t forget to Manifest Sync again
+u
+t
+i
+Still ‘Yellow Question Mark’?? o
+n
+Unplug any of the LRU’s which are seen on
+this page as ‘Green Check’
+
+--- PAGE 54 ---
+GFC 500 Software Loading March 30, 2026
+9:12 AM
+54
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+Rince and repeat until all LRU’s display
+l
+i
+c
+‘Green Check’ D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 55 ---
+GFC 500 Software Loading Double Checks March 30, 2026
+9:12 AM
+55
+F
+Aiorcraft comes in with
+r
+R
+properly functioning autopilot.
+e
+f
+e
+I did the software upgrade.
+r
+e
+N
+n
+Noow it’s failing PFT.
+c
+t e
+f
+o O
+r n
+P l
+y
+u
+At what software did ybou start?
+l
+i
+c
+GSA28 SLEP complied with?
+D
+i
+‘Trust but Verify’ configurations s
+c
+t
+r
+Sync Manifest & Copy Config to i
+b
+u
+GFC? t
+i
+o
+n
+Older installs:
+MOD1 GI? Mil-Spec wire?
+
+--- PAGE 56 ---
+GI - GFC 500 Troubleshooting March 30, 2026
+9:12 AM
+56
+F
+o
+r
+R
+e
+f
+e
+r
+NIf GI 275 is having abenormal
+n
+o c
+t e
+Autop ilot operation or default
+f
+o O
+r n
+sensors are incPorrect l
+y
+u
+b
+Perform “Expansion Boarld i
+c
+D
+Reset” a.k.a Soft Reset
+i
+s
+c
+Procedure t
+r
+i
+b
+‘Target’ Reload software u
+t
+i
+o
+n
+
+--- PAGE 57 ---
+GI - GFC 500 Troubleshooting March 30, 2026
+9:12 AM
+57
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+Additional Troubleushooting
+b
+l
+i
+c
+GI-275 Part 23 AML STC Install
+D
+i
+Manual Section 7.2 s
+c
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 58 ---
+March 30, 2026
+9:12 AM
+58
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What is the greatest soburce of information learned during
+l
+i
+c
+the certificatioDn process?
+i
+s
+c
+A. STC Master Drawing List t
+r
+i
+b
+u
+B. AML STC Installation Manual t
+i
+o
+n
+C. Garmin Service Bulletin or Communique
+D. Installation Manual Addendum
+
+--- PAGE 59 ---
+March 30, 2026
+9:12 AM
+59
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What is the greatest soburce of information learned during
+l
+i
+c
+the certificatioDn process?
+i
+s
+c
+A. STC Master Drawing List t
+r
+i
+b
+u
+B. AML STC Installation Manual t
+i
+o
+n
+C. Garmin Service Bulletin or Communique
+D. Installation Manual Addendum
+
+--- PAGE 60 ---
+March 30, 2026
+9:12 AM
+60
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+After updating softwbare, GFC now will not pass PFT.
+l
+i
+c
+What are my possiblDe explanations?
+i
+s
+c
+A. Did not export the configuration prtior to starting
+r
+i
+b
+update
+u
+t
+i
+o
+B. GSA28 SLEP not complied = Incorrect Part Numbers
+n
+C. Configurations have changed upon Software update
+D. Forgot to Sync Manifest
+
+--- PAGE 61 ---
+March 30, 2026
+9:12 AM
+61
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+After updating softwbare, GFC now will not pass PFT.
+l
+i
+c
+What are my possiblDe explanations?
+i
+s
+c
+A. Did not export the configuration prtior to starting
+r
+i
+b
+update
+u
+t
+i
+o
+B. GSA28 SLEP not complied = Incorrect Part Numbers
+n
+C. Configurations have changed upon Software update
+D. Forgot to Sync Manifest
+
+--- PAGE 62 ---
+March 30, 2026
+9:12 AM
+62
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+I have attended GFbC 500 in the Red Room at AEA
+l
+i
+c
+NatioDnals
+i
+s
+c
+t
+A. True r
+i
+b
+u
+t
+B. False i o
+n
+
+--- PAGE 63 ---
+Summary
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+We’ve reviewed Model Specific
+r n
+P l
+y
+Addendums and now
+u
+understand they are
+b
+l
+i
+c
+the best source of information on our installs
+D
+i
+s
+c
+Reviewed several faults installers come up
+t
+r
+i
+b
+against and their common corrections for more u
+t
+i
+o
+accurate and efficient installs n
+
+--- PAGE 64 ---
+March 30, 2026
+9:12 AM
+64
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+c
+t
+r
+Any Questions? i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 65 ---
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+Thank Yofu!
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+Chris Hendrix D
+i
+s
+c
+t
+r
+i
+b
+u
+t
+i
+Senior Aviation Maintenance Instructor o
+n
+Garmin Aviation Training
+Aviation.training@garmin.com

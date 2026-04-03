@@ -1,0 +1,320 @@
+--- PAGE 2 ---
+Streamline your business through
+Quality Management
+Bruce Baxter
+Consultant
+AEA South Pacific
+
+--- PAGE 3 ---
+Streamline your business through Quality Management
+Quality
+and
+Streamline
+
+--- PAGE 4 ---
+Quality Management
+It is not about how the Managers of a business are measured
+It is how the business itself manages the quality of its goods and
+services.
+
+--- PAGE 5 ---
+Quality
+What we want to cover in this session is
+What is Quality
+Origins of Quality systems
+Some regulator requirements
+How can we stretch what we have to make it work.
+
+--- PAGE 6 ---
+Streamlining
+What is streamlining
+How does it affect our business
+Identifing roadblocks to streamlining
+How to include processes to remove roadblocks through our quality
+system
+
+--- PAGE 7 ---
+What is Quality
+There are a number of definitions, but they all reflect the same
+message.
+This is one of the many:-
+Quality is the degree to which an object or entity (e.g., process,
+product, or service) satisfies a specified set of attributes or
+requirements.
+Customer Satisfaction
+Conformance to requirements
+
+--- PAGE 8 ---
+Origins of Quality systems
+"Quality is built in, not inspected in."
+To fully understand this principle requires a historical perspective,
+particularly a look back to around 1942 during World War 2.
+War products were being manufactured by factories that normally
+produced domestic goods.
+All the various manufacturers used different tolerances due to their
+machinery capabilities.
+The rework of each component caused huge delays in assembly.
+
+--- PAGE 9 ---
+But a bigger problem arose, in the manufacture of ammunition.
+In 1940’s Quality was “inspected in” one round out of every 1000
+was test fired, if it worked then the rest (999) were shipped to the
+soldiers.
+However, if it failed the whole 999 were sent back to the factory for
+rework or scrapping.
+In either case, the test bullet might have been the only one in that
+1000 that exhibited that characteristics.
+
+--- PAGE 10 ---
+Numerous reports were coming back that there was a high failure
+rate in the field.
+Obviously, there was a need for improvement.
+How did they improve?
+
+--- PAGE 11 ---
+Ammunition is comprised of several components—including cases,
+primers, powder, and projectiles—often sourced from different
+suppliers.
+
+--- PAGE 12 ---
+Upon arrival at the assembly plant, Each component was subjected
+to rigorous checks:
+cases were weighed and measured according to documented
+standards,
+primers were checked for proper fit,
+powder was verified for correct composition,
+projectiles were inspected for dimension and weight.
+
+--- PAGE 13 ---
+Non-compliant parts were returned to suppliers to maintain quality
+at every stage.
+We have now created a basic form of incoming inspection
+
+--- PAGE 14 ---
+A new system emerged: divide the assembly process into sections,
+assigning each segment responsibility for its output.
+The assembly sequence involved verification at each step—
+installing primers, adding powder, and seating the projectile—with
+checks performed before advancing to the next stage. Any
+discrepancies led to immediate rectification before continuation.
+No requirement to test 1 in 1000 any more because quality has
+been built in.
+
+--- PAGE 15 ---
+This is the start of a CUSTOMER/SUPPLIER RELATIONSHIP which is
+vitally important to the quality management system.
+When moving your completed job to the next stage, you are
+effectively a supplier.
+And
+When you receive something from a previous stage you are the
+customer.
+
+--- PAGE 16 ---
+This is important to remember because it will help you identify
+roadblocks to streamlining.
+We are not an assembly line but your business is naturally divided
+into sections for example
+
+--- PAGE 17 ---
+• Goods received
+• Stores
+• Despatch
+• Workshop/s
+• Accounting
+• Sales
+• Admin
+• Etc.
+
+--- PAGE 18 ---
+Regulator Quality system requirements
+A part 145 workshop has a requirement to have a quality system.
+When you look at the regulatory system as a whole you will see
+many similarities with an ISO9000 type quality management
+system.
+While the quality system required by the regulator are designed to
+enhance safety, they do very little to assist you or your staff in the
+everyday business.
+Regulator requirements for quality – your exposition document plus
+a couple more items, all focused on the regulations.
+
+--- PAGE 19 ---
+I’m not going to spend time on the regulatory quality system
+requirements
+What is important to say is that many organisations run their whole
+business to satisfy the regulator.
+This is not a healthy way to achieve growth or profit
+
+--- PAGE 20 ---
+Document and data control
+The regulatory requirement is only about all documents and data
+relating to the maintenance of Aircraft.
+Some examples are
+job history
+Maintenance Manuals
+Component traceability
+All necessary to satisfy the regulator but are of no help to us running
+a business.
+
+--- PAGE 21 ---
+Streamline
+Definitions
+1. Design or provide with a form that presents very little resistance
+to a flow of air or water, increasing speed and ease of movement.
+2. Make (an organization or system) more efficient and effective
+by employing faster or simpler working methods.
+
+--- PAGE 22 ---
+Time is money
+Our business revolves around labour charge out and any wasted
+time is lost income for the business
+10 minutes here and there can add up to a lot of lost hours per
+week.
+How can a quality system reduce the lost hours
+First, we have to identify the lost time.
+
+--- PAGE 23 ---
+Customer – Supplier Relationship
+In our discussions about quality, we have already identified that it is
+a form of customer / supplier relationship
+We need to expand on our understanding of that to enable us to
+move forward in the right direction.
+
+--- PAGE 25 ---
+Quality consists of customer/supplier relationships.
+We have two types of customer and suppliers.
+External
+Internal
+External customers are airlines who we repair equipment for, and
+our external suppliers are the OEM's who we purchase our parts
+from.
+However, the detail is in your business, the internal customers and
+suppliers.
+
+--- PAGE 26 ---
+Supplier / Customer relationship
+It is easy to relate quality with our external customer, they expect a
+certain outcome and if we provide services that are fit for purpose,
+then they pay you for those services. Simple.
+Here is a start,
+Your quality management manual should have a dispute resolution
+procedure to achieve an outcome in the shortest possible time.
+
+--- PAGE 28 ---
+Internal Supplier/Customer
+What about our internal customers and suppliers
+Generally, the most wasted time occurs when there is a breakdown
+somewhere in that internal Supplier / Customer relationship
+As an example, we will use a piece of equipment for repair and
+return to demonstrate this.
+
+--- PAGE 29 ---
+Internal Customer - Supplier
+The arrangement of customer supplier changes due to the position
+in the chain of events, let me explain.
+Our External Customer, the aircraft owner/Operator(ABC) airlines
+provides you with a piece of equipment for repair and return.
+OK, lets follow this component through
+
+--- PAGE 30 ---
+First step
+ABC is now the supplier, and you are the Customer.
+You both have responsibilities
+Supplier, ABC is responsible to provide correctly signed purchase
+order with sufficient detail about what they require.
+Customer, you are responsible to ensure that all of that is provided.
+(Incoming Inspection)
+
+--- PAGE 31 ---
+Next
+You then create a job using the details required and supply it all to
+the workshop.
+Now, you are the supplier, and the workshop is the customer
+Suppliers' responsibility is to provide all the details and equipment
+for repair to the workshop.
+The workshop is responsible for ensuring everything required is
+there and correct. (incoming Inspection)
+
+--- PAGE 32 ---
+The workshop carry out the task required and you satisfy the
+regulator by including the correct documentation, then it is
+supplied to the store for returning to ABC.
+Now the workshop is the supplier, and it has the responsibility to
+provide the necessary and correct documentation to the store
+(Despatch)
+The Store is now the customer and is responsible for ensuring all
+the equipment (Serial N0.s etc) and paperwork are correct.
+(incoming Inspection)
+
+--- PAGE 33 ---
+Finally
+The store can pack the unit for return to ABC
+Now the store is the supplier, responsible for ensuring that all the
+necessary bits and pieces are correctly packaged and returned to
+ABC
+This doesn’t let ABC off the hook, ABC is still the customer and
+must ensure that what you supplied was complete and
+correct.(Incoming Inspection)
+
+--- PAGE 34 ---
+INTERNAL Customer /Supplier flow
+
+--- PAGE 36 ---
+Every time the Supplier – Customer changes position there is an
+opportunity to lose time.
+Example
+Imagine if you are paying your store person overtime to dispatch a
+backlog of jobs because the workshop, in its roll as supplier, did not
+supply the correct data to the store for dispatch of one single job.
+This actually happened in my business
+
+--- PAGE 37 ---
+SUPPLIER
+CUSTOMER
+
+--- PAGE 38 ---
+Resolution
+Document what to do when there is a breakdown in that
+supplier/customer relationship.
+A simple paragraph in the manual is sufficient, and you may have to
+introduce something else into your system to make this work.
+I had to put another shelf in the workshop and re-name an existing
+one in the store
+
+--- PAGE 39 ---
+OK, that was a store /workshop issue, but the same speedbumps
+occur with accounting, e g invoicing. Someone not supplying the
+correct data.
+Theses things can happen anywhere within your business.
+It is vitally important that you identify and address these potential
+problems.
+
+--- PAGE 40 ---
+Start expanding your quality system to include the processes to
+reduce the possibility of wasted time.
+Don’t forget to add any document and data control required for your
+business data.
+When you audit your quality system, include the business
+processes and procedures in it and look for continual improvement
+
+--- PAGE 41 ---
+Everyone's business is different; you all have reached a different
+level of maturity. So. there is no “one size fits all” solution
+It's up to all members of the staff to identify these speedbumps and
+the best people to ask are, the people doing the job, they know
+where the pitfalls are.
+So, engage all the staff, Quality is not a management decree, it is a
+system owned and operated by all the staff.
+Get your staff to document the problems they have and collectively
+find a solution.
+
+--- PAGE 42 ---
+Finally
+Ensure that any resolution to a problem continues to make the
+“Supplier” responsible for their own output
+Document the resolution, but don’t write a small novel, a few lines
+will sometimes be sufficient.
+AND
+Make the procedures available to the staff
+
+--- PAGE 43 ---
+THANK YOU

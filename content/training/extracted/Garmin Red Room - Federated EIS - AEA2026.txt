@@ -1,0 +1,2281 @@
+--- PAGE 1 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+Engine Information Systems
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+GI-275 EIS both Dealer and
+Over the Counter advice
+
+--- PAGE 2 ---
+March 30, 2026
+Legal Statement
+7:59 AM
+2
+F
+o
+r
+R
+e
+f
+e
+Garmin Aviation Traininrg is intended to provide the best practices for
+e
+N
+n
+o c
+the insttallation, use and maintenanece of Garmin Aviation products. It
+f
+o O
+r n
+is incumbent on te chnicians and pilots to ensure that the instructions
+P l
+y
+u
+b
+contained in the most recent versions of Garmin product manuals,
+l
+i
+c
+bulletins and notifications are followeDd.
+i
+s
+t
+r
+i
+b
+u
+© GARMIN LTD. OR ITS SUBSIDARIES. ALL RIGHTS RESERVED.
+t
+i
+o
+n
+
+--- PAGE 3 ---
+Objectives
+Monday, March 30, 2026
+F
+Focuso on GI-275 Engine
+r
+R
+Indication Systems
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+Configurationo Walk-Thru O
+r n
+P l
+y
+EIS workflow as outline
+u
+d by Garmin Documents
+b
+l
+i
+c
+D
+i
+s
+t
+r
+Quiz i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 4 ---
+Objectives
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+After ocompleting this session, ycou will:
+t e
+f
+o O
+r n
+P l
+y
+Understand the configuuration workflow for
+b
+l
+Garmin Engine Indication Systemisc as they
+D
+relate to the Garmin Indicator 275. i
+s
+t
+r
+i
+b
+u
+Better articulate the recipe, either an independent t
+i
+o
+n
+technician or Garmin Dealer, for following Garmin STC
+Documentation available from Garmin.com and the DRC.
+
+--- PAGE 5 ---
+Aviation Training Academy March 30, 2026
+7:59 AM
+5
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 6 ---
+GI - EIS Checklist March 30, 2026
+7:59 AM
+6
+Best workflow for EIS Configs:
+F
+o
+r
+Engine R
+e
+f
+e
+Sensors
+r
+e
+N
+n
+oPages c
+t e
+f
+o O
+Gauges r n
+P l
+y
+u
+Fuel
+b
+l
+i
+c
+Diagnostics
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 7 ---
+GI - EIS Checklist March 30, 2026
+7:59 AM
+7
+Best workflow for EIS Configs:
+F
+o
+r
+R
+e
+f
+e
+r
+Identify e
+N
+n
+o c
+t e
+f
+o O
+r n
+Configure
+P l
+y
+u
+b
+l
+i
+c
+D
+Calibrate
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 8 ---
+GI - EIS Checklist March 30, 2026
+7:59 AM
+8
+Best workflow for EIS Configs:
+F
+o
+r
+R
+e
+f
+e
+r
+Identify e
+N
+n
+o c
+tEngine e
+f
+o O
+Sensors r n
+P l
+y
+u
+Configure
+b
+l
+i
+c
+Pages
+D
+i
+s
+Gauges
+t
+r
+i
+b
+Fuel
+u
+t
+i
+o
+Calibrate
+n
+Sensors/Gauges
+Diagnostics
+
+--- PAGE 9 ---
+GI - EIS Recipe March 30, 2026
+7:59 AM
+9
+Best work flow for EIS Configs:
+F
+o
+r
+R
+e
+f
+e
+Identify
+r
+e
+N
+n
+oEngine Parameters c
+t e
+f
+o O
+Power Settings
+r n
+P l
+y
+Hours u
+b
+l
+Flight i
+c
+D
+Hobbs
+i
+s
+t
+Tach r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 10 ---
+EIS - Engine March 30, 2026
+7:59 AM
+10
+Identify
+F
+o
+r
+Engine PRarameters
+e
+f
+e
+Power Settings
+r
+e
+N
+n
+oHours c
+t e
+f
+o O
+Flight r n
+P l
+y
+Hobbs u
+b
+l
+i
+Tach c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 11 ---
+EIS - Engine March 30, 2026
+7:59 AM
+11
+Identify
+F
+o
+r
+Engine PRarameters
+e
+f
+e
+Power Settings
+r
+e
+N
+n
+oHours c
+t e
+f
+o O
+Flight r n
+P l
+y
+Hobbs u
+b
+l
+i
+Tach c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 12 ---
+EIS - Engine March 30, 2026
+7:59 AM
+12
+Identify
+F
+o
+r
+Engine PRarameters
+e
+f
+e
+Power Settings
+r
+e
+N
+n
+oHours c
+t e
+f
+o O
+Flight r n
+P l
+y
+Hobbs u
+b
+l
+i
+Tach c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 13 ---
+EIS - Engine March 30, 2026
+7:59 AM
+13
+Identify
+F
+o
+r
+Engine PRarameters
+e
+f
+e
+Power Settings
+r
+e
+N
+n
+oHours c
+t e
+f
+o O
+Flight r n
+P l
+y
+Hobbs u
+b
+l
+i
+Tach c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 14 ---
+EIS - Engine March 30, 2026
+7:59 AM
+14
+Identify
+F
+o
+r
+Engine PRarameters
+e
+f
+e
+Power Settings
+r
+e
+N
+n
+oHours c
+t e
+f
+o O
+Flight r n
+P l
+y
+Hobbs u
+b
+l
+i
+Tach c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 15 ---
+GI - EIS Checklist March 30, 2026
+7:59 AM
+15
+Best workflow for EIS Configs:
+F
+o
+r
+R
+e
+f
+Identify
+e
+r
+e
+N
+Engine n
+o c
+t e
+Sensfors
+o O
+r n
+Configure P l
+y
+u
+b
+Pages l
+i
+c
+D
+Gauges
+i
+s
+t
+Fuel r
+i
+b
+u
+Calibrate
+t
+i
+o
+n
+Sensors/Gauges
+Diagnostics
+
+--- PAGE 16 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+16
+After Identifying our GI we need to tell
+F
+o
+r
+it what it ’s job is in the EFIS or as a
+R
+e
+f
+stand alone instalelation.
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+We’ll start by c licking Unit Type
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 17 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+17
+After Identifying our GI we need to tell
+F
+o
+r
+it what it ’s job is in the EFIS or as a
+R
+e
+f
+stand alone instalelation.
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+We’ll start by c licking Unit Type
+P l
+y
+u
+b
+l
+i
+c
+Next we’ll tap ‘Unit Configuration’ D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 18 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+18
+After Identifying our GI we need to tell
+F
+o
+r
+it what it ’s job is in the EFIS or as a
+R
+e
+f
+stand alone instalelation.
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+We’ll start by c licking Unit Type
+P l
+y
+u
+b
+l
+i
+c
+Next we’ll tap ‘Unit Configuration’ D
+i
+s
+t
+Now we can tell it what Job to do: Tap MFD r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 19 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+19
+After Identifying our GI we need to tell
+F
+o
+r
+it what it ’s job is in the EFIS or as a
+R
+e
+f
+stand alone instalelation.
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+We’ll start by c licking Unit Type
+P l
+y
+u
+b
+l
+i
+c
+Next we’ll tap ‘Unit Configuration’ D
+i
+s
+t
+Now we can tell it what Job to do: Tap MFD r
+i
+b
+u
+Then EIS t
+i
+o
+n
+
+--- PAGE 20 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+20
+Now we’ve told our GI 275 it’s doing.
+F
+o
+r
+This is tRhe process regardless if we’re
+e
+f
+setting up a singlee GI or several in a larger
+r
+e
+N
+EFIS arrangement. n
+o c
+t e
+f
+o O
+Next we’ll return home so we may go
+r n
+P l
+y
+to the ‘Interfaces’ muenu and select our
+b
+l
+i
+GEA and it’s interfaced port. c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 21 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+21
+Now we’ve told our GI 275 it’s doing.
+F
+o
+r
+This is tRhe process regardless if we’re
+e
+f
+setting up a singlee GI or several in a larger
+r
+e
+N
+EFIS arrangement. n
+o c
+t e
+f
+o O
+Next we’ll return home so we may go
+r n
+P l
+y
+to the ‘Interfaces’ muenu and select our
+b
+l
+i
+GEA and it’s interfaced port. c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 22 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+22
+Now we’ve told our GI 275 it’s doing.
+F
+o
+r
+This is tRhe process regardless if we’re
+e
+f
+setting up a singlee GI or several in a larger
+r
+e
+N
+EFIS arrangement. n
+o c
+t e
+f
+o O
+Next we’ll return home so we may go
+r n
+P l
+y
+to the ‘Interfaces’ muenu and select our
+b
+l
+i
+GEA and it’s interfaced port. c
+D
+i
+s
+Scroll down to EIS 1 t
+r
+i
+b
+This represents the EIS for the #1 Engine. So u
+t
+i
+o
+if this were a twin, you might choose to
+n
+configure EIS 2.
+
+--- PAGE 23 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+23
+Tap EIS 1 to configure the Garmin
+F
+o
+r
+Engine A dapter system for the engine
+R
+e
+f
+you’re configuringe.
+r
+e
+N
+n
+oEIS 1 c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 24 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+24
+Tap EIS 1 to configure the Garmin
+F
+o
+r
+Engine A dapter system for the engine
+R
+e
+f
+you’re configuringe.
+r
+e
+N
+n
+oEIS 1 c
+t e
+f
+o O
+Tap Interfacer to choose your GEA n
+P l
+y
+u
+b
+GEA 24
+l
+i
+c
+Also tell the GI which RS 232 the GEAD 24 is
+i
+s
+using. t
+r
+i
+b
+Alternatively, you can set the RS 485 port u
+t
+i
+you're using with your GEA 110. o
+n
+
+--- PAGE 25 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+25
+Tap EIS 1 to configure the Garmin
+F
+o
+r
+Engine A dapter system for the engine
+R
+e
+f
+you’re configuringe.
+r
+e
+N
+n
+oEIS 1 c
+t e
+f
+o O
+Tap Interfacer to choose your GEA n
+P l
+y
+u
+b
+GEA 24
+l
+i
+c
+Also tell the GI which RS 232 the GEAD 24 is
+i
+s
+using. t
+r
+i
+b
+Alternatively, you can set the RS 485 port u
+t
+i
+you're using with your GEA 110. o
+n
+
+--- PAGE 26 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+26
+Tap EIS 1 to configure the Garmin
+F
+o
+r
+Engine A dapter system for the engine
+R
+e
+f
+you’re configuringe.
+r
+e
+N
+n
+oEIS 1 c
+t e
+f
+o O
+Tap Interfacer to choose your GEA n
+P l
+y
+u
+b
+GEA 24
+l
+i
+c
+Also tell the GI which RS 232 the GEAD 24 is
+i
+s
+using. t
+r
+i
+b
+Alternatively, you can set the RS 485 port u
+t
+i
+you're using with your GEA 110. o
+n
+
+--- PAGE 27 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+27
+Tap EIS 1 to configure the Garmin
+F
+o
+r
+Engine A dapter system for the engine
+R
+e
+f
+you’re configuringe.
+r
+e
+N
+n
+oEIS 1 c
+t e
+f
+o O
+Tap Interfacer to choose your GEA n
+P l
+y
+u
+b
+GEA 24
+l
+i
+c
+Also tell the GI which RS 232 the GEAD 24 is
+i
+s
+using. t
+r
+i
+b
+Alternatively, you can set the RS 485 port u
+t
+i
+you're using with your GEA 110. o
+n
+
+--- PAGE 28 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+28
+Note:
+F
+o
+r
+You canR route the Warning and Caution
+e
+f
+lighting discrets ferom the ‘Annunciation’
+r
+e
+N
+menu below the RS 232 senlection.
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 29 ---
+GI - EIS Recipe March 30, 2026
+7:59 AM
+29
+Best work flow for EIS
+F
+o
+r
+Configs:
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+Contfigure e
+f
+o O
+r n
+Sensors
+P l
+y
+u
+Pages b
+l
+i
+c
+Gauges
+D
+i
+s
+Fuel
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 30 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+30
+Each connected EIS sensor is
+F
+o
+r
+configur ed following this process:
+R
+e
+f
+e
+Determine all installed EIS sensors that
+r
+e
+N
+n
+ointerface to the GI 275 system
+c
+. (Identify)
+t e
+f
+From theo ‘Home’ configuration menu O
+r n
+P l
+navigate to then tap ‘EIS’ y
+u
+b
+l
+Once you’ve input the Enginei Pcarameters:
+D
+i
+Cylinder number s
+t
+r
+i
+Power metrics b
+u
+t
+Hours i
+o
+n
+
+--- PAGE 31 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+31
+In both the Over the Counter and the
+F
+o
+r
+Approve d Model List STC manuals
+R
+e
+f
+you’ll find this walek thru for a TIT
+r
+e
+N
+n
+sensor.
+o c
+t e
+f
+o O
+Sensor configurations are in Appendix C.
+r n
+P l
+y
+Table C.12
+u
+b
+l
+i
+Follow the menu walk thru as fcollows.
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 32 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+32
+Tap the ‘EIS’ Menu and then tap
+F
+o
+r
+‘Sensors ’
+R
+e
+f
+e
+Scroll to the sensor you’re going to setup.
+r
+e
+N
+n
+o c
+t e
+f
+o O
+We’re doing the TIT example which is in
+r n
+P l
+y
+the Install Manual u
+b
+l
+i
+c
+D
+i
+s
+To begin we’ll assume you’ve tapped the
+t
+r
+i
+b
+‘EIS’ menu and then selected ‘Sensors’
+u
+t
+i
+o
+n
+
+--- PAGE 33 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+33
+Scroll down to the TIT selection and
+F
+o
+r
+tap the w indow indicating you’d like to
+R
+e
+f
+configure this senesor.
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 34 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+34
+File Location is used to configure from
+F
+o
+r
+the list o f optional sensors.
+R
+e
+f
+e
+Tap ‘File Location’ anrd choose
+e
+N
+n
+o c
+‘Internal’ if the GI will be the origin for
+t e
+f
+o O
+this configurartion. n
+P l
+y
+u
+b
+Alternatively, you may select the USB
+l
+i
+c
+drive if the configuration exists on a
+D
+i
+s
+connected USB Storage device. t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 35 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+35
+We’ll choose ‘Internal’ for this example
+F
+o
+r
+to match the Installation Manual.
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 36 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+36
+Next we’re telling the GI EIS how to
+F
+o
+r
+commun icate with the TIT sensor.
+R
+e
+f
+e
+Let’s choose the inpurt where the TIT is
+e
+N
+n
+o c
+connected on the GEA.
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 37 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+37
+Scroll down:
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 38 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+38
+In this case the TIT sensor is
+F
+o
+r
+connect ed to the ‘Gen Purpose 6’ input
+R
+e
+f
+on the GEA 24. e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 39 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+39
+Next we’ll tap the ‘Model’ menu so we
+F
+o
+r
+can choo se the correct sensor.
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 40 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+40
+In this case we’ve chosen the Garmin
+F
+o
+r
+Part Num ber 494-70002-00
+R
+e
+f
+e
+This is a standard threaded bayonet style
+r
+e
+N
+n
+o‘K Type’ Thermocouple.
+c
+t e
+f
+o O
+r n
+P l
+y
+Don’t forget to tap ‘Eunter’ to confirm
+b
+l
+instead of ‘Back’ or you’ll findi ycou need to
+D
+repeat a step or two. i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 41 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+41
+You’ll walk thru this process for each
+F
+o
+r
+sensor in terfaced to the GEA.
+R
+e
+f
+e
+To ensure the gaugers and pages
+e
+N
+n
+o c
+appear and operate the way we expect
+t e
+f
+o O
+we’ll follow thris basic process outlined n
+P l
+y
+u
+in Chapter 5 section 7.2b for each
+l
+i
+c
+sensor system.
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+When completed we can move on to
+n
+the pages and gauges.
+
+--- PAGE 42 ---
+Config Walk -Thru March 30, 2026
+7:59 AM
+42
+You’ll walk thru this process for each
+F
+o
+r
+sensor in terfaced to the GEA.
+R
+e
+f
+e
+To ensure the gaugers and pages
+e
+N
+n
+o c
+appear and operate the way we expect
+t e
+f
+o O
+we’ll follow thris basic process outlined n
+P l
+y
+u
+in Chapter 5 section 7.2b for each
+l
+i
+c
+sensor system.
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+When completed we can move on to
+n
+the pages and gauges.
+
+--- PAGE 43 ---
+GI - EIS Recipe March 30, 2026
+7:59 AM
+43
+Best workflow for EIS
+F
+o
+r
+Configs:
+R
+e
+f
+e
+r
+e
+N
+n
+oCalibrate c
+t e
+f
+o O
+Once the Sensors are setup, time
+r n
+P l
+y
+to make them work and report as
+u
+b
+required l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 44 ---
+GI - EIS Recipe March 30, 2026
+7:59 AM
+44
+Best workflow for EIS
+F
+o
+r
+Configs:
+R
+e
+f
+e
+r
+e
+N
+n
+oCalibrate c
+t e
+f
+o O
+Once the Sensors are setup, time
+r n
+P l
+y
+to make them work and report as
+u
+b
+required l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 45 ---
+GI - EIS Recipe March 30, 2026
+7:59 AM
+45
+Quick Tips on EIS Configs:
+F
+o
+r
+ImpropeRrly setting the K Factor of your
+e
+f
+flow transducers.e
+r
+e
+N
+n
+oUse manufacturer’s settings: So
+c
+metimes
+t e
+this fmeans reaching out to the manufa cturer
+o O
+r n
+with the mode l and serial numbers to
+P l
+y
+u
+retrieve this information.
+b
+l
+i
+c
+Set the K Factor first then set the sensor
+D
+type. i
+s
+t
+r
+If K Factor ever needs adjusted, you must i
+b
+u
+reset the sensor to ‘None’ before changing. t
+i
+o
+n
+
+--- PAGE 46 ---
+GI - EIS Recipe March 30, 2026
+7:59 AM
+46
+Quick Tips on EIS Configs:
+F
+o
+r
+Ensure cRorrect Fuel Quantity sensors are
+e
+f
+configured beforee calibration
+r
+e
+N
+n
+oPay attention to Fuel Totals ca
+c
+librate for
+t e
+f
+individuaol tank and make sure your O
+r n
+P l
+aircraft total capacity is correct. y
+u
+b
+l
+Per Tank QTY = EIS -> GAUGESi -> FUEL
+c
+(Main) D
+i
+s
+t
+Total Combined QTY = EIS -> GAUGES -> r
+i
+b
+FUEL -> FULL CAPACITY u
+t
+i
+o
+Ensure each configured Gauge is a match
+n
+for the removed equipment.
+
+--- PAGE 47 ---
+GI - EIS Recipe March 30, 2026
+7:59 AM
+47
+EIS Double Checks:
+F
+o
+r
+Once insRtalled, configurated,
+e
+f
+and calibrated a seensor
+r
+e
+N
+may act up: n
+o c
+t e
+f
+Check spolices O
+r n
+P l
+y
+Ensure wire shields and
+u
+b
+l
+insulators are intact i
+c
+D
+Examine bonding of all i
+s
+t
+r
+components in the system i
+b
+u
+t
+i
+Check your Appendices o
+n
+NOTAS LEGERE!
+
+--- PAGE 48 ---
+March 30, 2026
+7:59 AM
+49
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What Installation Manual section walks you thru EIS
+b
+l
+i
+c
+Configura tion?
+D
+i
+s
+t
+A. Chapter 5, Section 5 r
+i
+b
+u
+t
+B. Chapter 5, Section 7 i
+o
+n
+C. Appendix C, Section 5
+D. Appendix E, Section 1
+
+--- PAGE 49 ---
+March 30, 2026
+7:59 AM
+51
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+GI 275 Engine Indication Systems offer which of the
+b
+l
+i
+c
+follow ing?
+D
+i
+s
+t
+A. 4 Cylinder Piston Engines (GEA 2r4)
+i
+b
+u
+t
+B. 7 Cylinder Radial Engines (GEA 110) i
+o
+n
+C. Turbine Engines (GEA 71B)
+D. 4 Cylinder Diesel Engines (GEA 71B)
+
+--- PAGE 50 ---
+March 30, 2026
+7:59 AM
+52
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+I participated in the Red Roloim EIS Configuration Section
+c
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 51 ---
+Summary
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+We brooke down the Config Wor
+c
+kflow
+t e
+f
+o O
+Identify
+r n
+P l
+y
+Configure u
+b
+l
+Calibrate i c
+D
+i
+We looked at the Configuration of a senssor
+t
+r
+i
+b
+u
+Examples we explored are in the OTC and AML STC
+t
+i
+o
+n
+installation documentation so A&P’s and Garmin Dealers
+alike can install Garmin GI 275 EIS Systems.
+
+--- PAGE 52 ---
+March 30, 2026
+7:59 AM
+54
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+Any Questions? i b
+u
+t
+i
+o
+n
+
+--- PAGE 53 ---
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+Thank You!
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+Chris Hendrix i
+b
+u
+t
+i
+o
+n
+Senior Aviation Maintenance Instructor
+Garmin Aviation Training
+Aviation.training@garmin.com

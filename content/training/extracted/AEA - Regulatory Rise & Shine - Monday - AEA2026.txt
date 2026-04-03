@@ -1,0 +1,455 @@
+--- PAGE 2 ---
+Regulatory Rise & Shine
+Ric Peri
+Aircraft Electronics Association
+ricp@aea.net
+202-589-1144
+
+--- PAGE 3 ---
+Requirements for Interference-
+Tolerant Radio Altimeter Systems
+
+--- PAGE 4 ---
+RadAlt proposal
+• §91.220 Radio Altimeter Systems
+• (a) After [two years after the initial RA performance deadline], no
+person may operate an aircraft in the airspace of the 48 contiguous
+United States and the District of Columbia with a radio altimeter unless
+the radio altimeter system meets the performance requirements of
+paragraph (b).
+• (b) The radio altimeter system must operate at an altitude of 0–500 feet
+above ground level in the interference environment defined in table 1:
+
+--- PAGE 5 ---
+RadAlt proposal
+• §121.326 Radio Altimeter Systems
+• After [the initial RA performance deadline], no person may operate an
+aircraft under this part in the airspace of the 48 contiguous United
+States and the District of Columbia with a radio altimeter unless the
+radio altimeter system meets the performance requirements of
+§91.220(b) of this chapter.
+
+--- PAGE 6 ---
+RadAlt proposal
+• §129.16 Radio Altimeter Systems
+• (a) After [the initial RA performance deadline], no person may operate an
+aircraft with 30 or more passenger seats or a payload capacity of more than
+7,500 pounds under this part in the airspace of the 48 contiguous United
+States and the District of Columbia with a radio altimeter unless the radio
+altimeter system meets the performance requirements of §91.220(b) of this
+chapter.
+• (b) After [two years after the initial RA performance deadline], no person may
+operate an aircraft under this part in the airspace of the 48 contiguous United
+States and the District of Columbia with a radio altimeter unless the radio
+altimeter system meets the performance requirements of §91.220(b) of this
+chapter.
+
+--- PAGE 7 ---
+Timeline
+• These regulations would require all aircraft equipped with radio
+altimeters operating under part 121 and those aircraft with radio
+altimeters operating under part 129 with 30 or more passenger seats
+or a payload capacity of more than 7,500 pounds to comply with the
+minimum performance requirements by the date the Federal
+Communications Commission authorizes wireless services in the
+Upper C-band.
+• All other aircraft equipped with radio altimeters would be required to
+comply with the same minimum performance requirements two
+years later.
+
+--- PAGE 8 ---
+Requirements for Interference-
+Tolerant Radio Altimeter Systems
+• AC 20-199, Installation of an Airborne Low-Range Radio Altimeter
+System
+• The Federal Aviation Administration has published this draft advisory
+circular as a companion document to the notice of proposed
+rulemaking on radar altimeters.
+
+--- PAGE 9 ---
+Airworthiness Standards: Normal Category Airplanes
+
+--- PAGE 10 ---
+Airworthiness Standards: Normal Category Airplanes
+• Accepted Means of Compliance (MOC); Airworthiness
+Standards: Normal Category Airplanes (May 20, 2025)
+• This document announces the availability of ASTM International
+(ASTM) consensus standards for use as an FAA-accepted MOC
+to the applicable airworthiness standards for normal category
+airplanes. The FAA accepts ASTM F3264–24, ‘‘Standard
+Specification for Normal Category Aeroplanes Certification,’’
+with changes identified in this document.
+
+--- PAGE 11 ---
+Airworthiness Standards: Normal Category Airplanes
+• Means of Compliance Accepted The FAA accepts only the
+revisions of the standards referenced in ASTM F3264–24,
+‘‘Standard Specification for Normal Category Aeroplanes
+Certification,’’ as a MOC for part 23, amendments 23–64 and
+23–65,
+
+--- PAGE 12 ---
+NPRM:
+Normalizing Unmanned Aircraft Systems
+Beyond Visual Line of Sight Operations
+
+--- PAGE 13 ---
+NPRM: Normalizing Unmanned Aircraft Systems BVLoS Operations
+Part 108 Aircraft
+(Not Type Certificated)
+│
+▼
+Part 43 Not Applicable
+│
+▼
+Part 145 Privileges
+Not Applicable
+
+--- PAGE 14 ---
+Proposal
+• BVLOS (Part 108) NPRM
+• Aircraft
+• Package delivery. – 55lbs
+• Aerial surveying/ Civic interest – 110 lbs
+• Agriculture – 1320 lbs
+• Maintenance
+• Part 43 “like” – must follow methods techniques and practices (maintenance
+manual)
+• Repairman “like” qualified and authorized – but not certificated.
+
+--- PAGE 15 ---
+NPRM: Normalizing Unmanned Aircraft Systems BVLoS Operations
+• Opportunities:
+• SME (Subject Matter Experts)
+• Electrical
+• Electronic
+• Flight Management System
+• Electronic Conspicuity
+• Right-of-Way (§91.113)
+• SEC. 810 Report: DEVELOPMENT OF LOW-COST VOLUNTARY ADS–B
+
+--- PAGE 16 ---
+Final Rule
+Falsification, Reproduction, Alteration, Omission, or
+Incorrect Statements
+
+--- PAGE 17 ---
+Falsification, Reproduction, Alteration, Omission, or Incorrect Statements
+• Final rule effective November 3, 2025.
+• Falsification prohibitions prior to this final rule were found in 14
+CFR chapter I, parts 3, 21, 43, 60, 61, 63, 65, 67, 89, 107, 111,
+120, 121, 139, 142, and 145.
+• The final rule removes the existing falsification regulations from
+these parts, except part 3, and consolidates them in a new
+subpart in part 3.
+
+--- PAGE 18 ---
+Falsification, Reproduction, Alteration, Omission, or Incorrect Statements
+• 14 CFR Part 3, Subpart D: Falsification, Reproduction,
+Alteration, Omission, or Incorrect Statements
+
+--- PAGE 19 ---
+Major Repair and Alteration
+Data Approval
+Job aid
+
+--- PAGE 20 ---
+Major Repair and Alteration Data Approval
+• Revision 7 released on July 24, 2025
+
+--- PAGE 21 ---
+MRADA Rev 7
+NOTE:
+• The Major Repair and Alteration Job Aid does not apply to
+Restricted Category Aircraft. Reference FAA Order 8110.56B,
+which provides guidance to FAA Flight Standards District Offices
+and Aircraft Certification Branches for Restricted category
+aircraft to include both 21.25(a)(1) or 21.25(a)(2) aircraft.
+
+--- PAGE 22 ---
+MRADA Rev 7
+• This job aid includes additional information to FAA Order
+8300.16 (as revised), Major Repair and Alteration Data Approval.
+The job aid may be accessed at
+https://drs.faa.gov/browse/OTHER_JOB_AIDS/doctypeDetails
+• FAA Order 8300.16 (as revised), Major Repair and Alteration
+Data Approval may be located at
+https://drs.faa.gov/browse/ORDERS/doctypeDetails
+
+--- PAGE 23 ---
+FAA Order 8300.16A CHG 1
+• Purpose of This Order.
+• This order provides guidance applicable to the data approval process
+for major repairs and alterations, including field approvals. The source
+basis for this order is Title 14 of the Code of Federal Regulations (14
+CFR) part 43.
+
+--- PAGE 24 ---
+FAA Order 8300.16A CHG 1
+• Audience.
+• The audience for this order is responsible Flight Standards offices, aviation
+safety inspectors (ASI), Aircraft Certification Offices (ACO), Aviation Safety
+Engineers (ASE),designees (Designated Engineering Representatives (DER),
+Organization Designation Authorizations (ODA), and Designated
+Airworthiness Representatives (DAR)), and others engaged in the approval
+process for major repairs, major alterations, and the data associated with
+each. For the purpose of this order, the use of the term “ASI” includes DARs
+authorized to approve data in support of major repairs or alterations when
+performing work in accordance with Federal Aviation Administration (FAA)
+Order 8000.95, Designee Management Policy.
+
+--- PAGE 25 ---
+FAA Order 8300.16A CHG 1
+• SUBJ: Major Repair and Alteration Data Approval
+• This order provides guidance on the responsibilities and requirements
+for the approval of technical data associated with major repairs or
+alterations. Types and sources of technical data are discussed.
+Considerations that must be addressed in the development of
+technical data to substantiate major repairs or alterations are also
+addressed.
+• This order does not provide guidance for making decisions on major or
+minor changes in type design.
+
+--- PAGE 26 ---
+ELIGIBILITY CONSIDERATIONS FOR FIELD DATA APPROVAL
+• The following lists contain method(s) that may be used for
+approval of data supporting major alterations to type
+certificated (TC) and Supplemental Type Certificated (STC)
+products. These lists are not all-inclusive, and each alteration
+should be evaluated on a case-by-case basis. Consult each
+section that concerns the aeronautical product. Additionally,
+aviation safety inspectors (ASI) should review current notices,
+advisory circulars (AC), etc., for specific types of installations
+that have been identified as candidates for field data approval.
+The legend is as follows:
+
+--- PAGE 27 ---
+ELIGIBILITY CONSIDERATIONS FOR FIELD DATA APPROVAL
+• 1. STC. Items with the letters “STC” identify changes that are
+determined to be major changes to type design (ref 14 CFR 21.93)
+and require an STC.
+• Taking into consideration the complexity of a broad range of
+applications concerning major alterations, inspectors occasionally
+encounter a situation in which the guidance material identifies
+“STC”, but the applicant feels the change doesn't warrant approval
+as a major change to the product's type design.
+• The applicant may request a reclassification for the specific
+alteration. See paragraph 4. “Reclassification Process”.
+
+--- PAGE 28 ---
+ELIGIBILITY CONSIDERATIONS FOR FIELD DATA APPROVAL
+• 2. EVL. Data supporting items designated ‘Evaluation” by the
+letters “EVL” may be eligible for approval by means other than a
+STC, depending on the scope and complexity of the alteration.
+• These items will not automatically qualify for a field approval;
+they require evaluation and review of guidance to determine if
+the field approval process may be applied and is appropriate.
+• The ASI may seek assistance from the appropriate ACB if
+necessary, in making determinations of items listed as “EVL”.
+
+--- PAGE 29 ---
+ELIGIBILITY CONSIDERATIONS FOR FIELD DATA APPROVAL
+• 3. ENG. Data supporting items designated “Engineering" by the
+letters “ENG” may be eligible for approval by means other than a
+STC, but may not qualify for field approval.
+• This data may be obtained from a Designated Engineering
+Representative (DER), Organization Designation Authorization
+(ODA) approved engineering data, or through an ACB
+coordinated field approval.
+
+--- PAGE 30 ---
+ELIGIBILITY CONSIDERATIONS FOR FIELD DATA APPROVAL
+• 4. Reclassification Process. If the legend indicates an STC is
+required, but the applicant believes that the change does not
+warrant an STC, the applicant may request a reclassification for
+the specific alteration.
+• Likewise, if the legend indicates EVL or ENG, but the FAA
+determines that the alteration/repair constitutes a major change
+to type design and therefore requires an STC, the applicant will
+be notified of that determination but still may request a
+reclassification for the specific alteration.
+
+--- PAGE 31 ---
+ELIGIBILITY CONSIDERATIONS FOR FIELD DATA APPROVAL
+• a. The applicant will forward the request for reclassification to
+the local Flight Standards District Office (FSDO). The FSDO
+should ensure that a complete request includes at a minimum:
+• (1) A description of the alteration to include information justifying the
+reclassification and identification of the product it is being installed on.
+• (2) The correct identification of the section in the Major
+Repair/Alteration Job Aid against which a reclassification is being
+requested, including the revision status of the job aid.
+
+--- PAGE 32 ---
+ELIGIBILITY CONSIDERATIONS FOR FIELD DATA APPROVAL
+• b. Each FSDO will evaluate the request based on regulatory
+requirements including a collaborative decision that involves the ASI,
+office management, and the associated Aircraft Certification Service
+(AIR) office.
+• (1) If the FSDO does not concur, they will notify the applicant with an
+explanation why the reclassification request was inappropriate. The applicant
+may request the FSDO review of a non-concur using FAA Consistency and
+Standardization Initiative (CSI) procedures.
+• (2) If the FSDO supports the reclassification and believes further
+consideration is warranted, the FSDO will send their concurrence, along with
+the request to the appropriate Aircraft Certification Branch preferably by
+electronic communication.
+
+--- PAGE 33 ---
+ELIGIBILITY CONSIDERATIONS FOR FIELD DATA APPROVAL
+• c. The ACB will evaluate the request from an engineering standpoint using
+an interdependent process involving the FSDO ASI, FSDO Management.
+AIR should be used to collaboratively reach a decision on the
+reclassification appeal request.
+• (1) If the ACB does not concur with the reclassification request, the ACB will notify the
+FSDO with an explanation as to why the reclassification request was inappropriate.
+The FSDO will forward this to the applicant.
+• (2) The ACB will then return the reclassification request with the Approval or Denial to
+the FSDO.
+• (3) The FSDO will then inform the applicant that the repair or alteration does, or does
+not require a STC, as applicable, and will evaluate the package accordingly.
+
+--- PAGE 34 ---
+ELIGIBILITY CONSIDERATIONS FOR FIELD DATA APPROVAL
+NOTE:
+• The FSDO should ensure that the applicant has referenced the
+concurrence on the FAA Form 337 prior to issuing the field data
+approval or documenting the alteration with approved data.
+
+--- PAGE 35 ---
+MRADA Rev 7
+NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY
+AIRPLANES
+The following list applies to aircraft certificated under Title 14 of
+the Code of Federal Regulations (14 CFR) parts 23 and 31 (or
+earlier regulations), Special Federal Aviation Regulation (SFAR) 41,
+or Joint Aviation Regulation (JAR) 22.
+This section does not apply to aircraft certified under 14 CFR 23,
+after amendment 23.64.
+
+--- PAGE 36 ---
+AC 120-78B:
+Electronic Signatures, Electronic Recordkeeping, and
+Electronic Manuals
+
+--- PAGE 37 ---
+DRAFT: AC 120-78B Change 1
+• AC 120-78B: Electronic Signatures, Electronic Recordkeeping,
+and Electronic Manuals
+• 1.9.2 FAA Acceptance.
+• With the exception of the items that require FAA approval (see
+paragraph 1.9.1 above), FAA acceptance will be used for certificate
+holders to use electronic signatures, electronic recordkeeping
+systems, and electronic manual systems to satisfy the requirements of
+14 CFR parts 91K, 121, 125, 133, 135, and 145.
+
+--- PAGE 38 ---
+DRAFT: AC 120-78B Change 1
+• 1.9.5 There is No Requirement for the Issuance of OpSpec A025 for
+14 CFR Part 61, 63, 65, 91 (Excluding 91K), 129, 137, 145, or 147.
+• OpSpec/MSpec/TSpec/LOA A025 does not apply to operations under
+these parts.
+• However, the FAA recommends that all certificate holders follow the
+guidelines for electronic signatures, records, and manuals as set
+forth in the AC, regardless of whether or not approval, acceptance, or
+authorization is required.
+
+--- PAGE 39 ---
+DRAFT: AC 120-78B Change 1
+• If a required signature, record, or manual provided in an electronic
+format or application does not contain the key elements or does not
+follow the guidelines set forth in this AC, the FAA may question its
+validity.
+• If the FAA determines that an electronic signature, record, or manual
+is missing key elements, does not follow the guidelines, or is
+otherwise unacceptable, the FAA office with oversight responsibility
+will notify the certificate holder in writing.
+• Upon receiving notification, it is incumbent upon the certificate
+holder to make the appropriate corrections.
+
+--- PAGE 40 ---
+Rulemaking Committees
+
+--- PAGE 41 ---
+ICA Aviation Rulemaking Committee
+• § 21.50 Instructions for continued airworthiness and manufacturer's
+maintenance manuals having airworthiness limitations sections.
+• (b) The holder of a design approval, including either a type certificate or
+supplemental type certificate for an aircraft, aircraft engine, or propeller for
+which application was made after January 28, 1981, must furnish at least one
+set of complete Instructions for Continued Airworthiness to the owner of each
+type aircraft, aircraft engine, or propeller upon its delivery, or upon issuance of
+the first standard airworthiness certificate for the affected aircraft, whichever
+occurs later.
+• The Instructions for Continued Airworthiness must be prepared in accordance
+with §§ 23.1529, 25.1529, 25.1729, 27.1529, 29.1529, 31.82, 33.4, 35.4, or part
+26 of this subchapter, or as specified in the applicable airworthiness criteria
+for special classes of aircraft defined in § 21.17(b), as applicable.
+
+--- PAGE 42 ---
+CPR Aviation Rulemaking Committee
+• § 21.101 Designation of applicable regulations.
+• (a) An applicant for a change to a type certificate must show that the
+change and areas affected by the change comply with the
+airworthiness requirements applicable to the category of the product in
+effect on the date of the application for the change and with parts 34,
+36, and 38 of this chapter. Exceptions are detailed in paragraphs (b)
+and (c) of this section.
+
+--- PAGE 43 ---
+CPR Aviation Rulemaking Committee
+• § 21.101 Designation of applicable regulations.
+• (b) Except as provided in paragraph (g) of this section, if paragraphs (b)(1), (2),
+or (3) of this section apply, an applicant may show that the change and areas
+affected by the change comply with an earlier amendment of a regulation
+required by paragraph (a) of this section, and of any other regulation the FAA
+finds is directly related.
+• (1) A change that the FAA finds not to be significant.
+• (2) Each area, system, component, equipment, or appliance that the FAA finds is not
+affected by the change.
+• 3) Each area, system, component, equipment, or appliance that is affected by the
+change, for which the FAA finds that compliance with a regulation described in
+paragraph (a) of this section would not contribute materially to the level of safety of
+the product or would be impractical.
+
+--- PAGE 44 ---
+CPR Aviation Rulemaking Committee
+• § 21.101 Designation of applicable regulations.
+• (c) An applicant for a change to an aircraft (other than a rotorcraft) of 6,000
+pounds or less maximum weight, to a non-turbine rotorcraft of 3,000 pounds
+or less maximum weight, to a level 1 low-speed airplane, or to a level 2 low-
+speed airplane may show that the change and areas affected by the change
+comply with the regulations included in the type certificate.
+• However, if the FAA finds that the change is significant in an area, the FAA may
+designate compliance with an amendment to the regulation incorporated by
+reference in the type certificate that applies to the change and any regulation
+that the FAA finds is directly related, unless the FAA also finds that
+compliance with that amendment or regulation would not contribute
+materially to the level of safety of the product or would be impractical.
+
+--- PAGE 45 ---
+CPR Aviation Rulemaking Committee
+• § 21.19 Changes requiring a new type certificate.
+• Each person who proposes to change a product must apply for a new
+type certificate if the FAA finds that the proposed change in design,
+power, thrust, or weight is so extensive that a substantially complete
+investigation of compliance with the applicable regulations is required.
+
+--- PAGE 46 ---
+AEA/ARSA Joint Resources
+• FAA Part 5 to 145 Gap Analysis (SMS)
+• SMS Integration Webinar Series
+• https://aero.aea.net/collections?category=sms
+• Fabrication Work Request
+• https://aea.net/repairstationresources/pdf/FabricationWorkRequest.docx
+• Advisories
+• U.S. Canada MIP
+• U.S. Europe MIP - SMS
+• 14 CFR 43.9 recordkeeping
+• 14 CFR 91.417 recordkeeping
+
+--- PAGE 47 ---
+Thank You!
+Now …
+Opening & Awards Ceremony
+Trinity Ballroom

@@ -197,6 +197,165 @@ export function getGuide(slug: string): Guide | undefined {
   return { slug, title, description, content: raw };
 }
 
+// ─── Training Types ─────────────────────────────────────────────────
+
+export interface TrainingTrack {
+  slug: string;
+  title: string;
+  provider: string;
+  category: string;
+  description: string;
+  sessionCount: number;
+}
+
+export interface TrainingSessionMeta {
+  slug: string;
+  track: string;
+  title: string;
+  provider: string;
+  conventionYear: number;
+  category: string;
+  difficulty: string;
+  tags: string[];
+  relatedProducts: string[];
+  fileType: string;
+  fileUrl: string;
+}
+
+export interface TrainingSession extends TrainingSessionMeta {
+  content: string;
+}
+
+// ─── Training Reader Functions ──────────────────────────────────────
+
+const trainingDir = path.join(contentDir, "training");
+
+export function getTrainingTracks(): TrainingTrack[] {
+  if (!fs.existsSync(trainingDir)) return [];
+
+  return fs
+    .readdirSync(trainingDir, { withFileTypes: true })
+    .filter((d) => d.isDirectory() && d.name !== "inbox")
+    .map((d) => {
+      const trackFile = path.join(trainingDir, d.name, "_track.md");
+      if (!fs.existsSync(trackFile)) return null;
+
+      const raw = fs.readFileSync(trackFile, "utf-8");
+      const { data } = matter(raw);
+      const sessions = getSessionsByTrack(d.name);
+
+      return {
+        slug: d.name,
+        title: (data.title as string) || d.name,
+        provider: (data.provider as string) || "",
+        category: (data.category as string) || "",
+        description: (data.description as string) || "",
+        sessionCount: sessions.length,
+      } as TrainingTrack;
+    })
+    .filter((t): t is TrainingTrack => t !== null)
+    .sort((a, b) => a.title.localeCompare(b.title));
+}
+
+export function getSessionsByTrack(track: string): TrainingSessionMeta[] {
+  const trackDir = path.join(trainingDir, track);
+  if (!fs.existsSync(trackDir)) return [];
+
+  return fs
+    .readdirSync(trackDir)
+    .filter((f) => f.endsWith(".md") && f !== "_track.md")
+    .map((f) => {
+      const slug = f.replace(".md", "");
+      const raw = fs.readFileSync(path.join(trackDir, f), "utf-8");
+      const { data } = matter(raw);
+
+      return {
+        slug,
+        track,
+        title: (data.title as string) || slug,
+        provider: (data.provider as string) || "",
+        conventionYear: (data.convention_year as number) || 0,
+        category: (data.category as string) || "",
+        difficulty: (data.difficulty as string) || "",
+        tags: (data.tags as string[]) || [],
+        relatedProducts: (data.related_products as string[]) || [],
+        fileType: (data.file_type as string) || "pdf",
+        fileUrl: (data.file_url as string) || "",
+      } as TrainingSessionMeta;
+    })
+    .sort((a, b) => a.title.localeCompare(b.title));
+}
+
+export function getSession(
+  track: string,
+  slug: string
+): TrainingSession | undefined {
+  const filePath = path.join(trainingDir, track, `${slug}.md`);
+  if (!fs.existsSync(filePath)) return undefined;
+
+  const raw = fs.readFileSync(filePath, "utf-8");
+  const { data, content } = matter(raw);
+
+  return {
+    slug,
+    track,
+    title: (data.title as string) || slug,
+    provider: (data.provider as string) || "",
+    conventionYear: (data.convention_year as number) || 0,
+    category: (data.category as string) || "",
+    difficulty: (data.difficulty as string) || "",
+    tags: (data.tags as string[]) || [],
+    relatedProducts: (data.related_products as string[]) || [],
+    fileType: (data.file_type as string) || "pdf",
+    fileUrl: (data.file_url as string) || "",
+    content,
+  };
+}
+
+export function getAllTrainingSessions(): TrainingSessionMeta[] {
+  const tracks = getTrainingTracks();
+  return tracks.flatMap((t) => getSessionsByTrack(t.slug));
+}
+
+export function getSessionsByYear(year: number): TrainingSessionMeta[] {
+  return getAllTrainingSessions().filter((s) => s.conventionYear === year);
+}
+
+export function getConventionYears(): number[] {
+  const sessions = getAllTrainingSessions();
+  const years = new Set(sessions.map((s) => s.conventionYear).filter(Boolean));
+  return Array.from(years).sort((a, b) => b - a);
+}
+
+export function getRelatedTraining(productSlug: string): TrainingSessionMeta[] {
+  return getAllTrainingSessions().filter((s) =>
+    s.relatedProducts.includes(productSlug)
+  );
+}
+
+export function getTrainingCategories(): { category: string; label: string; count: number }[] {
+  const sessions = getAllTrainingSessions();
+  const catMap = new Map<string, number>();
+  for (const s of sessions) {
+    catMap.set(s.category, (catMap.get(s.category) || 0) + 1);
+  }
+  const labels: Record<string, string> = {
+    "oem-technical": "OEM & Technical",
+    regulatory: "Regulatory",
+    business: "Business Operations",
+    "panel-planning": "Panel Planning",
+  };
+  return Array.from(catMap.entries())
+    .map(([cat, count]) => ({
+      category: cat,
+      label: labels[cat] || cat,
+      count,
+    }))
+    .sort((a, b) => b.count - a.count);
+}
+
+// ─── Search ─────────────────────────────────────────────────────────
+
 export function searchProducts(query: string): ProductMeta[] {
   const q = query.toLowerCase();
   return getAllProducts().filter(
@@ -204,6 +363,17 @@ export function searchProducts(query: string): ProductMeta[] {
       p.title.toLowerCase().includes(q) ||
       p.manufacturer.toLowerCase().includes(q) ||
       p.categoryLabel.toLowerCase().includes(q)
+  );
+}
+
+export function searchTraining(query: string): TrainingSessionMeta[] {
+  const q = query.toLowerCase();
+  return getAllTrainingSessions().filter(
+    (s) =>
+      s.title.toLowerCase().includes(q) ||
+      s.provider.toLowerCase().includes(q) ||
+      s.tags.some((t) => t.toLowerCase().includes(q)) ||
+      s.track.toLowerCase().includes(q)
   );
 }
 

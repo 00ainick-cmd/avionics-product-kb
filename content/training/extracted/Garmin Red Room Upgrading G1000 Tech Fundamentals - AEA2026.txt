@@ -1,0 +1,1776 @@
+--- PAGE 1 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+Uopgrading thOe G1000:
+r n
+P l
+y
+u
+b
+l
+i
+Technician Fcundamentals
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+From NAV III to Perspective+
+NXi Upgrade Fundamentals
+
+--- PAGE 2 ---
+March 30, 2026
+Legal Statement
+7:19 AM
+2
+F
+o
+r
+R
+e
+f
+e
+Garmin Aviation Traininrg is intended to provide the best practices for
+e
+N
+n
+o c
+the insttallation, use and maintenanece of Garmin Aviation products. It
+f
+o O
+r n
+is incumbent on te chnicians and pilots to ensure that the instructions
+P l
+y
+u
+b
+contained in the most recent versions of Garmin product manuals,
+l
+i
+c
+bulletins and notifications are followeDd.
+i
+s
+t
+r
+i
+b
+u
+© GARMIN LTD. OR ITS SUBSIDARIES. ALL RIGHTS RESERVED.
+t
+i
+o
+n
+
+--- PAGE 3 ---
+Objectives
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+Notes from Field Service on NXi Upgrades y
+u
+b
+l
+i
+c
+Pre Installation Double Checks using the Garmin
+D
+i
+s
+STC Addendums and Equipment Lists
+t
+r
+i
+b
+u
+Post Installation Double Checks for Delivery t
+i
+o
+n
+
+--- PAGE 4 ---
+Objectives
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+After completing this section, you will: y
+u
+b
+l
+Identify work processes for bettierc installation
+D
+experiences using Garmin documentation.i
+s
+t
+r
+i
+Understand the necessity of reading the addendum b
+u
+t
+notes and where Garmin lists equipment changes. i
+o
+n
+
+--- PAGE 5 ---
+Aviation Training Academy March 30, 2026
+7:19 AM
+5
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 6 ---
+What is G1000 NXi Upgrade? March 30, 2026
+7:19 AM
+6
+Boost in features and
+F
+o
+r
+performa nce of the basic
+R
+e
+f
+G1000 system e
+r
+e
+N
+n
+oFaster processor, higher c
+t e
+f
+resolutioon O
+r n
+P l
+y
+Advanced situationaul
+b
+l
+awareness features such as i c
+D
+Surface Watch, HSI Map etc. i
+s
+t
+r
+i
+Easier maintenance with Smart b
+u
+t
+LRU Replacement i
+o
+n
+
+--- PAGE 7 ---
+What is G1000 NXi Upgrade? March 30, 2026
+7:19 AM
+7
+Displays are the same size
+F
+o
+r
+and use mostly the same
+R
+e
+f
+wiring e
+r
+e
+N
+n
+o c
+There are some background
+t e
+f
+o O
+changes and rlimitations: n
+P l
+y
+u
+b
+GTX 345R
+l
+i
+c
+Active Traffic systems D
+i
+s
+t
+Complications with older LRUs, r
+i
+b
+u
+OEMs, software level
+t
+i
+o
+compatibilities n
+
+--- PAGE 8 ---
+G1000 NXi Upgrade Questions March 30, 2026
+7:19 AM
+8
+Dealers may purchase hardware kits directly from Garmin for
+F
+o
+r
+install, b ut must purchase software from the OEM
+R
+e
+f
+e
+If the customer previrously completed the G1000 NXi upgrade
+e
+N
+n
+o c
+and would like the latest software, dealers will need to request
+t e
+f
+o O
+it from Garmirn n
+P l
+y
+u
+b
+Must provide aircraft serial number and date of G1000 NXi installation
+l
+i
+c
+Copy of Logbook is sufficient D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 9 ---
+Notes From Product Support March 30, 2026
+7:19 AM
+9
+Read the service bulletin notes before starting.
+F
+o
+Repairr Shop reports we see a ton of missed boot block loads that
+R
+e
+should be accomplished with the old GDU’s installed.
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 10 ---
+Textron NXi Upgrades March 30, 2026
+7:19 AM
+10
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+Most often overlooked mistake: i
+o
+n
+STC Service Bulletin 1917
+You must install GIA 63W Boot Block software version 6.10 BEFORE removing the
+legacy displays.
+Cannot load the boot block with the NXi display units
+
+--- PAGE 11 ---
+GIA 63W Boot Block Software v. 6.10 March 30, 2026
+7:19 AM
+11
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 12 ---
+GIA 63W Boot Block Software v. 6.10 March 30, 2026
+7:19 AM
+12
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 13 ---
+GIA 63W Boot Block Software v. 6.10 March 30, 2026
+7:19 AM
+13
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 14 ---
+Notes From Product Support March 30, 2026
+7:19 AM
+14
+Read the service bulletin notes before starting. We see a ton of
+F
+o
+missed rboot block loads that should be accomplished with the
+R
+e
+old GDU’s installefd.
+e
+r
+e
+NPay attention to part numbners of GIA’s installed as compared to
+o c
+t e
+what the gfeneral arrangement draw ling calls out as required.
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 15 ---
+General Arrangement March 30, 2026
+7:19 AM
+15
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 16 ---
+General Arrangement March 30, 2026
+7:19 AM
+16
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 17 ---
+Notes From Product Support March 30, 2026
+7:19 AM
+17
+Read the service bulletin notes before starting. We see a ton of
+F
+o
+missed rboot block loads that should be accomplished with the old
+R
+e
+GDU’s installed. f
+e
+r
+e
+NPay attention to part numbners of GIA’s installed as compared to
+o c
+t e
+what the sfervice bulletin calls out as required.
+o O
+r n
+P l
+Before removing GDU’s please put together ay list of items installed
+u
+b
+on the aircraft. Especially palyiing close attention to third party non-
+c
+D
+Garmin LRU’s. Check for any aftermariket modifications.
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 18 ---
+March 30, 2026
+7:19 AM
+18
+F
+NOTES
+o
+r
+R
+e
+f
+e
+Do not trrust the equipment list
+e
+N
+n
+o c
+t e
+completely.
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+Double check, and make sure, it is up to
+i
+s
+t
+r
+i
+date with all modifications anbd
+u
+t
+i
+o
+equipment, prior to starting Install.
+n
+
+--- PAGE 19 ---
+Notes From Product Support March 30, 2026
+7:19 AM
+19
+Read the service bulletin notes before starting. We see a ton of
+F
+o
+missed rboot block loads that should be accomplished with the
+R
+e
+old GDU’s installefd.
+e
+r
+e
+NPay attention to part numbners of GIA’s installed as compared to
+o c
+t e
+what the sfervice bulletin calls out as required.
+o O
+r n
+P l
+Before removing GDU’s please put together ay list of items
+u
+b
+l
+installed on the aircraft. Espeicially paying close attention to third
+c
+D
+party non-Garmin LRU’s. Check for anyi aftermarket
+s
+t
+r
+i
+modifications. b
+u
+t
+i
+Get all enablement cards together and make sure beforeo
+n
+enabling a particular option it is still being used by the customer.
+Chartview, Etc…
+
+--- PAGE 20 ---
+Lost Card Communique March 30, 2026
+7:19 AM
+20
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 21 ---
+Notes From Product Support March 30, 2026
+7:19 AM
+21
+Read the service bulletin notes before starting. We see a ton of
+F
+o
+missed boot block loads that should be accomplished with the
+r
+R
+old GDU’s instaelled.
+f
+e
+Pay attention to part nrumbers of GIA’s installed as compared to
+e
+N
+n
+wha o t the service bulletin calls cout as required.
+t e
+f
+o O
+Before removing GDU’s please put together a list of items
+r n
+P l
+y
+installed on the aircrauft. Especially paying close attention to third
+b
+l
+party non-Garmin LRU’s. Cheick for any aftermarket
+c
+D
+modifications. i
+s
+t
+r
+Get all enablement cards together and make siure before
+b
+u
+enabling a particular option it is still being used by thet customer.
+i
+o
+n
+Chartview…!
+Call first before loading software if you have any questions.
+
+--- PAGE 22 ---
+How to Contact Us
+March 30, 2026
+7:19 AM
+22
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+Dealer Aviation SPupport: l
+y
+u
+b
+l
+888-606-5482 i
+c
+D
+aviation.support@garmin.com i s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 23 ---
+Perspective+ Pro Tips: March 30, 2026
+7:19 AM
+23
+Questions we were asked
+F
+o
+r
+before the STC was issued:
+R
+e
+f
+e
+Notes on the STC Drawings:
+r
+e
+N
+n
+o c Structural modifications
+t e
+f
+o O General Arrangement Drawings
+r n
+P l
+y
+u Beware! T hird Party STC
+b
+l Compatibility is a thing…
+i
+c
+D
+NOTAS LEGERE!
+i
+s
+t
+Startr from the end
+i
+b
+u
+Screen change?
+t
+i
+o
+Size considerations? n
+
+--- PAGE 24 ---
+Panel Modification March 30, 2026
+7:19 AM
+24
+A center console modification
+F
+o
+r
+will be required for this
+R
+e
+f
+e upgrade
+r
+e
+N
+n
+o c
+A new Radio rack will be
+t e
+f
+o O
+r instalnled
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 25 ---
+Determine Eligibility March 30, 2026
+7:19 AM
+25
+Determine eligibility
+F
+o
+r
+R General arrangement Drawling
+e
+f
+e Verify
+r
+e
+N
+n
+o c Serial Number
+t e
+f
+o OEngine Type
+r n
+P l
+Third pyarty STC applicability
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 26 ---
+Determine Eligibility March 30, 2026
+7:19 AM
+26
+Determine eligibility
+F
+o
+r
+R General arrangement Drawling
+e
+f
+e Verify
+r
+e
+N
+n
+o c Serial Number
+t e
+f
+o OEngine Type
+r n
+P l
+Third pyarty STC applicability
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 27 ---
+Determine Eligibility March 30, 2026
+7:19 AM
+27
+Determine eligibility
+F
+o
+r
+R If the aircraft has an STEC
+e
+f Autopilot installed it is not eligible
+e
+r
+e
+N Aircraft with GIA 64’s not yet
+n
+o c
+t e supported
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 28 ---
+Determine Eligibility March 30, 2026
+7:19 AM
+28
+Determine eligibility
+F
+o
+r
+R If the aircraft has an STEC
+e
+f Autopilot installed it is not eligible
+e
+r
+e
+N Aircraft with GIA 64’s not yet
+n
+o c
+t e supported
+f
+o O
+r nLegacy GDL 69(A) is not
+P l
+y
+u supported
+b
+l
+i
+c Must be upgraded to retain SXM
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 29 ---
+NOTAS LEGERE March 30, 2026
+7:19 AM
+29
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 30 ---
+NOTAS LEGERE March 30, 2026
+7:19 AM
+30
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 31 ---
+Where do I start March 30, 2026
+7:19 AM
+31
+Start From the end
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 32 ---
+Where do I start March 30, 2026
+7:19 AM
+32
+Start From the end
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 33 ---
+NOTAS LEGERE March 30, 2026
+7:19 AM
+33
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 34 ---
+Can I Go Bigger March 30, 2026
+7:19 AM
+34
+Often those with 10” Displays
+F
+o
+r
+Ask if they can Upgrade to the
+R
+e
+f
+e 12” Displays
+r
+e
+N
+n
+o c
+Note 10 Explains how
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 35 ---
+Can I Go Bigger March 30, 2026
+7:19 AM
+35
+Often those with 10” Displays
+F
+o
+r
+Ask if they can Upgrade to the
+R
+e
+f
+e 12” Displays
+r
+e
+N
+n
+o c
+Note 10 Explains how
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 36 ---
+March 30, 2026
+7:19 AM
+36
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What must be accomplishebd before returning your Legacy G1000
+l
+i
+c
+displa ys?
+D
+i
+s
+t
+A. Load GIA Boot Block Software usinrg Service
+i
+b
+Documentation u
+t
+i
+o
+B. The Rain Dance of 10,000 Tears n
+C. Install new GDU System Software
+D. Reconfigure the Aircraft
+
+--- PAGE 37 ---
+March 30, 2026
+7:19 AM
+37
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What must be accomplishebd before returning your Legacy G1000
+l
+i
+c
+displa ys?
+D
+i
+s
+t
+A. Load GIA Boot Block Software usinrg Service
+i
+b
+Documentation u
+t
+i
+o
+B. The Rain Dance of 10,000 Tears n
+C. Install new GDU System Software
+D. Reconfigure the Aircraft
+
+--- PAGE 38 ---
+March 30, 2026
+7:19 AM
+38
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+True or False: PPerspective+ Upgrade Cusltomers can
+y
+u
+b
+convert their aircraft frolmi 10 inch displays to 12 inch
+c
+D
+displays? i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 39 ---
+March 30, 2026
+7:19 AM
+39
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+True or False: PPerspective+ Upgrade Cusltomers can
+y
+u
+b
+convert their aircraft frolmi 10 inch displays to 12 inch
+c
+D
+displays? i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 40 ---
+March 30, 2026
+7:19 AM
+40
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+I attended the Upgrading G1000 Technician Fundamentals
+b
+l
+i
+c
+Seminar in the RED Room at AEA Nationals
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 41 ---
+Recap
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+G1000 NXi fUpgrade Pro Tips from Fie ld
+o O
+r n
+P l
+Service Engineering y
+u
+b
+l
+i
+c
+Assessed importance of reading the notes
+D
+i
+s
+‘Notas Legere’
+t
+r
+i
+b
+u
+Covered the most frequently asked questions for the t
+i
+o
+n
+newest addition to the ‘NXi Upgrade Family’ Cirrus SR 22
+
+--- PAGE 42 ---
+March 30, 2026
+7:19 AM
+42
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+Any Questions? i b
+u
+t
+i
+o
+n
+
+--- PAGE 43 ---
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+Thank You!
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+Chris Hendrix i
+b
+u
+t
+i
+o
+n
+Senior Aviation Maintenance Instructor
+Garmin Aviation Training
+Aviation.training@garmin.com

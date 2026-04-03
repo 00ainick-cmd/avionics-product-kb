@@ -1,0 +1,2174 @@
+--- PAGE 1 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+GDL 60o ConfiguratOion w/ Remote
+r n
+P l
+y
+u
+b
+l
+i
+Aircrafct Status
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+AEA Nationals 2026
+
+--- PAGE 2 ---
+March 30, 2026
+Legal Statement
+7:13 AM
+2
+F
+o
+r
+R
+e
+f
+e
+Garmin Aviation Traininrg is intended to provide the best practices for
+e
+N
+n
+o c
+the insttallation, use and maintenanece of Garmin Aviation products. It
+f
+o O
+r n
+is incumbent on te chnicians and pilots to ensure that the instructions
+P l
+y
+u
+b
+contained in the most recent versions of Garmin product manuals,
+l
+i
+c
+bulletins and notifications are followeDd.
+i
+s
+t
+r
+i
+b
+u
+© GARMIN LTD. OR ITS SUBSIDARIES. ALL RIGHTS RESERVED.
+t
+i
+o
+n
+
+--- PAGE 3 ---
+Objectives
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+GDL 60 Essentials
+P l
+y
+u
+b
+Setting up the subscription l
+i
+c
+D
+General purpose and RAS necessities
+i
+s
+t
+r
+i
+Customer States! b
+u
+t
+i
+o
+Scenarios and lessons learned
+n
+
+--- PAGE 4 ---
+Objectives
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+After completingr this section, you will: n
+P l
+y
+u
+b
+Understand the essential setup of the GDL 60,
+l
+i
+c
+the LRU’s required for interface and t he ‘Materials
+D
+i
+s
+Required but not Supplied’ for Remote Aircraft Sttatus.
+r
+i
+b
+See the configuration changes applied to the GDL and u
+t
+i
+o
+EFIS for proper Remote Aircraft Status. n
+
+--- PAGE 5 ---
+What is the GDL 60? March 30, 2026
+7:13 AM
+5
+• PlaneSync
+F
+o“Input free” Database Downloads
+r
+R
+Over WIFIe
+f
+e
+Over LTE r
+e
+N
+n
+o c
+• Highetr Speed HSDB
+e
+f
+o O
+r n
+100 MBPS
+P l
+y
+u
+b
+• Internal Storage for Downlloaded
+i
+c
+D
+Databases
+i
+s
+t
+r
+i
+b
+• Connext Features
+u
+t
+i
+o
+Crew n
+
+--- PAGE 6 ---
+Flight Stream 510 March 30, 2026
+7:13 AM
+6
+Remove the flight stream 510
+when a GDL 60 is installed
+06
+LDG
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 7 ---
+Flight Stream 510 March 30, 2026
+7:13 AM
+7
+Remove the flight stream 510
+when a GDL 60 is installed
+06
+LDG
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 8 ---
+Connext March 30, 2026
+7:13 AM
+8
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 9 ---
+March 30, 2026
+7:13 AM
+9
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+What subscription do I need? b
+u
+t
+i
+o
+n
+
+--- PAGE 10 ---
+Purchase a Subscription March 30, 2026
+7:13 AM
+10
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 11 ---
+Purchase a Subscription March 30, 2026
+7:13 AM
+11
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 12 ---
+Purchase a Subscription March 30, 2026
+7:13 AM
+12
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 13 ---
+Purchase a Subscription March 30, 2026
+7:13 AM
+13
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 14 ---
+Purchase a Subscription March 30, 2026
+7:13 AM
+14
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 15 ---
+WIFI PlaneSync March 30, 2026
+7:13 AM
+15
+F PlaneSync
+o
+r
+R
+e
+f
+e
+r
+e
+N Automatic Database
+Flight Log Upload n
+o c Updates
+t e
+f
+o O
+r n
+P l
+y
+u
+b WIFI
+l
+Flight Data Engine Data i
+c
+D
+i
+s
+t
+r
+i
+WIFI b
+u
+t
+i
+o
+n
+Fly Garmin Updated
+Database
+Garmin Pilot
+
+--- PAGE 16 ---
+What is Minimum Equipment March 30, 2026
+7:13 AM
+16
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+Minimum Wiring
+t e
+Minimum fequipment
+o O
+r nPower
+P l
+y
+GTN Xi (X1) u
+b Ground
+l
+i
+GDL 60 (X1) c
+D HSDB
+i
+GA60 (X1) and 2.4 GHZ (X2) s
+t
+One or the other Fruse
+i
+GA61 (X1) and 2.4 GHZ (X1) b
+u
+t
+i
+o
+n
+
+--- PAGE 17 ---
+Purchase a Subscription March 30, 2026
+7:13 AM
+17
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 18 ---
+LTE PlaneSync March 30, 2026
+7:13 AM
+18
+F PlaneSync
+o
+r
+R
+e
+f
+e
+r
+e
+N Remote Aircraft Automatic Database
+Flight Log Upload n
+o cStatus Updates
+t e
+f
+o O
+r n
+LTE
+P l
+y
+u
+b Every 60 sec
+l
+Flight Data Engine Data Fuiel Level Oil Temp LTE WIFI
+c
+Hobbs BDattery
+Hours Voltage i s
+t
+Tach Outside air r
+i
+Hours temp b
+LTE WIFI u
+GPS Database
+t
+Location Status i
+o
+n
+Fly Garmin Updated
+Database
+Garmin Pilot
+
+--- PAGE 19 ---
+Understanding LTE signal March 30, 2026
+7:13 AM
+19
+• LTE can only function where
+F
+o
+r
+the sign al is present there
+R
+e
+f
+are a few things ethat can
+r
+e
+N
+n
+interfere with LTE signal
+o c
+t e
+f
+o O
+Distance from source
+r n
+P l
+y
+Typically cell sig
+u
+nal can work
+b
+l
+about 45 miles from the toiwer
+c
+D
+Not all cell towers are Garmin i
+s
+t
+LTE towers r
+i
+b
+u
+Signal Interference t
+i
+o
+n
+Landscape features
+(buildings, Mountains etc.)
+Faraday Cages
+
+--- PAGE 20 ---
+What is a Faraday cage March 30, 2026
+7:13 AM
+20
+• A Faraday cage is a protective enclosure that prevents certain
+F
+o
+r
+types o f Electromagnetic radiation(EMR).
+R
+e
+f
+e
+• It is essentially a corntainer, or a shield that blocks EMR
+e
+N
+n
+o c
+tEMR includes radio waves ande microwaves (I.E. Cell signal)
+f
+o O
+r n
+• Why do I need tPhis l
+y
+u
+b
+l
+A faraday cage is construicted of a conductive material (like metal)
+c
+D
+What are most hangars made out ofi?
+s
+t
+r
+i
+This can have varying effects on LTE signal b
+u
+t
+i
+Can be remedied with an LTE repeater o
+n
+
+--- PAGE 21 ---
+What is Minimum Equipment RAS March 30, 2026
+7:13 AM
+21
+F
+o
+r
+R
+e
+f
+e
+r Minimum Wiring
+e
+N
+n
+o c
+t e Power
+Minimum fequipment
+o O
+r nGround
+P l
+y
+GTN Xi (X1) u
+b
+HSDB
+l
+i
+GDL 60 (X1) c
+D 2 Relays
+i
+GA60 (X1) and 2.4 GHZ (X2) s
+t
+One or the other Fruse
+i
+GA61 (X1) and 2.4 GHZ (X1) b
+u
+t
+i
+o
+n
+
+--- PAGE 22 ---
+Relays March 30, 2026
+7:13 AM
+22
+Choose your own adventure
+F
+o
+r
+We gaveR guidelines and
+e
+f
+many examples beecause
+r
+e
+N
+this can change dependingn
+o c
+t e
+on comfponents and
+o O
+r n
+configuration onP airframe l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 23 ---
+Relay considerations March 30, 2026
+7:13 AM
+23
+The GDL 60 utilizes ship
+F
+o
+r
+battery o r a standalone
+R
+e
+f
+battery to providee power to
+r
+e
+N
+n
+necessary LRU’s and
+o c
+t e
+f
+sensors duoring a RAS event O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 24 ---
+Relay considerations March 30, 2026
+7:13 AM
+24
+Single engine piston
+TXi GDU
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 25 ---
+Relay considerations March 30, 2026
+7:13 AM
+25
+Single engine piston
+TXi GDU
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+Wbhy two
+u
+t
+i
+o
+n
+relays
+
+--- PAGE 26 ---
+Part 23 March 30, 2026
+7:13 AM
+26
+F
+o
+r
+R
+e
+Sec. 23.1361 — Master switch arrangement.
+f
+e
+r
+e
+N
+n
+o c
+(b) Load circuits may be connected so that they remain energized
+t e
+f
+o O
+r n
+when the master sPwitch is open, if the circuilts are isolated, or
+y
+u
+b
+l
+i
+physically shielded, to prevent ctheir igniting flammable fluids or
+D
+i
+s
+vapors that might be liberated by the leakatge or rupture of any
+r
+i
+b
+u
+t
+flammable fluid system; and i
+o
+n
+
+--- PAGE 27 ---
+Multipule load breaker March 30, 2026
+7:13 AM
+27
+Single engine turbine
+TXi GDU
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 28 ---
+Multi Breaker Multi Load existing wire March 30, 2026
+7:13 AM
+28
+Multi engine turbine
+TXi GDU
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 29 ---
+Multi Breaker Multi Load existing wire March 30, 2026
+7:13 AM
+29
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 30 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+Customer States
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+Real world scenario
+
+--- PAGE 31 ---
+The Install March 30, 2026
+7:13 AM
+31
+This is the Customer aircraft
+F
+o
+r
+3 TXi displays a GI 275
+R
+e
+f
+e standby and Dual GTN Xi’s
+r
+e
+N
+n
+o c
+The customer Complained
+t e
+f
+o O
+r that thne GDL 60 was doing
+P l
+y
+u
+b automatic databases. (very
+l
+i
+c
+happy with that) however its
+D
+i
+s
+not offltoading flight data logs,
+r
+i
+b
+u
+AND RAS was intermittent…
+t
+i
+o
+n
+
+--- PAGE 32 ---
+What Does This Tell Us? March 30, 2026
+7:13 AM
+32
+The GDL 60 was getting
+databases.
+This tells us that the GDL 60 is
+connected to the server and
+receiving info.
+That means we have a good
+subscription, and it is
+communicating with the
+Garmin servers
+We know that that connection
+is good!
+G
+D
+FD
+a t
+G
+T
+l y G
+a t a
+a o f
+D
+N
+a r m
+b a s
+f l o a
+L
+X
+i n
+e s
+d
+i
+i n
+6
+/
+g
+0
+T X i
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 33 ---
+The Install March 30, 2026
+7:13 AM
+33
+G
+D
+FD
+a t
+G
+T
+l y G
+a t a
+a o f
+D
+N
+a r m
+b a s
+f l o a
+L
+X
+i n
+e s
+d
+i
+i n
+6
+/
+g
+0
+T X i
+The customer Complained
+F
+o
+r
+that the GDL 60 was doing
+R
+e
+f
+e automatic databases. (very
+r
+e
+N
+n
+happy with that) however is
+o c
+t e
+f
+o wOasn’t offloading flight data
+r n
+P l
+y
+u logs.
+b
+l
+i
+c
+So this points at the EFIS
+D
+i
+s
+Configutrations since
+r
+i
+b
+u
+everything works… sort of.
+t
+i
+o
+n
+
+--- PAGE 34 ---
+The Install March 30, 2026
+7:13 AM
+34
+We know the GDL 60
+F
+o
+r
+Communicates with the
+R
+e
+f
+e system over HSDB
+r
+e
+N
+n
+o c
+In this case directly with the
+t e
+f
+o O
+r EIS TXni Display
+P l
+y
+u
+b
+l The installer also elected to
+i
+c
+D
+put a secondary HSDB from
+i
+s
+t
+r
+the GDL 60i to the GTN Xi
+b
+u
+t
+i
+o
+n
+
+--- PAGE 35 ---
+Configs March 30, 2026
+7:13 AM
+35
+Let's look at the configs on
+F
+o
+r
+the TXi Displays
+R
+e
+f
+e
+r GDU 1
+e
+N
+n
+o c
+t e This display looks correct
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 36 ---
+Configs March 30, 2026
+7:13 AM
+36
+Let's look at the configs on
+F
+o
+r the TXi Displays
+R
+e
+f
+e GDU 2
+r
+e
+N
+n
+o c Here we see issues:
+t e
+f
+o OThe GPS Isn’t configured at all,
+r n
+P The lGDL 60 is configured, but the
+y
+u
+b GI 275 is not.
+l
+i
+c This means while it can receive
+D
+isome data from the HSDB, it
+s
+t
+r
+doesn’t loiok for these LRU’s to
+b
+u
+send and receive data
+t
+i
+o
+n
+You will also notice this is the
+EIS unit the GDL 60 is directly
+connected too
+
+--- PAGE 37 ---
+Configs March 30, 2026
+7:13 AM
+37
+Let's look at the configs on
+F
+o
+r
+the TXi Displays
+R
+e
+f
+e
+r GDU 3
+e
+N
+n
+o c
+t e This Unit is configured correctly
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 38 ---
+Configs March 30, 2026
+7:13 AM
+38
+Let's look at the configs on
+F
+o
+r
+the GTN Xi’s:
+R
+e
+f
+e
+r GTN 1:
+e
+N
+n
+o c
+t e This Unit we see GTN
+f
+o O
+r connfigured as the cross-side
+P l
+y
+u
+navigator it 's important to make
+b
+l
+i
+c the distinction between GTN
+D
+i
+ansd GTN Xi here
+t
+r
+i
+b
+We also see that this installer
+u
+t
+i
+elected to do a redundoant HSDB
+n
+line while this isn’t wrong it can
+cause issues for the GDL 60 its
+best to not have this here
+
+--- PAGE 39 ---
+Configs March 30, 2026
+7:13 AM
+39
+Let's look at the configs on the
+F
+o
+r
+GI 275
+R
+e
+f
+e
+GI 1
+r
+e
+N
+n
+o c This Unit we see only the GTN 650
+t e
+f
+o O is configured this means it wasn’t
+r n
+P l
+looking foyr data from the GTN 750
+u
+b
+l
+i When a GDL 60 is present all other
+c
+D
+Bluetooth access points should be
+i
+s
+t
+turned orff
+i
+b
+u
+(exception made for GMA)
+t
+i
+o
+We also see that the GDL 6n0 is not
+configured as present that means
+it may have been taking
+databases at a slower rate
+
+--- PAGE 40 ---
+Configs March 30, 2026
+7:13 AM
+40
+Let's look at the configs on the
+F
+o
+r GDL 60:
+R
+e
+f GDL 60
+e
+r
+e
+N
+n This unit is configured properly for
+o c
+t e databases and RAS
+f
+o O
+r n
+Note LTE AO and Enable Wake are
+P l
+y
+u
+turned on!
+b
+l
+i
+c The wake interval is set to 1 day
+D
+ithis is allowed but means the GDL
+s
+t
+60 wakers up everyday to look for
+i
+b
+databases this uis very aggressive
+t
+i
+o
+Recommend no less than every 7
+n
+days. Ideally 15 days to catch a
+mid cycle update if the aircraft
+isn’t powered on.
+
+--- PAGE 41 ---
+On the GTN March 30, 2026
+7:13 AM
+41
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+On the GfTN 750 We want you to s et the GDL 60 HSDB to Other
+o O
+r n
+LRU. We see the PGDL 60 act and I quote “sltryange when both
+u
+b
+HSDB lines are connectedl”.i We can start with just config and
+c
+D
+leave the wire in there. If we still see iissues, we may ask you to
+s
+t
+r
+cap and stow or remove that wire. i b
+u
+t
+i
+o
+n
+
+--- PAGE 42 ---
+On GDU 2 March 30, 2026
+7:13 AM
+42
+F
+On othe GDU 2 EIS display set the GPS1 and GPS 2 to the GTN
+r
+R
+7XX and GTNe 6XX We can also set the NAV to GTN 750 and
+f
+e
+r
+GTN 650. The GPS being set will turn on the GTN and GDU 2
+e
+N
+n
+o c
+Commtunication The GTN is thee master for the GDL 60 so this
+f
+o O
+r n
+may be causing the issues in the packet being built. (mainly for
+P l
+y
+u
+the Flight log Offloads bbut can also have an effect in RAS even
+l
+i
+c
+though it doesn’t turn on) D
+i
+s
+t
+r
+We also will have you configure the GI 275 foirb present in GDU 2
+u
+t
+EIS display. Turns on the HSDB i
+o
+n
+Configure the GI 275 for present in GDU 2 EIS display. This
+turns on the HSDB.
+
+--- PAGE 43 ---
+On the GI 275 March 30, 2026
+7:13 AM
+43
+F
+o
+r
+R
+e
+f
+e
+r
+The wireless in the GI 275 appears to be configured on when a
+e
+N
+n
+o c
+GDL 6t0 is present it should be tehe only wireless access point
+f
+o O
+r n
+GPS 1 is set for tPhe GTN 650 only we will wl yant to set GPS 1 for
+u
+b
+the 750 and GPS 2 for the l650. Again this turns on the HSDB
+i
+c
+D
+communication and we want the GPiS SDI to match across the
+s
+t
+r
+whole system. i b
+u
+t
+i
+o
+The GDL 60 is not configured on in the GI 275
+n
+
+--- PAGE 44 ---
+What Happened March 30, 2026
+7:13 AM
+44
+After Preforming the
+F
+o
+r
+preceding Config changes, it
+R
+e
+f
+e solved the issue
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 45 ---
+March 30, 2026
+7:13 AM
+45
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What PlaneSync features do you get with a WIFI only
+b
+l
+i
+c
+subscrip tion?
+D
+i
+s
+t
+r
+A. Automatic Database Download i
+b
+u
+t
+i
+B. Remote Aircraft Status o
+n
+C. Automatic Data Offloading
+
+--- PAGE 46 ---
+March 30, 2026
+7:13 AM
+46
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What PlaneSync features do you get with a WIFI only
+b
+l
+i
+c
+subscrip tion?
+D
+i
+s
+t
+r
+A. Automatic Database Download i
+b
+u
+t
+i
+B. Remote Aircraft Status o
+n
+C. Automatic Data Offloading
+
+--- PAGE 47 ---
+March 30, 2026
+7:13 AM
+47
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What subscriptions do I need for automatic databases to
+b
+l
+i
+c
+wor k?
+D
+i
+s
+t
+A. WIFI only r
+i
+b
+u
+t
+B. Iridium i
+o
+n
+C. Garmin or Jepp database subscription
+D. Sirius XM
+
+--- PAGE 48 ---
+March 30, 2026
+7:13 AM
+48
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What subscriptions do I need for automatic databases to
+b
+l
+i
+c
+wor k?
+D
+i
+s
+t
+A. WIFI only r
+i
+b
+u
+t
+B. Iridium i
+o
+n
+C. Garmin or Jepp database subscription
+D. Sirius XM
+
+--- PAGE 49 ---
+March 30, 2026
+7:13 AM
+49
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+Any Questions? i b
+u
+t
+i
+o
+n
+
+--- PAGE 50 ---
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+Thank You!
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+Chris Hendrix
+l
+i
+c
+D
+Senior Aviation Classroom Instructor –i
+s
+t
+r
+i
+Maintenance b
+u
+t
+i
+o
+n
+Aviation.training@garmin.com

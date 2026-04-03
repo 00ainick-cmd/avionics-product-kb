@@ -1,0 +1,2217 @@
+--- PAGE 1 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+FAAo DATA COMOM for Your
+r n
+P l
+y
+u
+b
+l
+Federatedi cInstallation
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+AEA 2026
+
+--- PAGE 2 ---
+March 30, 2026
+Legal Statement
+9:33 AM
+2
+F
+o
+r
+R
+e
+f
+e
+r
+Garmin Aviation Training eis intended to provide the best practices for
+N
+n
+o c
+the insttallation, use and maintenanece of Garmin Aviation products. It
+f
+o O
+r n
+is incumbent on t echnicians and pilots to ensure that the instructions
+P l
+y
+u
+b
+contained in the most recent versions of Garmin product manuals,
+l
+i
+c
+bulletins and notifications are followeDd.
+i
+s
+t
+r
+i
+b
+u
+© GARMIN LTD. OR ITS SUBSIDARIES. ALL RIGHTS RESERVED.
+t
+i
+o
+n
+
+--- PAGE 3 ---
+March 30, 2026
+Pilot Controller Data Link Communications
+9:33 AM
+3
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+CPDLC is intended to improve communications with ATC by
+replacing traditional voice commands with text-based
+messages in the continental US.
+Photo credit: Pierce Nunley
+
+--- PAGE 4 ---
+Enroute Service March 30, 2026
+9:33 AM
+4
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 5 ---
+FAA Data Comm Provides March 30, 2026
+9:33 AM
+5
+F
+CPDLC- Departure Clearance
+o
+r
+(DCL), wiRll automate Clearance
+e
+f
+e
+Delivery operations at 65 of the
+r
+e
+N
+n
+Uo.S.' busiest airports. c
+t e
+f
+o O
+En-Route CPrDLC which gives n
+P l
+y
+u
+pilots the ability to excbhange
+l
+i
+c
+messages with U.S. domestic A ir
+D
+i
+s
+Route Traffic Control Centers t
+r
+i
+b
+(ARTCC). u
+t
+i
+o
+n
+
+--- PAGE 6 ---
+FAA Data Comm Provides March 30, 2026
+9:33 AM
+6
+F
+CPDLC- Departure Clearance
+o
+r
+(DCL), wiRll automate Clearance
+e
+f
+e
+Delivery operations at 65 of the
+r
+e
+N
+n
+Uo.S.' busiest airports. c
+t e
+f
+o O
+En-Route CPrDLC which gives n
+P l
+y
+u
+pilots the ability to excbhange
+l
+i
+c
+messages with U.S. domestic A ir
+D
+i
+s
+Route Traffic Control Centers t
+r
+i
+b
+(ARTCC). u
+t
+i
+o
+n
+
+--- PAGE 7 ---
+Departure Clearance (DCL) March 30, 2026
+9:33 AM
+7
+CPDLC DCL Airports
+F
+o
+SITE ID AIRPORT NAME SITE ID AIRPORT NAME
+r
+KABQ Albuquerque Internatio nal Sunport KMCI Kansas City International
+R
+KADW Joint Base Andrews KMCO Orlando International
+e
+KATL Hartsfield-Jackson Atlanta International KMDW Chicago Midway International
+f
+KAUS Austin-Bergstrom International eKMEM Memphis International
+KBDL Bradley International KMIA rMiami International
+NKBNA Nashville International KMKE General e Mitchell International
+KBOS General Edward Lawrence Logan International KMSP Minneapolis-St Paul n International/Wold-Chamberlain
+KBUF o Buffalo Niagara International KMSY Louis Armstrong New Orleans In c ternational
+t e
+KBUR Bob Hope KOAK Metropolitan Oakland International
+f
+KBWI Baltimore/Washington Internatoional Thurgood Marshall KONT Ontario International O
+KCHS Charleston AFB/International r KORD Chicago O’Hare International n
+KCLE Cleveland-Hopkins International PKPBI Palm Beach International l
+KCLT Charlotte/Douglas International KPDX Portland International y
+u
+KCMH John Glenn Columbus International KPHL Philadelphia International
+b
+KCVG Cincinnati/Northern Kentucky International KPHX Phoenix Sky Harbor International
+l
+KDAL Dallas Love Field KPIT Pittsburgh International i
+c
+KDCA Ronald Reagan Washington National KRDU Raleigh-Durham International
+D
+KDEN Denver International KRNO Reno/Tahoe International
+KDFW Dallas/Fort Worth International KRSW Southwest Florida International i
+s
+KDTW Detroit Metropolitan Wayne County KSAN San Diego International t
+KEWR Newark Liberty International KSAT San Antonio International r
+i
+KFLL Fort Lauderdale/Hollywood International KSDF Louisville International b
+KHOU William P. Hobby KSEA Seattle-Tacoma International u
+KHPN Westchester County KSFO San Francisco International t
+i
+KIAD Washington Dulles International KSJC Norman Y Mineta San Jose International o
+KIAH George Bush Intercontinental KSLC Salt Lake City International n
+KIND Indianapolis International KSMF Sacramento International
+KJAX Jacksonville International KSNA John Wayne Airport/Orange County
+KJFK John F. Kennedy International KSTL St. Louis Lambert International
+KLAS McCarran International KTEB Teterboro
+KLAX Los Angeles International KTPA Tampa International
+KLGA LaGuardia KVNY Van Nuys
+TJSJ Luis Muñoz Marín International
+Source: L3Harris Website, 4/29/25
+L3HARRIS
+
+--- PAGE 8 ---
+Enroute Coverage Area March 30, 2026
+9:33 AM
+8
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+Source: L3Harris Website, Update 2/25/26
+
+--- PAGE 9 ---
+What’s Required March 30, 2026
+9:33 AM
+9
+F
+A 7XX GTNXi
+o
+r
+R
+GDR 66 VHFe Data Link (VDL)
+f
+e
+r
+Mode 2 Radio
+e
+N
+n
+o c
+t e
+FltPlan .fcom Subscription
+o O
+r n
+P l
+y
+FAA DATA COMM Eunablement
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 10 ---
+What’s Required March 30, 2026
+9:33 AM
+10
+F
+A 7XX GTNXi
+o
+r
+R
+GDR 66 VHeF Data Link
+f
+e
+r
+(VDL) Mode 2 Radio e
+N
+n
+o c
+t e
+A VHfF antenna
+o O
+r n
+P l
+Wiring y
+u
+b
+l
+Software Load via 7XX i
+c
+D
+GTNXi i
+s
+t
+r
+i
+b
+FltPlan.com Subscription
+u
+t
+i
+o
+FAA DATA COMM n
+Enablement
+
+--- PAGE 11 ---
+GDR 66 Wiring March 30, 2026
+9:33 AM
+11
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 12 ---
+GDR 66 Software March 30, 2026
+9:33 AM
+12
+1. Remove power from the GTN 7XX Xi by opening the
+F
+circuoit breaker.
+r
+2. Insert the softRware loader card into the data card slot,
+e
+removing the database card if necessary.
+f
+e
+3. Ensure the GDR 66 circuit breaker isr closed.
+e
+N
+n
+4. oApply power to the GTN Xi by closing the circuit c
+breaker. t Th e GTN Xi will automatically power on in e
+f
+Configuration modoe. O
+r n
+5. Touch Updates → GTN Soft P ware Updates → GDR 66 l y
+u
+Software Updates.
+b
+l
+i
+6. Touch Select All → Update → OK. c
+D
+7. When the updates are finished, remove power from
+i
+s
+the GTN Xi and GDR 66, remove the software loader
+t
+r
+card, and then re-insert the database card into the data i
+b
+card slot. u
+t
+i
+8. Press and hold the HOME key while applying power to o
+n
+the GTN Xi to power on in Configuration mode. Release
+the HOME key when “Garmin” is fully lit on the display.
+9. Apply power to the GDR 66.
+10. Touch System Information and verify the software
+was correctly updated on the GDR 66 selection.
+
+--- PAGE 13 ---
+What’s Required March 30, 2026
+9:33 AM
+13
+F
+A 7XX GTNXi
+o
+r
+R
+e
+GDR 66 VHF Data Link
+f
+e
+r
+N(VDL) Mode 2 Radio e
+n
+o c
+t e
+f
+FltPlan.coom Subscription O
+r n
+P l
+y
+Datacomm u
+b
+l
+i
+c
+FAA DATA COMM
+D
+i
+s
+Enablement t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 14 ---
+What’s Required March 30, 2026
+9:33 AM
+14
+F
+A 7XX GTNXi
+o
+r
+R
+GDR 66 VHeF Data Link
+f
+e
+r
+(VDL) Mode 2 Radio e
+N
+n
+o c
+t e
+f
+FltPlan.coom Subscription O
+r n
+P l
+y
+DATA COMM u
+b
+l
+i
+c
+FAA DATA COMM
+D
+i
+s
+Enablement t
+r
+i
+b
+u
+Don’t forget you can get t
+i
+o
+n
+Downloadable enablement's for
+GTNXi
+
+--- PAGE 15 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+FAA DAuTA COMM Se rvice
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+AEA 2026
+
+--- PAGE 16 ---
+Logging On March 30, 2026
+9:33 AM
+16
+On Ramp at KDAL
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 17 ---
+Logon at a DCL Airport March 30, 2026
+9:33 AM
+17
+F
+Flight ID is populated from
+o
+r
+transponRder
+e
+f
+e
+r
+Facility defaults to KUSA
+e
+N
+n
+o c
+t e
+Logon f
+o O
+r n
+P l
+y
+Connecting u
+b
+l
+i
+c
+Waiting for ATC
+D
+i
+s
+t
+Active r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 18 ---
+Logon at a DCL Airport March 30, 2026
+9:33 AM
+18
+F
+Flight ID is populated from
+o
+r
+transponRder
+e
+f
+e
+r
+Facility defaults to KUSA
+e
+N
+n
+o c
+t e
+Logon f
+o O
+r n
+P l
+y
+Connecting u
+b
+l
+i
+c
+Waiting for ATC
+D
+i
+s
+t
+Active r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 19 ---
+Logon at a DCL Airport March 30, 2026
+9:33 AM
+19
+F
+Flight ID is populated from
+o
+r
+transponRder
+e
+f
+e
+r
+Facility defaults to KUSA
+e
+N
+n
+o c
+t e
+Logon f
+o O
+r n
+P l
+y
+Connecting u
+b
+l
+i
+c
+Waiting for ATC
+D
+i
+s
+t
+Active r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 20 ---
+Logon at a DCL Airport March 30, 2026
+9:33 AM
+20
+F
+Flight ID is populated from
+o
+r
+transponRder
+e
+f
+e
+r
+Facility defaults to KUSA
+e
+N
+n
+o c
+t e
+Logon f
+o O
+r n
+P l
+y
+Connecting u
+b
+l
+i
+c
+Waiting for ATC
+D
+i
+s
+t
+Active r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 21 ---
+Logon at a DCL Airport March 30, 2026
+9:33 AM
+21
+F
+Flight ID is populated from
+o
+r
+transponRder
+e
+f
+e
+r
+Facility defaults to KUSA
+e
+N
+n
+o c
+t e
+Logon f
+o O
+r n
+P l
+y
+Connecting u
+b
+l
+i
+c
+Waiting for ATC
+D
+i
+s
+t
+Active r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 22 ---
+DCL Departure Clearance March 30, 2026
+9:33 AM
+22
+F
+Select Message to import
+o
+r
+R
+Send WILCOe to close thread
+f
+e
+r
+and get automation perompt.
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 23 ---
+DCL Departure Clearance March 30, 2026
+9:33 AM
+23
+F
+Select Message to import
+o
+r
+R
+Send WILCOe to close thread
+f
+e
+r
+and get automation perompt.
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 24 ---
+DCL Departure Clearance March 30, 2026
+9:33 AM
+24
+F
+Select Message to import
+o
+r
+R
+Send WILCOe to close thread
+f
+e
+r
+and get automation perompt.
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 25 ---
+DCL Departure Clearance March 30, 2026
+9:33 AM
+25
+F
+Select Message to import
+o
+r
+R
+Send WILCOe to close thread
+f
+e
+r
+and get automation perompt.
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 26 ---
+DCL Departure Clearance March 30, 2026
+9:33 AM
+26
+F
+Select Message to import
+o
+r
+R
+Send WILCOe to close thread
+f
+e
+r
+and get automation perompt.
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 27 ---
+DCL Departure Clearance March 30, 2026
+9:33 AM
+27
+F
+Select Message to import
+o
+r
+R
+Send WILCOe to close thread
+f
+e
+r
+and get automation perompt.
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 28 ---
+DCL Departure Clearance March 30, 2026
+9:33 AM
+28
+F
+Select Message to import
+o
+r
+R
+Send WILCOe to close thread
+f
+e
+r
+and get automation perompt.
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 29 ---
+First Contact In Air March 30, 2026
+9:33 AM
+29
+F
+(departed airport without DCL)
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 30 ---
+First Contact In Air March 30, 2026
+9:33 AM
+30
+F
+(departed airport without DCL)
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 31 ---
+Message Indications March 30, 2026
+9:33 AM
+31
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+Visual Indication to Pilot will be accompanied with a
+BING-BONG Tone
+
+--- PAGE 32 ---
+Setting Baro March 30, 2026
+9:33 AM
+32
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 33 ---
+Setting Baro March 30, 2026
+9:33 AM
+33
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 34 ---
+Setting Baro March 30, 2026
+9:33 AM
+34
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 35 ---
+Armed Action – Set Selected Altitude March 30, 2026
+9:33 AM
+35
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+Bing-
+f
+o O
+r n
+P l
+y
+u
+Bong
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 36 ---
+Armed Action – Set Selected Altitude March 30, 2026
+9:33 AM
+36
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 37 ---
+Armed Action – Set Selected Altitude March 30, 2026
+9:33 AM
+37
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 38 ---
+Armed Action – Set Selected Altitude March 30, 2026
+9:33 AM
+38
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 39 ---
+Route Modifications March 30, 2026
+9:33 AM
+39
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 40 ---
+Route Modifications March 30, 2026
+9:33 AM
+40
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 41 ---
+Route Modifications March 30, 2026
+9:33 AM
+41
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 42 ---
+Pilot Request March 30, 2026
+9:33 AM
+42
+F
+Vertical Requests
+o
+r
+R
+Lateral Offseet Requests
+f
+e
+r
+e
+NSpeed Requests
+n
+o c
+t e
+f
+Voice Conotact Requests O
+r n
+P l
+y
+u
+Speed Changes
+b
+l
+i
+c
+Route Modification Requests D
+i
+s
+t
+r
+i
+Reports b
+u
+t
+i
+o
+Negotiation Requests
+n
+Emergency Messages
+
+--- PAGE 43 ---
+Pilot Request March 30, 2026
+9:33 AM
+43
+F
+Vertical Requests
+o
+r
+R
+Lateral Offseet Requests
+f
+e
+r
+e
+NSpeed Requests
+n
+o c
+t e
+f
+Voice Conotact Requests O
+r n
+P l
+y
+u
+Speed Changes
+b
+l
+i
+c
+Route Modification Requests D
+i
+s
+t
+r
+i
+Reports b
+u
+t
+i
+o
+Negotiation Requests
+n
+Emergency Messages
+
+--- PAGE 44 ---
+Pilot Request March 30, 2026
+9:33 AM
+44
+F
+Vertical Requests
+o
+r
+R
+Lateral Offseet Requests
+f
+e
+r
+e
+NSpeed Requests
+n
+o c
+t e
+f
+Voice Conotact Requests O
+r n
+P l
+y
+u
+Speed Changes
+b
+l
+i
+c
+Route Modification Requests D
+i
+s
+t
+r
+i
+Reports b
+u
+t
+i
+o
+Negotiation Requests
+n
+Emergency Messages
+
+--- PAGE 45 ---
+Registration Process March 30, 2026
+9:33 AM
+45
+F
+$49o9.00 per year Garmin offers a subscription
+r
+R
+for both FAA Data Comm Pre-Departure
+e
+f
+e
+clearances (DCL) and en route ATC services.
+r
+e
+N
+n
+o c
+Register at: fltPlan.com → Premium Services →
+t e
+f
+o O
+FAA Data Comm r n
+P l
+y
+u
+Then You will get call from FltPlan.cbom
+l
+i
+c
+D
+Aircraft Flight Plan Filing Codes
+i
+s
+t
+r
+Field 10a: J4Z
+i
+b
+u
+Field 18 (Other Info): t
+i
+o
+n
+DAT/1FANSE2PDC
+REG/N12345
+CODE/HEX Code (FAA Registration Website)
+
+--- PAGE 46 ---
+L3 Harris Website Resource March 30, 2026
+9:33 AM
+46
+www.l3harris.com/datacomm
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 47 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+Thank You!
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+Nicolas Wright
+n
+Lead Aviation Maintenance Instructor
+Aviation.Training@Garmin.com
+
+--- PAGE 48 ---
+March 30, 2026
+9:33 AM
+48
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+DataComm On the GTNXli i Requires a Feature Enablement
+c
+D
+i
+s
+t
+A. True r
+i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 49 ---
+March 30, 2026
+9:33 AM
+49
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+DataComm On the GTNXli i Requires a Feature Enablement
+c
+D
+i
+s
+t
+A. True r
+i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 50 ---
+March 30, 2026
+9:33 AM
+50
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+CPDLC Service Requilreis (select all that apply)
+c
+D
+i
+s
+t
+A. Station Signal r
+i
+b
+u
+B. Registration/Subscription t
+i
+o
+n
+C. GDR 66
+D. GTN 650Xi
+
+--- PAGE 51 ---
+March 30, 2026
+9:33 AM
+51
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+CPDLC Service Requilreis (select all that apply)
+c
+D
+i
+s
+t
+A. Station Signal r
+i
+b
+u
+B. Registration/Subscription t
+i
+o
+n
+C. GDR 66
+D. GTN 650Xi
+
+--- PAGE 52 ---
+March 30, 2026
+9:33 AM
+52
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+I Attended The FAA DATA lCOiMM Class in the Red Room
+c
+D
+i
+s
+t
+A. True r
+i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 53 ---
+March 30, 2026
+9:33 AM
+53
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+I Attended The FAA DATA lCOiMM Class in the Red Room
+c
+D
+i
+s
+t
+A. True r
+i
+b
+u
+t
+i
+B. False o
+n

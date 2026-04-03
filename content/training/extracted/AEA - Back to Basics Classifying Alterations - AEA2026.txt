@@ -1,0 +1,395 @@
+--- PAGE 2 ---
+Classifying Alterations
+for
+In-Service Aircraft
+Regulatory Framework, ASTM F3361, and FAA Compliance
+
+--- PAGE 3 ---
+Why This Matters
+• Inconsistent classification across industry
+• Increased FAA scrutiny on data approval
+• Risk of improper return to service
+• SMS integration and hazard identification
+
+--- PAGE 4 ---
+The Core Challenge
+• Regulations define WHAT is major/minor
+• They do not define HOW to determine it
+
+--- PAGE 5 ---
+Regulatory Framework
+• 14 CFR Part 21.93 – Changes in Type Design
+• 14 CFR Part 1.1 – Definitions
+• 14 CFR Part 43 Appendix A – Major Alterations
+
+--- PAGE 6 ---
+Three-Tier In-Service Modification System
+Change/Modification Data Requirements
+Major Change in Type Design STC/AMT
+(14 CFR §21.93)
+Major Alteration Approved Data / Data Approval
+(14 CFR part 1/part 43 appendix A)
+Minor Alteration Acceptable Data
+(14 CFR Part 1)
+
+--- PAGE 7 ---
+Key Distinction
+Major Change in Type Design ≠ Major Alteration
+
+--- PAGE 8 ---
+AC 43-210A
+• Provides process for data approval
+• Applies to major repairs and alterations
+• Does NOT determine major vs minor
+
+--- PAGE 9 ---
+F3361: Standard Guide for Classifying Alterations for In-
+Service Aircraft under FAA Authority Oversight
+
+--- PAGE 10 ---
+ASTM F3361
+• Accepted means of compliance by FAA
+• Provides structured evaluation method
+
+--- PAGE 11 ---
+ASTM F3361 provides a checklist!
+
+--- PAGE 12 ---
+Six Evaluation Criteria
+Structural
+Weight Balance
+Strength
+Operational
+Reliability
+Airworthiness
+Characteristics
+
+--- PAGE 13 ---
+Major Change in Type Design
+(§ 21.95)
+• Does the proposed alteration have an appreciable effect on the:
+• [certificated] weight (of the type certificated product)?
+• [certificated] balance (of the type certificated product)?
+Yes to any: This is a major change to type design and requires an
+application for a supplemental or amended type certificate.
+No to all: Continue.
+
+--- PAGE 14 ---
+Appreciable Change
+• a change that is large enough to be noticed using an appropriate unit
+of measure.
+• With modern technology, all changes could be measured, i.e. increased
+weight, thickness, dimensions, etc., which is not the intent of this definition.
+Civil Aeronautics Manual (CAM) 18
+
+--- PAGE 15 ---
+ASTM F3361
+• 6.2.2.1 Certified Weight and Balance—Examples of alterations that
+may appreciably affect the Certified Weight and Balance include, but
+are not limited to:
+• (1) Changes that increase the certificated maximum weight limits (increases
+in the maximum gross weight, maximum take-off, or landing weights).
+• (2) Changes in the certificated center of gravity range limits (for example,
+decreasing the forward limit or increasing the aft limit).
+
+--- PAGE 16 ---
+Major Change in Type Design
+(§ 21.95)
+• Does the proposed alteration have an appreciable effect on the:
+• structural strength (of the type certificated product)?
+Yes to any: This is a major change to type design and requires an
+application for a supplemental or amended type certificate.
+No to all: Continue.
+
+--- PAGE 17 ---
+ASTM F3361
+• 6.2.2.2 Structural Strength—Examples of alterations that may
+appreciably affect structural strength include, but are not limited to:
+• (1) Changes to primary structures (structure that carries flight, ground, or
+pressure loads as defined in AC 25.571-1.
+• (2) Substituting an engine, propeller, rotor, or airframe primary structural
+materials (such as replacing a reciprocating engine with a turbine engine or
+increasing horsepower output by 10 % or more).
+
+--- PAGE 18 ---
+Major Change in Type Design
+(§ 21.95)
+• Does the proposed alteration have an appreciable effect on the:
+• reliability (of the type certificated product)?
+Yes to any: This is a major change to type design and requires an
+application for a supplemental or amended type certificate.
+No to all: Continue.
+
+--- PAGE 19 ---
+ASTM F3361
+• 6.2.2.3 Reliability—Examples of alterations that may appreciably
+affect reliability include, but are not limited to:
+• (1) Changes to manifolding, air induction systems or air intake doors, engine
+cowling or baffle that affect the flow of engine cooling air and carburetor/fire
+ignition heat rises.
+• (2) Changing the basic engine or propeller design, controls, and operating
+limitations.
+• (3) Changes that include engine/propeller adjustments and setting limitations
+that affect power output.
+
+--- PAGE 20 ---
+ASTM F3361
+• 6.2.2.3 Reliability—Examples of alterations that may appreciably affect
+reliability include, but are not limited to:
+• (4) Modifications to approved avionics equipment that affect reliability or
+airworthiness, such as changes:
+• (a) Deviating from the design environment performance.
+• (b) Deviating from the component manufacturers operating limitations.
+• (c) To software. (Note that Changes to Software refers to modification of the code, not of doing an OEM
+approved software update or revision.)
+• (d) To wire shielding that may affect High Intensity Radiated Fields (HIRF) and Electromagnetic
+Interference (EMI).
+
+--- PAGE 21 ---
+Major Change in Type Design
+(§ 21.95)
+• Does the proposed alteration have an appreciable effect on the:
+• operational characteristics
+(of the type certificated product)?
+Yes to any: This is a major change to type design and requires an
+application for a supplemental or amended type certificate.
+No to all: Continue.
+
+--- PAGE 22 ---
+ASTM F3361
+• 6.2.2.4 Operational Characteristics—Examples of alterations that may
+appreciably affect operational characteristics include, but are not limited
+to:
+• (1) Changes or relocation of systems (including hydraulic, oil, and fuel systems) and
+equipment that affects structural integrity, flight, ground handling characteristics, or
+noise/acoustics of the aircraft.
+• (2) Changes that alter the movable control surfaces that affect the dynamic or static
+balance, or both, alter the aerodynamic contour of movable control surfaces, or
+change the weight distribution.
+• (3) Changes in control surface travel, control system mechanical advantage,
+location of control system component parts, or direction of motion.
+
+--- PAGE 23 ---
+ASTM F3361
+• 6.2.2.4 Operational Characteristics—Examples of alteration that may
+appreciably affect operational characteristics include, but are not limited to:
+• (4) Changes in basic dimensions or external aerodynamic contour/configuration of the
+aircraft such as wing and tail planform or incidence angles, canopy, cowlings, contour or
+radii, the location of wing and tail fairings, winglets, wing lift struts, tiptanks, windows, and
+doors.
+• (5) Installation of support structure for appliances, or support structure and appliances, to
+the exterior (that is, night sun beacon, camera, spray/dusting equipment) on rotorcraft only.
+• (6) Changes to flight-critical electrical/electronic systems such as electronic flight controls
+or the engine control system, Full Authority Digital Engine Control (FADEC), fly by wire, and so
+forth.
+
+--- PAGE 24 ---
+ASTM F3361
+• 6.2.2.4 Operational Characteristics—Examples of alterations that may
+appreciably affect operational characteristics include, but are not limited
+to:
+• (7) Changes that affect aircraft performance, drag, engine power, revolutions per
+minute (r/min), or exhaust muffler.
+• (8) Changes affecting noise or flight characteristics.
+• (9) Rotorcraft items, such as external search lights, skis, baskets, and so forth.
+• (10) Changes that increase the operational limits (maximum speed limits such as
+VA, VFE, VNE; minimum speed limitations such as stall speed; increases in service
+ceiling, and so forth).
+
+--- PAGE 25 ---
+Major Change in Type Design
+(§ 21.95)
+• Does the proposed alteration have an appreciable effect on the:
+• characteristics affecting the airworthiness
+(of the type certificated product)?
+Yes to any: This is a major change to type design and requires an
+application for a supplemental or amended type certificate.
+No to all: Continue.
+
+--- PAGE 26 ---
+ASTM F3361
+• 6.2.2.5 Airworthiness—Examples of alterations that may appreciably
+affect the airworthiness include, but are not limited to:
+• (1) Changes to landing gear and related components, such as internal parts of shock
+struts, length, geometry of members, changes to brake and brake systems, or
+additions.
+• (2) Changes to systems that affect aircraft airworthiness, such as:
+• (a) Relocation of exterior fuel vents or battery vents.
+• (b) Crew or passenger liquid oxygen (LOX) or on-board generating systems.
+• (c) External critical access doors, Auxiliary Power Unit (APU) ram air, nacelle blowout doors, fuel drain.
+• (3) Major deviations to STCs.
+
+--- PAGE 27 ---
+ASTM F3361
+• 6.2.2.5 Airworthiness—Examples of alterations that may appreciably
+affect the airworthiness include, but are not limited to:
+• (4) Changes to oil, hydraulic, pneumatic, and fuel lines or systems that affect their operation or
+installation and flammability requirements, such as:
+• (a) New types of hoses or hose fittings, or both, that may not meet installation requirements
+such as flow rate and flammability requirements.
+• (b) Changes to fuel dump valves.
+• (c) New oil/fuel/hydraulic line materials or sealants.
+• (d) Change to, or addition of, permanent fuel tanks or fuel system components.
+
+--- PAGE 28 ---
+ASTM F3361
+• 6.2.2.5 Airworthiness—Examples of alterations that may appreciably
+affect the airworthiness include, but are not limited to:
+• (5) Changes in fixed fire extinguisher or detector systems that affect system effectiveness or
+reliability, such as:
+• (a) Relocation of discharge nozzles, detector units, or fixed fire extinguisher bottles.
+• (b) Using new or different detector components.
+• (c) Decreasing the amount or changing the type of extinguishing agents.
+
+--- PAGE 29 ---
+ASTM F3361
+• 6.2.2.5 Airworthiness—Examples of alterations that may appreciably
+affect the airworthiness include, but are not limited to:
+• (6) Changes that include the substitution of engine/APU/propeller/airframe
+materials that affect structural integrity, lightning protection, flight
+characteristics, or noise/acoustics.
+• (7) Any other complex special process that, if not properly performed, has a
+significant adverse effect on the integrity of the product.
+• (8) Major alterations to propellers.
+
+--- PAGE 30 ---
+ASTM F3361
+• 6.2.2.6 Crashworthiness—Examples of alterations that may
+appreciably affect crashworthiness include, but are not limited to:
+• (1) Changes to the aircraft structure, cabin interiors, or equipment relocation.
+• (2) Changes that increase the certificated seating capacity, excluding sport
+parachute jumping configuration.
+• (3) Changes that include the substitution of engine/propeller/airframe
+materials that affect fire protection, lightning protection, or flammability.
+
+--- PAGE 31 ---
+IF: Major Change in Type Design
+• AC 21-40A - Guide for Obtaining a Supplemental Type Certificate
+• FAA Order 8110.4C - Type Certification
+
+--- PAGE 32 ---
+Major Alterations
+(§ 1.1)
+• Is it possible that the proposed alteration might have an appreciable effect
+on the:
+• [certificated] weight?
+• [certificated] balance?
+• structural strength?
+• performance?
+• powerplant operation?
+• flight characteristics?
+• characteristics affecting the airworthiness?
+Yes or maybe to any: The proposed change is a major alteration requiring
+approved data, recording of a FAA Form 377 and a log book entry.
+Confirmed no to all: Continue.
+
+--- PAGE 33 ---
+What does this mean?
+• might have an appreciable effect ……
+
+--- PAGE 34 ---
+What does this mean?
+• might have an appreciable effect ……
+We Don’t Know….
+
+--- PAGE 35 ---
+Major Alterations
+(14 CFR Part 43 Appendix A(a)(1) Major airframe alterations)
+• Airframe major alterations.
+• Alterations of the following parts and alterations of the following types, when
+not listed in the aircraft specifications issue by the FAA, are airframe major
+alterations:
+
+--- PAGE 36 ---
+In Service Modifications: 3 Tiers
+Change/Modification Measurable Affect on
+6 Characteristics
+Major Change in Type Design (21.93)
+Major Alteration (part 1)
+Minor Alteration (part 1)
+
+--- PAGE 37 ---
+In Service Modifications: 3 Tiers
+Change/Modification Measurable Affect on
+6 Characteristics
+Major Change in Type Design (21.93) Confirmed YES
+Major Alteration (part 1)
+Minor Alteration (part 1)
+
+--- PAGE 38 ---
+In Service Modifications: 3 Tiers
+Change/Modification Measurable Affect on
+6 Characteristics
+Major Change in Type Design (21.93) Confirmed YES
+Major Alteration (part 1)
+Minor Alteration (part 1) Confirmed NO
+
+--- PAGE 39 ---
+In Service Modifications: 3 Tiers
+Change/Modification Measurable Affect on
+6 Characteristics
+Major Change in Type Design (21.93) Confirmed YES
+Major Alteration (part 1) Maybe ????
+Minor Alteration (part 1) Confirmed NO
+
+--- PAGE 40 ---
+Avionics Focus
+• EMI/HIRF
+• Software changes
+• Environmental qualification impacts
+
+--- PAGE 41 ---
+If You Don’t Know
+• Treat as Major Alteration
+
+--- PAGE 42 ---
+Data Requirements
+Change/Modification Data Requirements
+Major Change in Type Design STC/AMT
+Major Alteration Approved Data / Data Approval
+Minor Alteration Acceptable Data
+
+--- PAGE 43 ---
+Documentation
+• Document evaluation
+• Attach to work order
+• Logbook entry per §43.9
+• Identify major/minor
+
+--- PAGE 44 ---
+Common Errors
+• Using AC 43-210A to classify
+• Skipping documentation
+• Classifying by convenience
+
+--- PAGE 45 ---
+AEA Position
+• Promote ASTM F3361
+• Improve consistency
+• Support FAA oversight
+
+--- PAGE 46 ---
+SMS Integration
+• Supports hazard identification
+• Aligns with risk-based decision making
+
+--- PAGE 47 ---
+Summary
+• Regulations define outcomes
+• ASTM defines method
+• Documentation ensures compliance
+
+--- PAGE 48 ---
+Questions
+
+--- PAGE 49 ---
+Alteration Classification Flowchart
+Start: Evaluate alteration
+Appreciable effect on YES → Major Change →
+NO / UNKNOWN
+§21.93 criteria? STC
+YES → Major Alteration →
+Possible effect? NO → Check Appendix A
+Approved Data
+Listed in Appendix A?
+YES → Major Alteration NO → Minor Alteration

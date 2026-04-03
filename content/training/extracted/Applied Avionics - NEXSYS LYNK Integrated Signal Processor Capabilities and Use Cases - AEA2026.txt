@@ -1,0 +1,215 @@
+--- PAGE 1 ---
+NEXSYS LYNK Integrated Signal Processor
+Capabilities and Use Cases
+
+--- PAGE 2 ---
+The AAI Team Here Today
+Bing Jaculbe
+Vice President-Technology & Product Development
+25+ years leading certified software-driven avionics
+product development
+Colin McGuire Alexa Kirk
+Technical Sales Software Development Lead
+6+ years working directly with AAI customers Subject matter expert in FAA, DoD, and
+as a solutions provider Homeland Security software technologies
+Team of Applications Engineers
+Highly knowledgeable in avionics systems design
+to solve your unique integration challenges
+
+--- PAGE 3 ---
+The Challenges of Modern Avionics
+Legacy interfaces need to coexist seamlessly with modern architectures
+Multiple onboard devices that weren’t designed to talk to each other
+Signals need filtering, translating, or converting
+Increased need for real-time logic/computations without adding complexity
+Certification burden
+Solving these challenges is exactly why LYNK exists…
+
+--- PAGE 5 ---
+GPS MesICsaAgOe sA tdod Erelescst Prorinviacc Fyl iCgohnt Btraogl Display
+Problems Solved
+FMS NavigaGtiPoSn JDaamta A tloe rDt isplay Unit
+UnUinTtCer rCulpotcibk lteo P Foliwghetr DSuaptap Rlye Scwoirtdcehring
+Dedicated Team of
+Application Engineers
+Radalt A&u Gdliiod eDseltoepcet iDona tSaw toit cDhisinpglay Unit
+Solutions Meet DO-160 and
+DO-178 DAL A Standards Direction FiSndmeork Me eDsestaegcetsio tno SMyisstseimon Computer
+TSO C113b Certified
+DDoaotar lSinekn Isnohri bMito Cniotonrtirnogl
+MFDF lDigishpt lPahya Dsaet-aB atos eGdP ASu arnadl A Dleartta C Coonntcroelnletrrator
+
+--- PAGE 6 ---
+ARINC 429 to RS232 Converter
+SYSTEM A SYSTEM B
+A429 NRMSE2A3 1283
+DIREGCPTSION ELMECISTSRIOONNIC
+NAFVINIGDAETIRON CFLOIGMHPTU BTAEGR
+MODULE
+
+--- PAGE 7 ---
+Analog to ARINC 429
+DISCRETE
+GLIDESLOPE INPUT
+VALID
+ANALOG
+GLIDESLOPE INPUT
+FLIGHT
+ANALOG A429 DISPLAY
+DATA
+ANALOG
+UNIT
+RADALT INPUT RECORDER
+ANALOG
+DISCRETE
+RADALT INPUT
+VALID Analog Input:
+Wide Range [–11V to +32V]
+MODULE [–60V to +60V]
+Medium Range [–10V to +10V]
+[–20V to +20V]
+Narrow Range [–5V to +5V]
+
+--- PAGE 8 ---
+Audio Detection Analog Input
+CABIN
+AUDIO
+OUTPUT
+DISCRETE
+OUTPUT
+NEXSYS MODULE
+ANALOG
+CONTROL
+INPUT
+TOWER
+AUDIO
+MODULE
+
+--- PAGE 9 ---
+A429 with Discrete on a Switch
+DISCRETE
+VIVISUN
+INPUT
+COMPACT BODY
+GNSS A429
+ANTI-JAM
+DISCRETE
+OUTPUT
+SWITCH
+
+--- PAGE 10 ---
+15 Minute Timer State Machine
+AIRCRAFT
+LIGHTS ON
+Momentary
+SW Press
+RUNNING
+(10)
+Momentary
+TIMEOUT SW Press
+WOW
+PAUSED Transition AVAILABLE
+LIGHTS OFF LIGHTS OFF
+(11) Momentary (01)
+SW Press
+WOW
+Transition
+UNAVAILABLE
+DISCRETE
+INPUT (00)
+WOW WOW
+Transition Transition
+LIGHTS OFF
+DISCRETE
+DISCRETE
+INPUT
+WOW OUTPUT
+SIGNAL
+MODULE
+
+--- PAGE 11 ---
+A429 to RS232/RS422
+VIVISUN
+COMPACT BODY
+NEXSYS
+RS232/RS422
+DISCRETE
+OUTPUT
+POD TRANSCEIVER
+LONG CABLE
+COMMUNICATIONS A429 RS232
+DISPLAY
+DEVICE RS422 RS422
+UNIT
+DISCRETE
+INPUT
+VIVISUN
+COMPACT BODY
+DISCRETE MODULE
+OUTPUT
+DISCRETE
+INPUT
+
+--- PAGE 13 ---
+CAN BUS
+NEXSYS LYNK CAN
+DISCRETE
+ANALOG
+OUTPUT
+PRESSURE INPUT CAUTION
+SENSOR
+DISCRETE
+OUTPUT
+WARNING
+DISCRETE
+SOLENOID
+INPUT
+VALVE
+DISCRETE
+SENSOR OUTPUT
+FAULT
+FUEL
+MCU 1 MCU 2
+SENSOR
+CAN_HI
+CAN_LO
+R L CAN BUS R L
+
+--- PAGE 14 ---
+Full List of Interfaces
+ARINC429 RX/TX [High & Low Speed] Analog Input:
+Audio Detection [–10V to +10V]
+Discrete Input/Output
+Wide Range [–11V to +32V]
+RS-232 RX/TX
+[–60V to +60V]
+CAN HI/LO
+Medium Range [–10V to +10V]
+[–20V to +20V]
+Pushbutton HMI
+Narrow Range [–5V to +5V]
+Health Monitor Output
+Upcoming RS-485 RX/TX
+RS-422 RX/TX
+
+--- PAGE 15 ---
+Customer-to-Production Workflow
+Solution Requirements Configuration Evaluation Production
+Assessment Gathering Development Unit Release
+Establish Need Define Create & Build, Test Transition to Full
+& Alignment Requirements & Validate the & Approve Production
+Confirm Solution Specific Solution
+Viability
+An AAI Applications AAI engineers AAI engineers create the AAI builds and tests The configuration is
+Engineer is assigned to collaborate closely custom configuration, an evaluation unit finalized, locked and
+partner with your team with your team to fully develop test scripts, and delivers it to you fully certified
+to understand objectives define your unique and complete quality for your verification production units are
+and align on the Customer Application approvals and validation testing ready to ship
+intended application Specifications (CAS)
+and confirm the
+solution approach
+12 June 2017
+
+--- PAGE 16 ---
+Thank you for attending.
+Come See Us at Booth #806

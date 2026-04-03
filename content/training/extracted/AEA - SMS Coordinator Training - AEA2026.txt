@@ -1,0 +1,1778 @@
+--- PAGE 1 ---
+Safety Management System
+Smart. Manageable. Simple.
+AEA Has Your Solution for SMS
+
+--- PAGE 2 ---
+Welcome
+Ric Peri,
+AEA vice president of government and industry affairs
+ricp@aea.net
+
+--- PAGE 3 ---
+SMS Training
+▰ This is Coordinator Training.
+▰ May be used as recurrent training.
+
+--- PAGE 4 ---
+SMS
+is an
+“evolutionary” change
+not a
+revolutionary change.
+
+--- PAGE 5 ---
+Agenda
+▰ Part 1: Introduction to Safety Management Systems
+▰ Part 2: Our (AEA) Approach
+▰ Part 3: SMS Elements
+▰ Part 4: AEA's Online SMS Management Tool
+▰ Part 5: Getting Started
+
+--- PAGE 6 ---
+Part 1:
+Introduction to
+Safety Management Systems
+
+--- PAGE 7 ---
+Definitions:
+▰ Goals & Objective: WHAT we want to achieve.
+▰ Management System: HOW we achieve our goals.
+
+--- PAGE 8 ---
+As A Business ….
+▰ What are your expectations?
+
+--- PAGE 9 ---
+Objectives
+▰ What are your objectives?
+
+--- PAGE 10 ---
+Safety Goal
+▰ A certificated repair station must establish and
+maintain a quality control system acceptable to the
+FAA that ensures the airworthiness of the articles on
+which the repair station or any of its contractors
+performs work.
+▰ (14 CFR § 145.211 (a))
+
+--- PAGE 11 ---
+Safety Goal
+▰ Every take off has a successful landing
+▰ Every employee who walks into work – walks away
+from work.
+▰ Every part works as advertised – every time
+
+--- PAGE 12 ---
+Safety Objectives
+▰ Impediments to achieving your GOAL.
+▰ What keeps you from being perfect?
+▰ Established and reviewed annually
+
+--- PAGE 13 ---
+Is it working?
+▰ How do you measure success?
+▰ What incremental objective(s) DO YOU need to
+support your overall safety goal?
+
+--- PAGE 14 ---
+HOW you will achieve your goals …
+Your Management System for Safety.
+SMS
+
+--- PAGE 15 ---
+SMS is a tool ….
+…to help you achieve YOUR objectives!!
+
+--- PAGE 16 ---
+What SMS is NOT!
+It is not a
+package
+
+--- PAGE 17 ---
+Safety Management System
+▰ SMS is not a “safety objective”
+▰ SMS is a tool to help you achieve your safety objective.
+
+--- PAGE 18 ---
+What is Safety?
+▰ ”The condition of being safe from undergoing or causing
+hurt, injury, or loss”
+(merriam-webster)
+
+--- PAGE 19 ---
+In classic terms…
+Safety is the absence of risk…
+
+--- PAGE 20 ---
+From ICAO:
+▰ While the elimination of accidents (and serious
+incidents) would be desirable, a one hundred per cent
+safety rate is an unachievable goal.
+▰ Failures and errors will occur, in spite of the best
+efforts to avoid them.
+▰ No human activity or human-made system can be
+guaranteed to be absolutely safe, i.e. free from risk.
+
+--- PAGE 21 ---
+From ICAO:
+Safety is a relative notion whereby inherent risks are
+acceptable in a “safe” system.
+
+--- PAGE 22 ---
+From ICAO:
+Safety is increasingly viewed as the management of risk.
+
+--- PAGE 23 ---
+What is Safety?
+Safety is the state in which the risk of harm to persons or
+of property damage is reduced to, and maintained at or
+below, an acceptable level through a continuing process of
+hazard identification and risk management.
+(ICA0)
+
+--- PAGE 24 ---
+Safety is:
+▰ The management of Risk:
+▰ Past
+▰ Present
+▰ Future
+
+--- PAGE 25 ---
+Safety Management Systems
+▰ SMS is simply the “Management System” used to
+achieve your desired “safety” goals and objective.
+
+--- PAGE 26 ---
+Safety Management Systems
+WHY?
+
+--- PAGE 27 ---
+Safety Management Systems
+The Secretary of Transportation shall
+assign and maintain safety as the
+highest priority in air commerce.
+(TITLE 49 – TRANSPORTATION)
+
+--- PAGE 28 ---
+The Evolution of Safety
+▰ The Technical Era:
+(early 1900s until the late 1960s)
+▰ The Human Factors Era
+(early 1970s until the mid-1990s)
+▰ The Organizational Era —
+(mid-1990s to the present day)
+
+--- PAGE 29 ---
+Accident Pyramid
+1 Fatality
+29 Accidents
+300 Incidents
+
+--- PAGE 30 ---
+Why SMS?
+Incident Management
+Accident
+(SMS)
+Management
+(Rulemaking)
+
+--- PAGE 31 ---
+Why SMS?
+▰ Manage the precursors to an accident or incident.
+
+--- PAGE 32 ---
+The Business Side:
+▰ Accidents are BAD business:
+▰ To the Customer
+▰ To the Employer
+▰ To the Employee
+
+--- PAGE 33 ---
+Costs of Accidents
+▰ There are two basic types of costs associated with an
+accident or a serious incident: direct and indirect.
+
+--- PAGE 34 ---
+Direct Costs
+▰ These are the obvious costs which are fairly easy to
+determine.
+▰ They mostly relate to physical damage and include
+rectifying, replacing or compensating for injuries,
+aircraft equipment and property damage.
+▰ The high costs of an accident can be reduced by
+insurance coverage.
+
+--- PAGE 35 ---
+Indirect Costs
+▰
+Indirect costs include all those items that are not directly covered by
+insurance.
+▰
+Uninsured costs typically include:
+▰
+a) Loss of business and damage to the reputation of the
+organization.
+▰
+b) Loss of use of equipment.
+▰
+c) Loss of staff productivity.
+▰
+d) Investigation and clean-up.
+▰
+e) Insurance deductibles
+▰
+f) Legal action and damage claims.
+▰
+g) Fines and citations.
+
+--- PAGE 36 ---
+Why SMS?
+▰ To manage and minimize the cost of accidents or
+incidents.
+
+--- PAGE 37 ---
+Why SMS?
+▰ Laws
+▰ Regulations
+▰ ICAO
+▰ Culture
+▰ Public Expectation
+
+--- PAGE 38 ---
+Core Business Function
+▰ Safety management is a core business function.
+▰ Experience in other industries emphasize the
+importance of managing safety in a systematic,
+proactive and explicit manner.
+
+--- PAGE 39 ---
+Why SMS?
+▰ Safety management is a core business function.
+
+--- PAGE 40 ---
+WHAT are your goals …
+▰ Business?
+▰ Financial?
+▰ Workforce?
+▰ Production?
+▰ Quality?
+
+--- PAGE 41 ---
+HOW will you achieve your goals …
+▰ Business Management System.
+▰ Financial Management System.
+▰ Workforce Management System.
+▰ Production Management System.
+▰ Quality Management System.
+
+--- PAGE 42 ---
+Is it working?
+▰ What “tools” do you use to measure success?
+▰ Business.
+▰ Financial.
+▰ Workforce.
+▰ Production.
+▰ Quality.
+
+--- PAGE 43 ---
+What is a Management System?
+▰ Management system refers to what the organization
+does to manage its processes, or activities, so that its
+products or services meet the objectives it has set
+itself, such as:
+▰ satisfying the customer's quality requirements,
+▰ complying with regulations, or
+▰ meeting safety objectives.
+
+--- PAGE 44 ---
+Quality Management System
+(QMS)
+▰ QMS: The Management System to support the chosen
+level of quality
+▰ Quality Control
+▰ Quality Assurance
+
+--- PAGE 45 ---
+Safety Management Systems
+▰ SMS is simply the “Management System” used to
+achieve the desired “safety” objective.
+
+--- PAGE 46 ---
+Safety Management Systems
+▰ What is the “Safety Objective”?
+
+--- PAGE 47 ---
+▰ “The limiting of accident risk through design of a
+systematic, methodical, and forward-looking hazard
+identification and control program, beginning in the
+conceptual design phase and continuing through its
+development, fabrication, testing, production, use,
+and ultimate disposal.”
+
+--- PAGE 48 ---
+System Safety
+▰ “The limiting of accident risk through design of a
+systematic, methodical, and forward-looking hazard
+identification and control program, beginning in the
+conceptual design phase and continuing through its
+development, fabrication, testing, production, use,
+and ultimate disposal.”
+
+--- PAGE 49 ---
+Safety Management Systems
+▰ What is the “Safety Objective”?
+SYSTEM SAFETY
+
+--- PAGE 50 ---
+Safety Management Systems
+▰ So…What is SMS?
+▰ The Management System designed to manage and
+promote System Safety.
+
+--- PAGE 51 ---
+Systematic
+▰ means that safety management activities will be
+conducted in accordance with a predetermined plan
+and applied in a consistent manner throughout the
+organization.
+
+--- PAGE 52 ---
+Proactive
+▰ means the adoption of an approach which emphasizes
+prevention through the identification of hazards and
+the introduction of risk mitigation measures before
+the risk-bearing event occurs and adversely affects
+safety performance.
+
+--- PAGE 53 ---
+Explicit
+▰ means that all safety management activities should be
+documented, visible and performed independently
+from other management activities.
+
+--- PAGE 54 ---
+Strategies for Safety Management
+▰ Old School: Reactive safety strategy: Investigate
+accidents and reportable incidents
+▰ Today: Proactive safety strategy: Aggressively seeking
+information from a variety of sources which may be
+indicative of emerging safety problems
+
+--- PAGE 55 ---
+Typical Hazards in the workplace ….
+Tripping Hazard
+
+--- PAGE 56 ---
+ICAO SMS principles
+▰ Safety Policy
+▰ Safety Risk Management
+▰ Safety Assurance
+▰ Safety Promotion
+
+--- PAGE 57 ---
+Safety Risk Management
+▰ Safety risk management includes the following:
+a) a definition of safety risk;
+b) safety risk probability;
+c) safety risk severity;
+d) safety risk tolerability; and
+e) safety risk management.
+
+--- PAGE 58 ---
+Definition of safety risk
+▰ Safety risk is the projected likelihood and severity of
+the consequence or outcome from an existing hazard
+or situation.
+▰ While the outcome may be an accident, an
+“intermediate unsafe event/consequence” may be
+identified as “the most credible outcome”.
+
+--- PAGE 59 ---
+Evaluating Risk
+Likelihood of occurrence of the hazard;
+▰
+and,
+The severity of its potential
+▰
+consequences.
+
+--- PAGE 60 ---
+Perceptions of Risk
+▰ Three broad categories:
+▰ a) risks that are so high that they are
+unacceptable;
+▰ b) risks that are so low that they are acceptable;
+and
+▰ c) risks in between the two categories in a) and
+b), where consideration needs to be given to the
+various trade-offs between risks and benefits.
+
+--- PAGE 61 ---
+Risk Acceptability
+▰ If the risk does not meet the predetermined
+acceptability criteria, an attempt must always be made
+to reduce it to a level that is acceptable, using
+appropriate mitigation procedures.
+
+--- PAGE 62 ---
+Risk Acceptability
+▰
+If the risk cannot be reduced to or below the acceptable level, it may be
+regarded as tolerable if:
+▰
+a) the risk is less than the predetermined unacceptable limit;
+▰
+b) the risk has been reduced to a level that is as low as reasonably
+practicable; and
+▰
+c) the benefits of the proposed system or changes are sufficient to
+justify accepting the risk.
+▰
+Note.— All three of the above criteria should be satisfied before a risk is
+classed as tolerable
+
+--- PAGE 63 ---
+Accidents Verses Incidents
+▰ An accident is an occurrence during the
+operation of an aircraft which entails:
+▰ 1) a fatality or serious injury;
+▰ 2) substantial damage to the aircraft involving
+structural failure or requiring major repair; or
+▰ 3) the aircraft is missing or is completely
+inaccessible.
+
+--- PAGE 64 ---
+Accidents Verses Incidents
+▰ An incident is an occurrence, other than an
+accident, associated with the operation of an
+aircraft which affects or could affect the safety of
+operation.
+▰ A serious incident is an incident involving
+circumstances indicating that an accident nearly
+occurred.
+
+--- PAGE 65 ---
+Accident Causation
+▰ The strongest evidence of a serious breach of a
+system’s safety is an accident.
+
+--- PAGE 66 ---
+Traditional view of causation
+▰ Following a major accident, we ask:
+▰ a) How and why did competent personnel make
+the errors necessary to precipitate the accident?
+▰ b) Could something like this happen again?
+
+--- PAGE 67 ---
+Accident Causation Model
+
+--- PAGE 68 ---
+Modern View of Causation
+▰ Accidents require the coming together of a number of
+enabling factors — each one necessary but in itself not
+sufficient to breach system defenses.
+
+--- PAGE 69 ---
+Modern View of Causation
+▰ Major equipment failures or operational personnel
+errors are seldom the sole cause of breaches in safety
+defenses.
+
+--- PAGE 70 ---
+Modern View of Causation
+▰ Often breakdowns are the consequence of human failures
+in decision-making.
+▰ The breakdowns may involve active failures at the
+operational level, or latent conditions conducive to
+facilitating a breach of the system’s inherent safety
+defenses.
+▰ Most accidents include both active and latent conditions.
+
+--- PAGE 71 ---
+Modern View of Causation
+▰ Active failures:
+▰ Errors and violations having an immediate
+adverse effect.
+▰ These unsafe acts may be the result of normal
+errors, or they may result from deliberate
+violations of prescribed procedures and
+practices.
+
+--- PAGE 72 ---
+Modern View of Causation
+▰ Latent conditions:
+▰ A latent condition is the result of an action or
+decision made well before an accident.
+▰ Its consequences may remain dormant for a long
+time.
+▰ Individually, these latent conditions are usually
+not harmful since they are not perceived as
+being failures in the first place.
+
+--- PAGE 73 ---
+Context for Accidents and Incidents
+• Accidents and incidents occur within a defined set
+of circumstances and conditions. These include:
+▰ the aircraft and other equipment,
+▰ the weather,
+▰ the airport and flight services,
+▰ the operating climate (regulatory, industry and
+corporate ).
+▰ human behavior.
+
+--- PAGE 74 ---
+Part 2:
+Our Approach
+
+--- PAGE 75 ---
+Our Approach
+Start with ICAO Annex 19
+•
+Utilizing ICAO Safety Management Manual
+•
+(SMM)
+Perform a gap analysis of the ICAO
+•
+requirements and standard part 145
+(AMO/Repair Station) regulations
+Develop SMS management tool
+•
+
+--- PAGE 76 ---
+Our Approach
+Focus on:
+•
+▰ The regulatory, industry and corporate
+operating climate.
+▰ Human factors.
+▰ Quality assurance
+▰ Emergency Response
+
+--- PAGE 77 ---
+Gap Analysis
+▰ A gap analysis compares the service provider’s existing
+safety management processes and procedures with
+requirements contained in the SMS framework.
+
+--- PAGE 78 ---
+Gap Analysis
+▰ Aviation service providers will have typically
+implemented various SMS functions due to their
+compliance with national regulations or adoption of
+industry best practices.
+▰ The development of an SMS should build upon existing
+organizational structures and control systems
+
+--- PAGE 79 ---
+Our Approach
+The relationship between SMS and QMS
+•
+leads to the complementary contributions of
+each system to the attainment of the
+organization’s safety and quality goals.
+
+--- PAGE 80 ---
+Our Approach
+Summary comparison of QMS and SMS
+
+--- PAGE 81 ---
+§ 145.211 (a)
+▰ A certificated repair station must establish and
+maintain a quality control system acceptable to the
+FAA that ensures the airworthiness of the articles on
+which the repair station or any of its contractors
+performs maintenance, preventive maintenance, or
+alterations.
+
+--- PAGE 82 ---
+We Ask
+▰ How did a competent person make the errors
+necessary to contribute/cause the accident?
+▰ Why did the competent person make the errors
+necessary to cause the accident?
+▰ Could something like this happen again?
+
+--- PAGE 83 ---
+The Regulations Address Competency
+▰ Each certificated repair station provide qualified
+personnel to plan, supervise, perform, and approve for
+return to service the maintenance, preventive
+maintenance, or alterations performed under the
+repair station certificate and operations specifications;
+§ 145.151 (b)
+
+--- PAGE 84 ---
+The Regulations Address Competency
+▰ The training program must ensure each employee
+assigned to perform maintenance, preventive
+maintenance, or alterations, and inspection functions
+is capable of performing the assigned task.
+§ 145.163 (b)
+
+--- PAGE 85 ---
+Why did the competent person make the
+errors necessary to cause the accident?
+Human Factors
+&
+Organizational Factors
+
+--- PAGE 86 ---
+Human Factors
+The PEAR Model
+▰ The PEAR model is a simple framework for thinking
+about human factors in aviation maintenance.
+▰ PEAR is an acronym for People, Environment, Actions,
+and Resources.
+
+--- PAGE 87 ---
+Components of the PEAR model.
+▰ PEOPLE - Who are:
+▰ Physiological Factors
+▰ Lifestyle
+▰ Fatigue
+▰ Drugs
+▰ Physical limitations
+
+--- PAGE 88 ---
+Components of the PEAR model.
+▰ PEOPLE - Who are:
+▰ Psychological Factors
+▰ Workload
+▰ Experience
+▰ Knowledge
+▰ Attitude
+▰ Mental or emotional state
+
+--- PAGE 89 ---
+§ 145.151 Personnel
+requirements.
+▰ Each certificated repair station must--
+▰ (c) Ensure it has a sufficient number of
+employees with the training or knowledge and
+experience in the performance of maintenance,
+preventive maintenance, or alterations
+authorized by the repair station certificate and
+operations specifications to ensure all work is
+performed in accordance with part 43; and
+
+--- PAGE 90 ---
+Components of the PEAR model.
+▰ PEOPLE - Who are:
+▰ Psychosocial Factors
+▰ Interpersonal conflicts
+▰ Personal loss
+▰ Financial hardships
+
+--- PAGE 91 ---
+Components of the PEAR model.
+▰ ACTIONS - What do we do?
+▰ Communication
+▰ Oral
+▰ Visual
+▰ Written
+▰ Information and Control Requirements
+
+--- PAGE 92 ---
+Inspection and Quality Control
+System
+▰ Continuity of Inspection Responsibility. Include
+procedures for ensuring that the responsibilities of its
+inspectors are properly performed if they cannot
+complete the task.
+▰ If the facility uses multiple shifts, include procedures
+to ensure a continuing responsibility for maintenance
+in progress with status books, shift change logs, or
+similar documents.
+
+--- PAGE 93 ---
+Components of the PEAR model.
+▰ ENVIRONMENT - Where do we work?
+▰ Physical
+▰ Weather
+▰ Location inside/outside
+▰ Workspace
+▰ Lighting
+▰ Noise
+▰ Safety
+
+--- PAGE 94 ---
+§ 145.103 Housing and facilities
+requirements.
+▰ (a) Each certificated repair station must provide–
+▰ (2) Facilities for properly performing the
+maintenance, preventive maintenance, or
+alterations of articles or the specialized services
+for which it is rated.
+
+--- PAGE 95 ---
+§ 145.103 Housing and facilities
+requirements.
+▰ (a)(2) …Facilities must include the following:
+▰ (v) Ventilation, lighting, and control of
+temperature, humidity, and other climatic
+conditions sufficient to ensure personnel
+perform maintenance, preventive maintenance,
+or alterations to the standards required by this
+part.
+
+--- PAGE 96 ---
+Components of the PEAR model.
+▰ ENVIRONMENT - Where do we work?
+▰ Organizational
+▰ Personnel
+▰ Supervision
+▰ Shift
+▰ Pressures
+▰ Crew structure
+
+--- PAGE 97 ---
+Components of the PEAR model.
+▰ RESOURCES –
+▰ What and whom do we use to do our job?
+▰ Work Cards
+▰ Manuals/Bulletins/FARs
+▰ Test Equipment
+▰ Computers
+▰ Paperwork/Signoffs
+
+--- PAGE 98 ---
+§ 145.109 Equipment, materials, and
+data requirements
+▰ (d) A certificated repair station must maintain, in a
+format acceptable to the FAA, the documents and
+data required for the performance of maintenance,
+preventive maintenance, or alterations under its
+repair station certificate and operations specifications
+in accordance with part 43.
+
+--- PAGE 99 ---
+Components of the PEAR model.
+▰ RESOURCES –
+▰ What and whom do we use to do our job?
+▰ Ground Handling Equipment
+▰ Forklifts/Tow Motors
+▰ Ladders/Steps/Work Platforms
+▰ Cranes Hoist/Jacks
+
+--- PAGE 100 ---
+Components of the PEAR model.
+▰ RESOURCES –
+▰ What and whom do we use to do our job?
+▰ Fixtures
+▰ Materials
+▰ Task Lighting
+▰ Training
+
+--- PAGE 101 ---
+Organizational Factors
+
+--- PAGE 102 ---
+System Safety
+▰ “The limiting of accident risk through design of a
+systematic, methodical, and forward-looking
+hazard identification and control program,
+beginning in the conceptual design phase and
+continuing through its development, fabrication,
+testing, production, use, and ultimate disposal.”
+
+--- PAGE 103 ---
+Corporate Safety Culture
+▰ Organizational or corporate culture provides a
+cornerstone for managerial and employee decision-
+making —
+“This is how we do things here!”
+
+--- PAGE 104 ---
+Corporate Safety Culture
+▰ Safety culture is affected by such factors as:
+▰ a) management’s actions and priorities;
+▰ b) policies and procedures;
+▰ c) supervisory practices;
+▰ d) safety planning and goals;
+▰ e) actions in response to unsafe behaviors;
+▰ f) employee training and motivation; and
+▰ g) employee involvement or “buy-in”.
+
+--- PAGE 105 ---
+SMS
+▰ The Management System that provides for
+▰ Safety Policy
+▰ Safety Promotion
+AND
+▰ Safety Risk Management
+▰ Safety Assurance
+
+--- PAGE 106 ---
+Management’s Actions and Priorities
+▰ Safety first!
+▰ Good business practices:
+▰ Protect the customer
+▰ Protect the customer’s property
+▰ Protect the employees
+▰ Protect your environment
+▰ Make thoughtful, thorough decisions
+
+--- PAGE 107 ---
+Policies and Procedures
+▰ Compliant
+▰ Good business practices:
+▰ Comply with Federal Aviation Regulations
+▰ Comply with OSHA
+▰ Comply with EPA
+
+--- PAGE 108 ---
+Supervisory Practices
+▰ Communication
+▰ Good business practices:
+▰ Clear communication regarding:
+▰
+Schedules
+▰
+Mission
+▰
+Acceptable Risk
+
+--- PAGE 109 ---
+Safety Planning and Goals
+▰ Safety Goal: Zero accidents/incidents
+▰ Good business practices:
+▰ Plan don’t “wish”.
+▰ Listen
+▰ See what you don’t see
+▰ Pay attention to the little things.
+▰ Investigate incidents
+
+--- PAGE 110 ---
+Actions in Response to Unsafe Behaviors
+▰ Appropriate
+▰ Good business practices:
+▰ Manage behavior
+▰ Train/Educate
+▰ Appropriate Accountability
+▰
+Encourage self reporting with non-punitive actions.
+
+--- PAGE 111 ---
+Employee Training and Motivation
+▰ Train to expectations
+▰ Good business practices:
+▰ Set the standard – train to the standard
+▰ Allow time to train
+▰ Two-way communications – see results
+▰ Reward positive actions
+
+--- PAGE 112 ---
+Employee Involvement or “buy-in”
+▰ Without participation you only have a book!
+▰ Good business practices:
+▰ Employee developed
+▰ Employee benefit
+▰ Easy/quick to use
+▰ Observable benefit
+▰ Just culture
+
+--- PAGE 113 ---
+Positive Safety Culture
+▰ Informed cultures.
+▰ Learning cultures.
+▰ Reporting cultures.
+▰ Just cultures.
+
+--- PAGE 114 ---
+Informed Cultures
+▰ Management fosters a culture where people
+understand the hazards and risks inherent in their
+areas of operation.
+
+--- PAGE 115 ---
+Informed Cultures
+▰ Personnel are provided with the necessary knowledge,
+skills and job experience to work safely, and they are
+encouraged to identify the threats to their safety and
+to seek the changes necessary to overcome them.
+
+--- PAGE 116 ---
+Learning Cultures
+▰ Learning is seen as more than a requirement for initial
+skills training; rather it is valued as a lifetime process.
+▰ People are encouraged to develop and apply their
+own skills and knowledge to enhance organizational
+safety.
+
+--- PAGE 117 ---
+Learning Cultures
+▰ Staff are updated on safety issues by management,
+and safety reports are fed back to staff so that
+everyone can learn the pertinent safety lessons.
+
+--- PAGE 118 ---
+Reporting Cultures
+▰ Managers and operational personnel freely share
+critical safety information without the threat of
+punitive action.
+
+--- PAGE 119 ---
+Reporting Cultures
+▰ Personnel are able to report hazards or safety
+concerns as they become aware of them, without fear
+of sanction or embarrassment.
+
+--- PAGE 120 ---
+Just Cultures
+▰ While a non-punitive environment is fundamental for
+a good reporting culture, the workforce must know
+and agree on what is acceptable and what is
+unacceptable behavior.
+
+--- PAGE 121 ---
+Just Cultures
+▰ Negligence or deliberate violations must not be
+tolerated by management (even in a non-punitive
+environment).
+
+--- PAGE 122 ---
+Just Cultures
+▰ A just culture recognizes that, in certain
+circumstances, there may be a need for punitive
+action and attempts to define the line between
+acceptable and unacceptable actions or activities.
+
+--- PAGE 123 ---
+Characteristics of different safety
+cultures
+
+--- PAGE 124 ---
+Part 3:
+SMS Elements
+
+--- PAGE 125 ---
+ICAO SMS Framework
+▰ The four components that comprise the ICAO SMS
+framework are:
+▰ Safety policy and objectives
+▰ Safety risk management
+▰ Safety assurance
+▰ Safety promotion
+
+--- PAGE 126 ---
+Safety Policy and Objectives
+1. Management commitment and responsibility
+2. Safety accountabilities
+3. Appointment of key safety personnel
+4. Coordination of emergency response planning
+5. SMS documentation
+
+--- PAGE 127 ---
+Safety Risk Management
+1. Hazard identification
+2. Safety risk assessment and mitigation
+
+--- PAGE 128 ---
+Safety Assurance
+1. Safety performance monitoring and measurement
+2. The management of change
+3. Continuous improvement of the SMS
+
+--- PAGE 129 ---
+Safety Promotion
+1. Training and education
+2. Safety communication
+
+--- PAGE 130 ---
+Safety Policy & Objectives
+1. Management commitment and responsibility
+2. Safety accountabilities
+3. Appointment of key safety personnel
+4. Coordination of emergency response planning
+5. SMS documentation
+
+--- PAGE 131 ---
+Management Commitment
+▰ The service provider shall define its safety policy in
+accordance with international and national
+requirements
+
+--- PAGE 132 ---
+Management Commitment
+The safety policy shall:
+•
+reflect organizational commitment regarding safety;
+•
+include a clear statement about the provision of the necessary resources for the
+implementation of the safety policy;
+•
+include safety reporting procedures;
+•
+clearly indicate which types of behaviors are unacceptable related to the service
+provider’s aviation activities and include the circumstances under which disciplinary
+action would not apply;
+•
+be signed by the accountable executive of the organization;
+•
+be communicated, with visible endorsement, throughout the organization; and
+•
+be periodically reviewed to ensure it remains relevant and appropriate to the service
+provider.
+
+--- PAGE 133 ---
+Safety Accountabilities
+The service provider shall:
+• identify the accountable executive who, irrespective of
+other functions, has ultimate responsibility and
+accountability, on behalf of the organization, for the
+implementation and maintenance of the SMS;
+• clearly define lines of safety accountability throughout
+the organization, including a direct accountability for
+safety on the part of senior management;
+
+--- PAGE 134 ---
+Safety Accountabilities
+The service provider shall:
+•
+identify the accountabilities of all members of management,
+irrespective of other functions, as well as of employees, with
+respect to the safety performance of the SMS;
+•
+document and communicate safety responsibilities,
+accountabilities and authorities throughout the organization;
+and
+•
+define the levels of management with authority to make
+decisions regarding safety risk tolerability.
+
+--- PAGE 135 ---
+Appointment of Key Personnel
+▰ The service provider shall appoint a safety manager
+who is responsible for the implementation and
+maintenance of an effective SMS.
+
+--- PAGE 136 ---
+Emergency Response Planning
+▰ The service provider shall ensure that an emergency
+response plan is properly coordinated with the
+emergency response plans of those organizations it
+must interface with during the provision of its services.
+
+--- PAGE 137 ---
+SMS Documentation
+▰ The service provider shall develop an SMS
+implementation plan, formally endorsed by the
+organization, that defines the organization’s approach
+to the management of safety in a manner that meets
+the organization’s safety objectives.
+
+--- PAGE 138 ---
+SMS Documentation
+▰ The service provider shall develop and maintain SMS
+documentation that describes:
+• the safety policy and objectives;
+• SMS requirements;
+• SMS processes and procedures;
+• accountabilities, responsibilities and authorities
+for SMS processes and procedures; and
+• SMS outputs.
+
+--- PAGE 139 ---
+SMS Documentation
+▰ The service provider shall develop and maintain an
+SMS manual as part of its SMS documentation.
+
+--- PAGE 140 ---
+Safety Risk Management
+1. Hazard identification
+2. Safety risk assessment and mitigation
+
+--- PAGE 141 ---
+Hazard Identification
+▰ The service provider shall develop and maintain a
+formal process that ensures that hazards associated
+with its aviation products or services are identified.
+▰ Hazard identification shall be based on a combination
+of reactive, proactive and predictive methods of safety
+data collection.
+
+--- PAGE 142 ---
+Safety Risk Management Process
+
+--- PAGE 143 ---
+Risk Probability & Severity Table
+
+--- PAGE 144 ---
+Safety Risk Assessment & Mitigation
+▰ The service provider shall develop and maintain a
+process that ensures analysis, assessment and control
+of the safety risks associated with identified hazards.
+
+--- PAGE 145 ---
+Effective Safety Reporting
+▰ There are five basic characteristics that are universally
+associated with effective safety reporting systems.
+▰ Effective hazard reporting is a key component of
+safety management. Once reported, data on hazards
+can be analyzed with other data sources to support
+the SRM and SA processes
+
+--- PAGE 146 ---
+Five Characteristics of Effective Reporting
+1. Information
+People are knowledgeable about the human, technical and
+organizational factors that determine the safety of the
+system as a whole.
+
+--- PAGE 147 ---
+Five Characteristics of Effective Reporting
+2. Flexibility
+People can adapt their reporting mode when facing
+unusual circumstances, shifting from the established mode
+to a direct mode thus allowing information to quickly reach
+the appropriate decision-making level.
+
+--- PAGE 148 ---
+Five Characteristics of Effective Reporting
+3. Willingness
+People are willing to report their errors and experiences
+
+--- PAGE 149 ---
+Five Characteristics of Effective Reporting
+4. Learning
+People have the competence to draw conclusions from
+safety information systems and the will to implement major
+reforms
+
+--- PAGE 150 ---
+Five Characteristics of Effective Reporting
+5. Accountability
+People are encouraged (and rewarded) for providing
+essential safety-related information.
+However, there is a clear line that differentiates between
+acceptable and unacceptable behavior.
+
+--- PAGE 151 ---
+Safety Assurance
+1. Safety performance monitoring and measurement
+2. The management of change
+3. Continuous improvement of the SMS
+
+--- PAGE 152 ---
+Safety Performance Monitoring &
+Measurement
+▰ The service provider shall develop and maintain the
+means to verify the safety performance of the
+organization and to validate the effectiveness of safety
+risk controls.
+▰ The service provider’s safety performance shall be
+verified in reference to the safety performance
+indicators and safety performance targets of the SMS.
+
+--- PAGE 153 ---
+Safety Performance Indicators
+▰ An SMS defines measurable performance outcomes to
+determine whether the system is truly operating in
+accordance with design expectations and not simply
+meeting regulatory requirements.
+▰ The safety performance indicators are used to monitor
+known safety risks, detect emerging safety risks and to
+determine any necessary corrective actions.
+
+--- PAGE 154 ---
+Safety Performance Indicators
+▰ A service provider´s safety achievement as defined by
+its safety performance targets and safety performance
+indicators.
+
+--- PAGE 155 ---
+Safety Performance Indicators
+▰ A data-based safety parameter used for monitoring
+and assessing safety performance.
+
+--- PAGE 156 ---
+Safety Performance Indicators
+▰ The safety performance indicators and associated targets
+should be accepted by the State responsible for the service
+provider’s authorization, certification or designation.
+▰ Safety performance indicators are supplementary to any
+legal or regulatory requirements and do not relieve service
+providers from their regulatory obligations.
+
+--- PAGE 157 ---
+The Management of Change
+▰ The service provider shall develop and maintain a
+formal process to identify changes which may affect
+the level of safety risk associated with its aviation
+products or services and to identify and manage the
+safety risks that may arise from those changes.
+
+--- PAGE 158 ---
+Change Management
+▰ A formal process to manage changes within an
+organization in a systematic manner, so that changes
+which may impact identified hazards and risk
+mitigation strategies are accounted for, before the
+implementation of such changes.
+
+--- PAGE 159 ---
+Continuous Improvement of SMS
+▰ The service provider shall monitor and assess the
+effectiveness of its SMS processes to enable
+continuous improvement of the overall performance
+of the SMS.
+
+--- PAGE 160 ---
+Safety Promotion
+Training and education
+1.
+Safety communication
+2.
+
+--- PAGE 161 ---
+Training & Education
+▰ The service provider shall develop and maintain a
+safety training program that ensures that personnel
+are trained and competent to perform their SMS
+duties.
+▰ The scope of the safety training program shall be
+appropriate to each individual’s involvement in the
+SMS.
+
+--- PAGE 162 ---
+Safety Communication
+The service provider shall develop and maintain formal means
+for safety communication that:
+a) ensures personnel are aware of the SMS to a degree
+commensurate with their positions;
+b) conveys safety-critical information;
+c) explains why particular safety actions are taken; and
+d) explains why safety procedures are introduced or
+changed.
+
+--- PAGE 163 ---
+Part 4
+AEA's Online
+SMS Management Tool
+
+--- PAGE 164 ---
+S
+M
+S
+How do we do this?
+
+--- PAGE 165 ---
+Safety Management Systems
+Smart
+Manageable
+Simple
+
+--- PAGE 166 ---
+Hazard identification and
+risk management
+▰ § 145.1 This part also contains the rules a certificated
+repair station must follow related to its performance
+of maintenance, ….
+
+--- PAGE 167 ---
+Hazard identification and
+risk management
+▰ Advisory circular (AC) 145-9 provides information to
+develop and evaluate a Repair Station Manual (RSM)
+and Quality Control Manual (QCM)
+(processes)
+
+--- PAGE 168 ---
+Hazard identification and
+risk management
+▰ SMS provides guidance on identifying potential
+hazards and guides the applicant to mitigate those
+hazards to the maximum extent practical while
+defining the business processes (i.e describing the
+repair station organization and processes as required
+in part 145).
+
+--- PAGE 169 ---
+Basic Elements of SMS
+▰ 1. Management commitment to the company
+Safety System
+▰ 2. The SMS Coordinator (Safety Manager) is
+either the Accountable Manager or reports
+directly to the Accountable Manager
+
+--- PAGE 170 ---
+Basic Elements of SMS
+▰ 3. Encouragement of a positive safety culture
+▰ 4. Establishment of a safety management
+structure,
+
+--- PAGE 171 ---
+Basic Elements of SMS
+▰ 5. Hazard identification and risk management,
+▰ 6. Safety audits and assessment of quality and
+compliance,
+
+--- PAGE 172 ---
+Basic Elements of SMS
+▰ 7. Accident and incident reporting and
+investigation,
+▰ 8. Emergency Response Program Management,
+
+--- PAGE 173 ---
+Basic Elements of SMS
+▰ 9. Documentation and Recordkeeping,
+▰ 10. Immunity-based reporting systems,
+▰ 11. The exchange of valuable “Lessons
+Learned” with others in the industry,
+
+--- PAGE 174 ---
+Basic Elements of SMS
+▰ 12. Safety training integration into the
+organization’s training syllabi,
+▰ 13. Human factors training for all personnel and
+▰ 14. Regular evaluation and ongoing fine-tuning of
+the Safety Management System.
+
+--- PAGE 175 ---
+AEA’s Solution:
+All of the basic requirements
+▰
+Regulatory compliance
+▰
+Incident management
+▰
+Positive Safety Culture
+▰
+
+--- PAGE 176 ---
+Informed Cultures
+▰ People:
+▰ understand the hazards and risks inherent in
+their areas of operation.
+▰ are provided with the necessary knowledge,
+skills and job experience to work safely.
+▰ are encouraged to identify the threats to their
+safety and to seek the changes necessary to
+overcome them.
+
+--- PAGE 177 ---
+Indoctrination Training
+Includes hazard identification,
+risk assessment and
+overview of the SMS program
+and participation.
+
+--- PAGE 178 ---
+Risk Assessment / Change Management
+
+--- PAGE 179 ---
+Learning Cultures
+▰ Learning is seen as more than a requirement for initial
+skills training; rather it is valued as a lifetime process.
+▰ People are encouraged to develop and apply their
+own skills and knowledge to enhance organizational
+safety.
+▰ Staff are updated on safety issues by management,
+and safety reports are fed back to staff so that
+everyone can learn the pertinent safety lessons.
+
+--- PAGE 180 ---
+AEA Participation
+• Regular highlights in Avionics News
+• Top ten hazards list on AEA/SMS
+• Hazard topics for AEA Convention & Regional Conferences
+
+--- PAGE 181 ---
+Reporting Cultures
+▰ Managers and operational personnel freely share
+critical safety information without the threat of
+punitive action.
+▰ This is frequently referred to as creating a corporate
+reporting culture.
+▰ Personnel are able to report hazards or safety
+concerns as they become aware of them, without fear
+of sanction or embarrassment.
+
+--- PAGE 182 ---
+Employee Hazard Identification Report
+
+--- PAGE 183 ---
+Just Cultures
+▰ While a non-punitive environment is fundamental for a
+good reporting culture, the workforce must know and
+agree on what is acceptable and what is unacceptable
+behavior.
+▰ Negligence or deliberate violations must not be tolerated
+by management (even in a non-punitive environment).
+▰ A just culture recognizes that, in certain circumstances,
+there may be a need for punitive action and attempts to
+define the line between acceptable and unacceptable
+actions or activities.
+
+--- PAGE 184 ---
+SMS Dashboard
+
+--- PAGE 185 ---
+Continuous Improvement
+▰ AEA Safety Committee
+▰ Quarterly meetings
+▰ Review hazard classifications
+▰ Develop top 12 list
+
+--- PAGE 186 ---
+Continuous Improvement
+▰ Continuous Improvements in the program
+▰ Revised SMS Manual
+▰ Updated to reflect changes in the program
+▰ Large facility planning
+▰ Standardized Taxonomy
+
+--- PAGE 187 ---
+Safety Management Systems
+AEA’s Solution: Helping the Membership
+Smart
+Manageable
+Simple
+
+--- PAGE 188 ---
+A Complete Program: NOT a Template
+
+--- PAGE 189 ---
+Safety Policy
+
+--- PAGE 190 ---
+Safety Policy
+
+--- PAGE 191 ---
+Employee Hazard Identification Report
+
+--- PAGE 192 ---
+Risk Assessment / Change Management
+
+--- PAGE 193 ---
+SMS Dashboard
+
+--- PAGE 194 ---
+Smart – Manageable - Simple
+▰ You run your business – we give you the tools
+▰ You make the decisions – not us.
+▰ Complete program – NOT a template
+▰ AEA Program -- Coordinated with NAAs
+▰ Employee participation
+▰ Every employee is enrolled and has access to the
+program
+
+--- PAGE 195 ---
+Smart – Manageable - Simple
+▰ Intuitive
+▰ All the tools in one place
+▰ www.aea.net
+
+--- PAGE 196 ---
+Full Facility Audit
+▰ Quality and Safety
+▰ Performed progressively throughout the year
+▰ 1/12 of the audit each month
+▰ Simple – configurable audits
+▰ including:
+▰ Repair station quality audit
+▰ Industrial safety elements
+▰ Risk mitigation solutions
+
+--- PAGE 197 ---
+Smart – Manageable - Simple
+▰ Training
+▰ We learn from each other
+▰ Training at the AEA Regional Meetings
+▰ Generic on-line safety/SMS training
+▰ Facility specific training templates
+
+--- PAGE 198 ---
+Emergency Response Manual
+The Emergency Response Manual serves as
+▰
+guidance for all personnel. It provides a
+clear, timely, and ordered response to an
+emergency.
+Often required by local government.
+▰
+
+--- PAGE 199 ---
+Emergency Response Manual
+▰ Media and PR
+▰ Planning Communications
+
+--- PAGE 200 ---
+S
+M
+S
+Smart. Manageable. Simple.
+How the System Works
+
+--- PAGE 201 ---
+SMS Sign-In
+
+--- PAGE 202 ---
+SMS Dashboard
+
+--- PAGE 203 ---
+Safety Policy
+
+--- PAGE 204 ---
+Safety Promotion
+
+--- PAGE 205 ---
+Safety Risk Management
+
+--- PAGE 206 ---
+Hazard Identification
+
+--- PAGE 207 ---
+Employee Hazard Identification Report
+
+--- PAGE 208 ---
+Employee Hazard Identification Report
+
+--- PAGE 209 ---
+Employee Hazard Identification Report
+
+--- PAGE 210 ---
+Employee Hazard Identification Report
+
+--- PAGE 211 ---
+Employee Hazard Identification Report
+
+--- PAGE 212 ---
+Assessment
+
+--- PAGE 213 ---
+Assessment
+
+--- PAGE 214 ---
+Assessment
+
+--- PAGE 215 ---
+Risk Probability & Severity Table
+
+--- PAGE 216 ---
+Assessment
+
+--- PAGE 217 ---
+Corrective Action
+
+--- PAGE 218 ---
+Organizational Risk Assessment
+
+--- PAGE 219 ---
+Organizational Risk Assessment
+
+--- PAGE 220 ---
+Organizational Risk Assessment
+
+--- PAGE 221 ---
+Organizational Risk Assessment
+
+--- PAGE 222 ---
+Organizational Risk Assessment
+
+--- PAGE 223 ---
+Organizational Risk Assessment
+
+--- PAGE 224 ---
+Safety Assurance
+
+--- PAGE 225 ---
+Dashboard
+
+--- PAGE 226 ---
+Internal Evaluation Program
+
+--- PAGE 227 ---
+Audit
+
+--- PAGE 228 ---
+Top Hazards
+
+--- PAGE 229 ---
+User Settings
+
+--- PAGE 230 ---
+Questions?
+
+--- PAGE 231 ---
+14 CFR Part 5
+
+--- PAGE 232 ---
+Regulatory Foundation for SMS
+(14 CFR Part 5)
+▰ Establishes SMS requirements for aviation service
+providers
+▰ Defines minimum SMS components and structure
+▰ Basis for FAA SMS Voluntary Program (SMSVP)
+▰ Referenced in FAA/EASA MAG and InFO 24007
+
+--- PAGE 233 ---
+Structure of 14 CFR Part 5
+▰ Subpart A – General
+▰ Subpart B – Safety Policy
+▰ Subpart C – Safety Risk Management
+▰ Subpart D – Safety Assurance
+▰ Subpart E – Safety Promotion
+▰ Subpart F – SMS Documentation
+
+--- PAGE 234 ---
+ICAO SMS Framework vs Part 5
+ICAO Part 5
+Safety Policy Subpart B
+Safety Risk Management Subpart C
+Safety Assurance Subpart D
+Safety Promotion Subpart E
+
+--- PAGE 235 ---
+Part 5 Meets Part 145
+▰ Part 145 defines WHAT must be done
+▰ Part 5 defines HOW safety is managed
+▰ 145.211 Quality System Part 5 SMS
+▰ 145.163 Training 5.91 Competency
+▰ 145.151 Personnel 5.23 Accountability
+▰ Manuals Subpart F SMS Documentation
+
+--- PAGE 236 ---
+How AEA Aligns with Part 5
+▰ Framework aligned to Subparts A–F
+▰ Integrates with Part 145 manuals and procedures
+▰ Supports SMSVP compliance
+▰ Enables EASA acceptance
+
+--- PAGE 237 ---
+Regulatory Bottom Line
+▰ Part 5 = SMS framework
+▰ ICAO = international standard
+▰ SMSVP = implementation pathway
+▰ MAG/InFO = enforcement driver
+
+--- PAGE 238 ---
+Part 5
+Getting Started
+
+--- PAGE 239 ---
+Safety Management System
+• Getting Started
+
+--- PAGE 240 ---
+Step 1
+▰ SMS Coordinator Training
+
+--- PAGE 241 ---
+Step 2
+Leadership Commitment
+
+--- PAGE 242 ---
+Step 2: Leadership Commitment
+▰ Senior leadership must understand the value of SMS in
+establishing and achieving the organizational goals.
+
+--- PAGE 243 ---
+Step 2: Leadership Commitment
+▰ Understands the Value of SMS
+▰ Places SMS on par with other “management Systems”
+▰ Financial management
+▰ Production management
+
+--- PAGE 244 ---
+Step 2: Leadership Commitment
+▰ Identify and assign SMS Program Manager
+
+--- PAGE 245 ---
+Step 3
+Leadership Promotion
+
+--- PAGE 246 ---
+Step 3: Leadership Promotion
+▰ Before SMS can become effective, senior leadership
+must promote their commitment to this program.
+
+--- PAGE 247 ---
+Step 3: Top-Down Promotion
+▰ Senior leadership must meet with each level –
+independently - on the organizational chart beginning
+at the top.
+“this is how we do things here”
+
+--- PAGE 248 ---
+Step 4
+▰ Communicate with AEA requesting enrollment:
+▰ Email to Aaron Ward (aaronw@aea.net)
+▰ Copy Pam Meyer (pamm@aea.net)
+
+--- PAGE 249 ---
+Step 5
+▰ Provide AEA (Aaron Ward) a list of all employees so we
+can be sure we have an account setup for each of
+them.
+▰ Include:
+▰ First Name,
+▰ Last Name, and
+▰ email address.
+
+--- PAGE 250 ---
+Step 6
+▰ Employee Training
+
+--- PAGE 251 ---
+Step 7
+▰ Establish safety goals and objectives based on local
+needs and history.
+
+--- PAGE 252 ---
+Step 8: Implementation
+Begin using:
+Safety Promotion
+Communication
+Outreach
+Training
+
+--- PAGE 253 ---
+Step 8: Implementation
+Begin using:
+Safety Risk Management
+Employee Hazard Reports
+Incident/Accident Reports
+Organizational Risk Assessment
+
+--- PAGE 254 ---
+Step 8: Implementation
+Begin using:
+Safety Assurance
+Audit Finding Report
+Internal Evaluation Program
+
+--- PAGE 255 ---
+Step 9: Evaluation
+Is everyone using all of the pieces of SMS?
+From the top of the organization chart through EACH
+level?
+
+--- PAGE 256 ---
+Step 9: Evaluation
+Are you performing a root cause analysis of each audit
+finding – regardless of source?
+
+--- PAGE 257 ---
+Step 9: Evaluation
+Are you performing an internal audit?
+Progressively, quarterly or annually?
+
+--- PAGE 258 ---
+Step 10: Update Goals
+▰ Annually, review and update the organizational safety
+goals and objectives.
+
+--- PAGE 259 ---
+Step 11: Completion
+While SMS is operational at start-up, it takes completion of
+the implementation, evaluation, and internal audit
+before one can claim to be fully operational.
+
+--- PAGE 260 ---
+Questions?
+Ric Peri
+Aircraft Electronics Association
+ricp@aea.net
+202-589-1144

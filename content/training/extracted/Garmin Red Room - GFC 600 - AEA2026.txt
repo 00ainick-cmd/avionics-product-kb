@@ -1,0 +1,2483 @@
+--- PAGE 1 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+Garmin GFC 600
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+Double Checks and Quick Tips
+
+--- PAGE 2 ---
+March 30, 2026
+Legal Statement
+8:54 AM
+2
+F
+o
+r
+R
+e
+f
+e
+Garmin Aviation Traininrg is intended to provide the best practices for
+e
+N
+n
+o c
+the insttallation, use and maintenanece of Garmin Aviation products. It
+f
+o O
+r n
+is incumbent on te chnicians and pilots to ensure that the instructions
+P l
+y
+u
+b
+contained in the most recent versions of Garmin product manuals,
+l
+i
+c
+bulletins and notifications are followeDd.
+i
+s
+t
+r
+i
+b
+u
+© GARMIN LTD. OR ITS SUBSIDARIES. ALL RIGHTS RESERVED.
+t
+i
+o
+n
+
+--- PAGE 3 ---
+Objectives
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+After comtpleting this training, you
+e
+will:
+f
+o O
+r n
+Execute installs w ith precision by examining
+P l
+y
+u
+the model specific installatbion documentation.
+l
+i
+c
+Understand the Garmin’s GMC 605 conDfiguration
+i
+s
+and how it aids in installation verification. t
+r
+i
+b
+u
+Better articulate advice by Garmin Autopilot
+t
+i
+o
+Subject Matter Experts and Certification Team by n
+reading the notes.
+
+--- PAGE 4 ---
+Aviation Training Academy March 30, 2026
+8:54 AM
+4
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 5 ---
+GFC 600 Defining Features March 30, 2026
+8:54 AM
+5
+Federated GFC 700
+F
+o
+r
+Automat ic Flight Control
+R
+e
+f
+System e
+r
+e
+N
+n
+oGMC 605(C) c
+t e
+f
+o O
+GSA 87
+r n
+P l
+y
+GSA 80/81
+u
+b
+l
+i
+c
+GTA 82
+D
+i
+s
+GI 285 t
+r
+i
+b
+u
+Third party integrations
+t
+i
+o
+n
+
+--- PAGE 6 ---
+GFC 600 AML Additions March 30, 2026
+8:54 AM
+6
+Additions to GFC 600 STC
+F
+o
+r
+Cessna R421B Golden Eagle
+e
+f
+e
+Cessna Citation CJ 1 (525A)
+r
+e
+N
+n
+oPiper Cheyenne II (PA-31T) c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 7 ---
+Before you Deliver! March 30, 2026
+8:54 AM
+7
+Double check your MDL
+F
+o
+r
+Ensure you’re using the most
+R
+e
+recent documefntation for your
+e
+r
+airframe! e
+N
+n
+o c
+t e
+f
+o O
+For every 10 mrinutes you n
+P l
+y
+spend reading the no
+u
+tes on
+b
+l
+i
+the Model Specific Addendumc
+D
+i
+You’ll save an HOUR of s
+t
+r
+i
+troubleshooting your b
+u
+t
+installation! i
+o
+n
+We never have time to do it
+‘right’ but we always make time
+to do it again!
+
+--- PAGE 8 ---
+Master Drawing List March 30, 2026
+8:54 AM
+8
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+Current MDL is revision 75. i o
+n
+We’ve made 6 new revisions in the last 12 months
+
+--- PAGE 9 ---
+Filter by Product Version March 30, 2026
+8:54 AM
+9
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 10 ---
+Filter by Product Version March 30, 2026
+8:54 AM
+10
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 11 ---
+Filter by Product Version March 30, 2026
+8:54 AM
+11
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 12 ---
+Filter by Product Version March 30, 2026
+8:54 AM
+12
+UFsing the product version
+o
+r
+filter R
+e
+f
+e
+Offers simplicity for quick
+r
+e
+N
+n
+roeference
+c
+t e
+f
+o O
+Works for all Garmin STC
+r n
+P l
+y
+products u
+b
+l
+i
+Focuses searches on only c
+D
+the most recent documents i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 13 ---
+Notas Legere : Read the Notes! March 30, 2026
+8:54 AM
+13
+NFotes offer a direct
+o
+r
+insight in tRo the lessons
+e
+f
+learned by the ceretification
+r
+e
+N
+n
+teaom during initial
+c
+t e
+f
+issuance oof the STC O
+r n
+P l
+y
+u
+How many notes does bthe
+l
+i
+c
+Piper Cheyenne II Model D
+i
+s
+t
+Specific Addendum offer?
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 14 ---
+Notas Legere : Read the Notes! March 30, 2026
+8:54 AM
+14
+NFotes offer a direct
+o
+r
+insight in tRo the lessons
+e
+f
+learned by the ceretification
+r
+e
+N
+n
+teaom during initial
+c
+t e
+f
+issuance oof the STC O
+r n
+P l
+y
+u
+How many notes does bthe
+l
+i
+c
+Piper Cheyenne II Model D
+i
+s
+t
+Specific Addendum offer?
+r
+i
+b
+u
+63 (as of Rev 3) t
+i
+o
+n
+
+--- PAGE 15 ---
+Notas Legere : Read the Notes! March 30, 2026
+8:54 AM
+15
+LFet’s compare the
+o
+r
+Cheyenn eR II to A36 Bonanza
+e
+f
+e
+On the AML since initial
+r
+e
+N
+n
+oissuance.
+c
+t e
+f
+o O
+How many notes?
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 16 ---
+Notas Legere : Read the Notes! March 30, 2026
+8:54 AM
+16
+LFet’s compare the
+o
+r
+Cheyenn eR II to A36 Bonanza
+e
+f
+e
+On the AML since initial
+r
+e
+N
+n
+oissuance.
+c
+t e
+f
+o O
+How many notes?
+r n
+P l
+y
+37 u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 17 ---
+Notas Legere : Read the Notes! March 30, 2026
+8:54 AM
+17
+LFet’s compare the
+o
+r
+Cheyenn eR II to A36 Bonanza
+e
+f
+e
+On the AML since initial
+r
+e
+N
+n
+oissuance.
+c
+t e
+f
+o O
+How many notes?
+r n
+P l
+y
+37 u
+b
+l
+i
+c
+D
+i
+s
+t
+Always Read the Notes! r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 18 ---
+March 30, 2026
+8:54 AM
+19
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+Spot the difference: (picture of GMC 605 and GMC 605C)
+b
+l
+i
+c
+Which GMC is the ‘non -color’ version??
+D
+i
+s
+t
+r
+A. GMC 605 (Top) i
+b
+u
+t
+i
+B. GMC 605C (Bottom) o
+n
+
+--- PAGE 19 ---
+GFC 600 Software Loading & Fails PFT March 30, 2026
+8:54 AM
+20
+SPOT THE DIFFERENCE
+F
+o
+r
+R
+GMC605 (monochrome) vs. GMC605C (color)
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 20 ---
+GFC 600 software March 30, 2026
+8:54 AM
+21
+F
+NOTES
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+NOTE: Loading Monochrome SW to a Color GMC
+o c
+t e
+f
+(ovise versa) may brick thOe unit, requires
+r n
+P l
+y
+returning uunit for repair.
+b
+l
+i
+c
+D
+i
+s
+t
+r
+Loading the wrong software will appear as
+i
+b
+u
+t
+though the GSA’s failed to load.
+i
+o
+n
+
+--- PAGE 21 ---
+GFC 600 software verification March 30, 2026
+8:54 AM
+22
+GMC 605 (monochrome) vs GMC 605C (color)
+F
+o
+r
+GMC 60R5 software version displayed bottom right of splash screen
+e
+f
+e
+GMC 605C software version displayed bottom right of score board
+r
+e
+N
+n
+oduring PFT
+c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 22 ---
+GFC 600 Fails PFT March 30, 2026
+8:54 AM
+23
+F
+o
+PFT Farils (P-Trim Fail, YD Fail, ESP Fail*)
+R
+e
+f
+e
+PFT Hangs-up or never passes (PFT, NO ATT, or ESP Off*)
+r
+e
+N
+n
+o c
+The usual suspects:
+t e
+f
+o O
+Wiring – thre #1 & #2 cause for PFT failures inn new installations
+P l
+y
+Software – Incorrec
+u
+t version or incorrectly loaded (mon ochrome vs color)
+b
+l
+i
+Hardware – Actual failed LRU, incstalled in incorrect position or not installed
+D
+i
+Configuration – Expected input not present osr invalid
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 23 ---
+GFC 600 Fails PFT March 30, 2026
+8:54 AM
+24
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+GMC 605C f
+o O
+r n
+P l
+ESP annunciations during PFT y
+u
+b
+are suppressed. l
+i
+c
+D
+ESP OFF or ESP FAIL will not be
+i
+s
+displayed as seen on GMC 605 t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 24 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+25
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 25 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+26
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 26 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+27
+PRODUCT > SERVOS
+F
+o
+r
+R
+Are all of my servos reporting?
+e
+f
+e
+r
+NControl & Monitor boareds communicating?
+n
+o c
+t e
+f
+Serial numober check O
+r n
+P l
+y
+u
+Servo location
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 27 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+28
+PRODUCT > SERVOS
+F
+o
+r
+R
+Are all of my servos reporting?
+e
+f
+e
+r
+NCheck ID Strapping? e
+n
+o c
+t e
+f
+Check wiriong? O
+r n
+P l
+y
+u
+Check Connections?
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 28 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+29
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 29 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+30
+GFC > SERVOS > P/R/Y/PT > MON/CTL
+F
+o
+r
+R
+Servo ID straps
+e
+f
+e
+r
+NAP Disconnect state (neormally closed, PIN 17, voltage)
+n
+o c
+t e
+f
+Servo PFTo checks O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 30 ---
+Control and Monitor Agree? March 30, 2026
+8:54 AM
+31
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 31 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+32
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 32 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+33
+I/O > RS485
+F
+o
+r
+R
+Status ✓ does not mean it is correct data
+e
+f
+e
+r
+There is a wire in the poert
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 33 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+34
+I/O > RS485
+F
+o
+r
+R
+PC-12 Customer States: Intermittent AP FAIL
+e
+f
+e
+r
+While verifying this, thee technician noticed the results for PROGRAM 1-
+N
+n
+o c
+4 & AP DISC would momentarily blank then show “?”, PFT would read
+t e
+f
+o O
+“NO DATA”.
+r n
+P l
+y
+u
+After about 3 seconds, all indications would normalize. This would
+b
+l
+i
+repeat every 35-45 seconds. c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 34 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+35
+I/O > RS485
+F
+o
+r
+R
+PC-12 Customer States: Intermittent AP FAIL
+e
+f
+e
+r
+Monitored I/O 485 pagee. Noticed the status ✓ blink to x momentarily
+N
+n
+o c
+Rantg out 485 AGAIN while manipeulating harnesses. FOUND THE
+f
+o O
+SHORT r n
+P l
+y
+u
+De-pinned terminal blocbk, found mangled wire making contact to
+l
+i
+c
+ground inside the terminal block
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 35 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+36
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 36 ---
+March 30, 2026
+8:54 AM
+37
+F
+NOTES
+o
+r
+R
+e
+f
+e
+r
+NOTE: The I/eO Channel number and/or name
+N
+n
+o c
+t may not be the samee as listed in the GFC 600 IM.
+f
+o O
+r n
+Nome nclature on the GMC Screen may not
+P l
+y
+u
+b
+match the diagram.
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+Ensure that the GMC 605 inputs are wuired as
+t
+i
+o
+shown in the Install Manual Addendum! n
+
+--- PAGE 37 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+38
+I/O > DISCRETES > IN
+F
+o
+r
+R
+AP Disconnect
+e
+f
+e
+r
+NFlaps, CWS, Stall Warneing, Landing Gear, Pilot/CoPilot etc.
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 38 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+39
+AP Disconnect Switch
+F
+o
+r
+R
+In 1: AP Disc Normally Closed
+e
+f
+e
+r
+P6051 Pin 17, Voltage e
+N
+n
+o c
+Y wthen relaxed, N when depresseed
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 39 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+40
+AP Disconnect Switch
+F
+o
+r
+R
+In 11: AP Disc Normally Open
+e
+f
+e
+r
+P6051 Pin 37, Ground e
+N
+n
+o c
+N wthen relaxed, Y when depresseed
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 40 ---
+GFC 600 Fails PFT March 30, 2026
+8:54 AM
+41
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 41 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+42
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 42 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+43
+Is the system Receiving
+F
+o
+r
+VALID AD C & AHRS?
+R
+e
+f
+e
+Internal: r
+e
+N
+n
+o c
+GMCt internal AHRS sensor e
+f
+o O
+r n
+External: (if presenPt) l
+y
+u
+b
+l
+HSDB, A429 i
+c
+D
+i
+Handshake: s
+t
+r
+i
+b
+Agreement between GMC u
+t
+i
+o
+cal data & sensors
+n
+
+--- PAGE 43 ---
+GFC 600 Configuration Pages March 30, 2026
+8:54 AM
+44
+CJ2 Cessna 525A TXi GFC600
+F
+o
+r
+GMC605R Color Only
+e
+f
+e
+2x HSDB Connections
+r
+e
+N
+n
+o(port 2 & 3)
+c
+t e
+f
+o O
+Does NOT usre internal AHRS
+n
+P l
+y
+u
+ADC/AHRS External 1 &b 2 via
+l
+i
+c
+ARINC 429 from GSU75 #1 & #2
+D
+i
+s
+t
+Specific Install Manual r
+i
+b
+u
+Addendum & Wiring Diagram t
+i
+o
+n
+
+--- PAGE 44 ---
+GFC 600 Configuration Pages March 30, 2026
+8:54 AM
+45
+Customer States:
+F
+o
+r
+TextronR 525A CJ2:
+e
+f
+e
+New Install GFC600 Does not
+r
+e
+N
+n
+opass or “Hangs” PFT
+c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+Troubleshooting:
+l
+i
+c
+D
+Wiring
+i
+s
+t
+r
+Hardware i
+b
+u
+t
+Software i
+o
+n
+Configuration
+
+--- PAGE 45 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+46
+Fault & Assert logs
+F
+o
+r
+showed loss of or
+R
+e
+f
+invalid AHRS failueres
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+GFC > AHRS > EXPT 1 & 2 l
+y
+u
+b
+Matching, Valid data l i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+Where does the GMC
+t
+i
+o
+n
+get this info?
+ARINC 429 Inputs
+
+--- PAGE 46 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+47
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+I/O > 429f > IN
+o O
+r n
+P l
+y
+CH1 AHRS1 (GSU75u #1) = X
+b
+l
+i
+c
+How are we getting valid
+D
+i
+s
+AHRS data with failed 429?
+t
+r
+i
+b
+Check your wiring! u
+t
+i
+o
+n
+
+--- PAGE 47 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+48
+Installer States: Swapped GSU 1 & 2
+F
+o
+r
+X stayedR on AHRS 1 = Conclusion: wiring
+e
+f
+e
+Swapped 429 wires art GMC
+e
+N
+n
+o c
+X mtoved to AHRS 2 = Conclusione: Correct, it’s wiring
+f
+o O
+r n
+Replaced wire froPm GSU1 to GMC l
+y
+u
+b
+l
+X on 429 AHRS 1 = Wait Whait?!
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 48 ---
+GFC 600 Configuration pages March 30, 2026
+8:54 AM
+49
+Asked for pictures of GMC & GSU connectors
+F
+o
+r
+Found pRins not listed in CJ2 Wiring Diagram
+e
+f
+e
+GSU75 has 2 AHRS out #3’s (P751 Pins 8/9 & 28/29)
+r
+e
+N
+n
+oThey’re internally jumped for thec duplicate output.
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+Dealer decided to run an extra 429 from GSU1 to the GTX345R.
+l
+i
+c
+D
+GTX was shorting out the 429, causing the loss of AHRS to the GMC.
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 49 ---
+Assert/Fault Logs: GFC 600 March 30, 2026
+8:54 AM
+50
+F
+o
+r
+R
+e
+f
+e
+r
+e
+NAssert Logs:
+n
+o c
+t e
+f
+o O
+r n
+Downloadable toP from Configuration Modle (SYS page)
+y
+u
+b
+l
+4G-8G Sandisk USB stick i
+c
+D
+Garmin USB-A to Micro USB-A dongle 3i2s0-00726-01
+t
+r
+i
+b
+u
+t
+i
+Establish a discussion with FSE before send Assert Logos!
+n
+
+--- PAGE 50 ---
+March 30, 2026
+8:54 AM
+51
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+Where are the required docluiments for GFC install located?
+c
+D
+i
+s
+t
+A. Equipment List r
+i
+b
+u
+t
+B. STC Approved Models List i
+o
+n
+C. Master Data List
+D. AML STC Installation Manual
+
+--- PAGE 51 ---
+March 30, 2026
+8:54 AM
+52
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+Where are the required docluiments for GFC install located?
+c
+D
+i
+s
+t
+A. Equipment List r
+i
+b
+u
+t
+B. STC Approved Models List i
+o
+n
+C. Master Data List
+D. AML STC Installation Manual
+
+--- PAGE 52 ---
+March 30, 2026
+8:54 AM
+53
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What is the difference between GMC 605 and GMC
+b
+l
+i
+c
+605C ?
+D
+i
+s
+t
+A. GMC 605 has LED’s on the left orf the bezel
+i
+b
+u
+t
+B. GMC 605C doesn’t have Mode Select Outlinies
+o
+n
+C. Software loading procedures
+D. The software part numbers
+
+--- PAGE 53 ---
+March 30, 2026
+8:54 AM
+54
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+What is the difference between GMC 605 and GMC
+b
+l
+i
+c
+605C ?
+D
+i
+s
+t
+A. GMC 605 has LED’s on the left orf the bezel
+i
+b
+u
+t
+B. GMC 605C doesn’t have Mode Select Outlinies
+o
+n
+C. Software loading procedures
+D. The software part numbers
+
+--- PAGE 54 ---
+March 30, 2026
+8:54 AM
+55
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+In which Garmin document do I find my Aircraft Specific
+b
+l
+i
+c
+Software for G FC 600?
+D
+i
+s
+t
+A. Equipment List r
+i
+b
+u
+t
+B. STC Approved Models List i
+o
+n
+C. Master Data List
+D. AML STC Installation Manual
+
+--- PAGE 55 ---
+March 30, 2026
+8:54 AM
+56
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+In which Garmin document do I find my Aircraft Specific
+b
+l
+i
+c
+Software for G FC 600?
+D
+i
+s
+t
+A. Equipment List r
+i
+b
+u
+t
+B. STC Approved Models List i
+o
+n
+C. Master Data List
+D. AML STC Installation Manual
+
+--- PAGE 56 ---
+March 30, 2026
+8:54 AM
+57
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+True or False: I attended the GFC 600 Training in the RED
+b
+l
+i
+c
+Roo m
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 57 ---
+Summary
+Monday, March 30, 2026
+F
+o
+r
+Quick Tip fo r searching thru
+R
+e
+f
+Garmin Documents oen the Dealer
+r
+e
+N
+Resource Center. n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+We walked thru several scenarios provided
+l
+i
+c
+D
+by Field Service where a quick double check of
+i
+s
+t
+the installation documentation would save ther
+i
+b
+u
+dealership and installer time and effort. t
+i
+o
+n
+
+--- PAGE 58 ---
+March 30, 2026
+8:54 AM
+59
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+Any Questions? i b
+u
+t
+i
+o
+n
+
+--- PAGE 59 ---
+Monday, March 30, 2026
+F
+o
+r
+R
+e
+Thank You!
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+Chris Hendrix D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+Senior Aviation Maintenance Instructor
+n
+Garmin Aviation Training
+Aviation.training@garmin.com

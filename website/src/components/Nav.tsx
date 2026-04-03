@@ -127,8 +127,14 @@ export default function Nav() {
               </div>
             </div>
 
+            <Link href="/training" className={`hover:text-amber-400 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400/50 rounded-md px-1 ${pathname.startsWith("/training") ? "text-amber-400" : ""}`}>
+              Training
+            </Link>
             <Link href="/guides" className={`hover:text-amber-400 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400/50 rounded-md px-1 ${pathname.startsWith("/guides") ? "text-amber-400" : ""}`}>
               Guides
+            </Link>
+            <Link href="/conventions" className={`hover:text-amber-400 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400/50 rounded-md px-1 ${pathname.startsWith("/conventions") ? "text-amber-400" : ""}`}>
+              Conventions
             </Link>
             <Link href="/search" className="hover:text-amber-400 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400/50 rounded-md p-1">
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -155,8 +161,14 @@ export default function Nav() {
             <Link href="/search" className="block py-2 hover:text-amber-400" onClick={() => setMenuOpen(false)}>
               Search
             </Link>
+            <Link href="/training" className="block py-2 hover:text-amber-400" onClick={() => setMenuOpen(false)}>
+              Training
+            </Link>
             <Link href="/guides" className="block py-2 hover:text-amber-400" onClick={() => setMenuOpen(false)}>
               Guides
+            </Link>
+            <Link href="/conventions" className="block py-2 hover:text-amber-400" onClick={() => setMenuOpen(false)}>
+              Conventions
             </Link>
 
             {/* Product Categories */}

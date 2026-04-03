@@ -1,0 +1,1617 @@
+--- PAGE 1 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+EFIS System Design
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+AEA 2026
+
+--- PAGE 2 ---
+March 30, 2026
+Legal Statement
+10:15 AM
+2
+F
+o
+r
+R
+e
+f
+e
+Garmin Aviation Traininrg is intended to provide the best practices for
+e
+N
+n
+o c
+the insttallation, use and maintenanece of Garmin Aviation products. It
+f
+o O
+r n
+is incumbent on te chnicians and pilots to ensure that the instructions
+P l
+y
+u
+b
+contained in the most recent versions of Garmin product manuals,
+l
+i
+c
+bulletins and notifications are followeDd.
+i
+s
+t
+r
+i
+b
+u
+© GARMIN LTD. OR ITS SUBSIDARIES. ALL RIGHTS RESERVED.
+t
+i
+o
+n
+
+--- PAGE 3 ---
+Desired Learning Outcome March 30, 2026
+10:15 AM
+3
+This course will focus on the various data bussing systems
+F
+o
+r
+Garmin u ses for integration of our Federated EFIS systems to
+R
+e
+f
+work like our Flighet Deck Systems.
+r
+e
+N
+n
+o c
+At the end of this lesson the learner should understand the data
+t e
+f
+o O
+bussing of ther Garmin EFIS systems annd the implications of
+P l
+y
+u
+decisions made b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 4 ---
+G3X and Can Bus March 30, 2026
+10:15 AM
+4
+The G3X system runs on can
+F
+o
+r
+bus
+R
+e
+f
+e
+The can bus must ber wired
+e
+N
+n
+o c
+properly to fully function
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 5 ---
+CAN Bus March 30, 2026
+10:15 AM
+5
+Controller Area Network
+F
+o
+r
+(Bosch)
+R
+e
+f
+e
+Primary digital interfrace used
+e
+N
+n
+o c
+to exchange data between
+t e
+f
+o O
+G3X, G5, and rGFC 500 n
+P l
+y
+u
+b
+Widely used in aviation, l
+i
+c
+D
+automotive, and industrial
+i
+s
+t
+r
+applications i
+b
+u
+t
+Simple wiring i o
+n
+Fast data stream
+High reliability
+
+--- PAGE 6 ---
+CAN Bus Wire Options & Requirements March 30, 2026
+10:15 AM
+6
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+120 O o hm CAN Bus wire c
+t e
+f
+o O
+r n
+Two suppliers:
+P l
+y
+u
+b
+Carlisle IT P/N CAN24TST12l0(CIT)
+i
+c
+D
+GigaFlight Connectivity P/N GF120-
+i
+s
+t
+r
+24CANB-1
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 7 ---
+CAN Bus LRU Arrangement March 30, 2026
+10:15 AM
+7
+Each LRU is daisy-chained into the bus
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 8 ---
+CAN Bus Structure March 30, 2026
+10:15 AM
+8
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 9 ---
+CAN Bus Structure March 30, 2026
+10:15 AM
+9
+Bus string needs to be linear
+F
+o
+r
+R
+Criss-crossing and back-tracking can cause signal interference
+e
+f
+e
+and reflections in ther data path.
+e
+N
+n
+o c
+t e
+T or Y s hape splices will cause data packets to collide or be
+f
+o O
+r n
+isolated, and incrPease error rates. l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 10 ---
+LRU Layout March 30, 2026
+10:15 AM
+10
+How should you arrange
+F
+o
+r
+LRUs on the bus?
+R
+e
+f
+e
+GMU placement varies
+r
+e T GAD 29
+N
+n
+ofrom airframe to airframe
+c
+t e T
+due to
+f
+diofferences in O G5
+r n
+equipment, wirin P g, l yGSA 28 (Roll)
+u
+b
+airframe construction l
+i
+GMcU 11
+D
+Which LRUs should we i
+s
+t
+r
+i
+use to terminate the b
+GSA 28 (Pitch)
+u
+t
+i
+bus? o
+n
+GSA 28 (Trim)
+Terminate at the
+instrument panel??
+
+--- PAGE 11 ---
+LRU Layout March 30, 2026
+10:15 AM
+11
+LRUs furthest out should
+F
+o
+r
+be the te rmination:
+R
+e
+f
+e
+GMU 11
+r
+e GAD 29
+N
+n
+oGSA 28 c
+t e
+G5
+f
+o O
+Cuts length orf bus down n
+P T l
+yGSA 28 (Roll)
+u
+b
+Simplifies route for the l
+i
+GMcU 11
+D
+data and eliminates
+i
+s
+t
+r
+potential interference i
+b
+GSA 28 (Pitch)
+u
+t
+sources i
+o
+n
+T GSA 28 (Trim)
+
+--- PAGE 12 ---
+GMU 11 March 30, 2026
+10:15 AM
+12
+Where to put GMU 11?
+F
+o
+r
+Right wiRng isolates it from roll
+e
+f
+servo and landinge light
+r
+e
+N
+n
+How o well do you think this CAcN
+t e
+f
+o O
+bus run will worrk?
+n
+P l
+y
+u
+b
+Problems with this layout:
+l
+i
+c
+D
+Long Length
+i
+s
+t
+r
+Backbone doubles back on i
+b
+u
+itself t
+i
+o
+n
+Both can cause network errors
+
+--- PAGE 13 ---
+GMU 11 March 30, 2026
+10:15 AM
+13
+Solution: Move the GMU to the
+F
+o
+r
+Left Wing
+R
+e
+f
+e
+Terminate bus at GMU and
+r
+e
+N
+n
+oPitch Servo
+c
+t e
+f
+Cuts the olength nearly in half O
+r n
+P l
+y
+Reduces/eliminatesu double
+b
+l
+runs of CAN bus backbone i c
+D
+i
+s
+What about GMU interference?
+t
+r
+i
+b
+u
+Roll servo
+t
+i
+o
+n
+Landing light
+Appendix F: Magnetic
+Interference Survey GMU 11
+
+--- PAGE 14 ---
+CAN Bus Termination Methods March 30, 2026
+10:15 AM
+14
+F
+o
+r
+Internal C AN Termination
+R
+e
+f
+Resistor e
+r
+e
+N
+n
+oInternal resistor in LRU
+c
+t e
+f
+o O
+Install jumper to connect CAN
+r n
+P l
+y
+TERM pins u
+b
+l
+i
+GSA c
+D
+OR- connect CAN LO to i
+s
+t
+r
+designated TERM pin i
+b
+u
+t
+Follow the CAN bus interconnect i o
+n
+drawing
+
+--- PAGE 15 ---
+CAN Bus Node Addition March 30, 2026
+10:15 AM
+15
+Forget an LRU? Adding another
+F
+one?o
+r
+R
+e
+If you need to splice in additional
+f
+e
+r
+e
+lNength:
+n
+o c
+t e
+Leave asf little unshielded wire as
+o O
+r n
+possible P l
+y
+u
+b
+ALWAYS connect the shieldsl!
+i
+c
+D
+Only use a connector if you need i
+s
+t
+r
+to. Crimp splice required. i
+b
+u
+t
+Connectors introduce a risk of i
+o
+n
+signal loss due to corrosion, etc.
+
+--- PAGE 16 ---
+March 30, 2026
+10:15 AM
+16
+The TXi uses High Speed data
+F
+o
+r
+bus
+R
+e
+f
+e
+It is a high bandwidthr network
+e
+N
+n
+o c
+t e
+This m akes it incredibly robust
+f
+o O
+r n
+but decisions shoPuld be made l
+y
+u
+b
+with an emphasis on data l
+i
+c
+D
+priority
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 17 ---
+HSDB in summary March 30, 2026
+10:15 AM
+17
+HSDB provides the following key features:
+F
+o
+1. Point-tro-Point Communication:
+R
+Exploits the Etherenet hardware while eliminating the weaknesses associated with the Ethernet
+protocol. HSDB has onfly one transmitter coupled with only one receiver on each pair of wires. This
+e
+avoids various concerns relaterd to data collisions and an inadvertent constant transmitter.
+e
+N
+n
+2. Coyclic Redundancy Check (CRC): c
+t e
+Used on dfata packets to ensure data integrity. CRC i s used at both the IEEE 802.3 layer and the
+o O
+Garmin HSDB layerr. n
+P l
+y
+3. Guaranteed Delivery: u
+b
+Guaranteed delivery of asynchronous placikets is ensured through an acknowledge protocol with
+c
+multiple retries.
+D
+i
+4. Data Age Monitoring: s
+t
+r
+HSDB packets age is continuously monitored to ensure that old packeits are flagged.
+b
+u
+5. Routing Optimization: t
+i
+o
+HSDB contains routing information the receiving subsystem will utilize to identify whether thne data
+needs to be passed along to another subsystem. Routing path is optimized for system architecture.
+6. Health Monitoring:
+The HSDB protocol entails continually monitoring the health of communication between all
+subsystems connected together. Communication failures are reported
+
+--- PAGE 18 ---
+HSDB Wiring March 30, 2026
+10:15 AM
+18
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+Alumintum + Mylar foil, 100 ohms
+e
+f
+o O
+nominal impedance
+r n
+P l
+y
+u
+Simple 4-conductor shieldedb cable
+l
+i
+c
+Point-to-point full-duplex D
+i
+s
+communication t
+r
+i
+b
+u
+Self-configuring ports
+t
+i
+o
+n
+
+--- PAGE 19 ---
+HOW Do I get DATA From GDU To GSD? March 30, 2026
+10:15 AM
+20
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 20 ---
+HOW Do I get DATA From GDU To GSD? March 30, 2026
+10:15 AM
+21
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 21 ---
+HOW Do I get DATA From GDU To GSD? March 30, 2026
+10:15 AM
+22
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 22 ---
+HOW Do I get DATA From GDU To GSD? March 30, 2026
+10:15 AM
+23
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 23 ---
+HOW Do I get DATA From GDU To GSD? March 30, 2026
+10:15 AM
+24
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 24 ---
+Example March 30, 2026
+10:15 AM
+25
+1
+1
+F
+o 2 1
+2 2
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+3
+b
+l
+i
+c
+3 4 D
+i 3 s 1
+t
+r
+i
+b
+u
+t
+i
+o
+n
+2
+1
+
+--- PAGE 25 ---
+TXi and HSDB March 30, 2026
+10:15 AM
+26
+There is a priority on how we
+F
+o
+r
+connect a TXi system
+R
+e
+f
+e together
+r
+e
+N
+n
+o c
+Generally a unit with 4 ports is
+t e
+f
+o O
+r a greant “hub” device and can
+P l
+y
+u
+b pass data well
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 26 ---
+TXi and HSDB March 30, 2026
+10:15 AM
+27
+There is a priority on how we
+F
+o
+r
+connect a TXi system
+R
+e
+f
+e together
+r
+e
+N
+n
+o c
+In our Example you will notice
+t e
+f
+o O
+r the prniority
+P l
+y
+u
+b
+l Displays direct connected
+i
+c
+D
+i
+GI dsirect to PFD 1
+t
+r
+i
+b
+GTN direct to duisplay
+t
+i
+o
+n
+GMC 605 to PFD1
+
+--- PAGE 27 ---
+Example March 30, 2026
+10:15 AM
+28
+Should I connect the GDL 60
+F
+o
+r
+to the GTNXi?
+R
+e
+f
+e
+r
+N 1 e 1
+n
+o 2 1 2 2 c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+3 l
+i
+c
+3 4 D
+3 1
+i
+s
+t
+r
+i
+b
+u
+1 2 t
+i
+o
+n
+
+--- PAGE 28 ---
+Example March 30, 2026
+10:15 AM
+29
+Should I connect the GDL 60
+F
+o
+r
+to the GTNXi?
+R
+e
+f
+e
+r Ask is it necessary for flight
+N 1 e 1
+n
+o 2 1 2 2 c to require the redundancy?
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+3 l
+i
+c
+3 4 D
+3 1
+i
+s
+t
+r
+i
+b
+u
+1 2 t
+i
+o
+n
+
+--- PAGE 29 ---
+Example March 30, 2026
+10:15 AM
+30
+Should I connect the GDL 60
+F
+o
+r
+to the GTNXi?
+R
+e
+f
+e
+r Ask is it necessary for flight
+N 1 e 1
+n
+o 2 1 2 2 c to require the redundancy?
+t e
+f
+o O
+r n
+P The answler is no.
+y
+u
+b
+3 l i Hooking up the second HSDB
+c
+3 4 D
+3 1 port is known to cause issues
+i
+s
+t
+for the rGDL 60
+i
+b
+u
+1 2 It can have ill effetcts on Flight
+i
+o
+n
+log upload
+
+--- PAGE 30 ---
+HSDB March 30, 2026
+10:15 AM
+31
+To make sure you are making
+F
+o
+r
+the proper decisions look at
+R
+e
+f
+e section 3 HSDB architecture
+r
+N 1 e 1
+n
+for requirements
+o 2 1 2 2 c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+3 l
+i
+c
+3 4 D
+3 1
+i
+s
+t
+r
+i
+b
+u
+1 2 t
+i
+o
+n
+
+--- PAGE 31 ---
+In Closing March 30, 2026
+10:15 AM
+32
+We must plan out datapaths correctly and understand the
+F
+o
+r
+limitatio ns and information being passed to make the best
+R
+e
+f
+decisions e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+i
+o
+n
+
+--- PAGE 32 ---
+March 30, 2026
+10:15 AM
+33
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+How many ports generally indicates an LRU passes data
+b
+l
+i
+c
+wel l?
+D
+i
+s
+t
+A. 1 r
+i
+b
+u
+t
+B. 2 i
+o
+n
+C. 3
+D. 4
+
+--- PAGE 33 ---
+March 30, 2026
+10:15 AM
+34
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+How many ports generally indicates an LRU passes data
+b
+l
+i
+c
+wel l?
+D
+i
+s
+t
+A. 1 r
+i
+b
+u
+t
+B. 2 i
+o
+n
+C. 3
+D. 4
+
+--- PAGE 34 ---
+March 30, 2026
+10:15 AM
+35
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+What type of splices lshiould I use for CAN BUS
+c
+D
+i
+s
+t
+A. Solder r
+i
+b
+u
+t
+B. Connectors i
+o
+n
+C. Environmental Crimp Splice
+D. It doesn’t matter
+
+--- PAGE 35 ---
+March 30, 2026
+10:15 AM
+36
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+What type of splices lshiould I use for CAN BUS
+c
+D
+i
+s
+t
+A. Solder r
+i
+b
+u
+t
+B. Connectors i
+o
+n
+C. Environmental Crimp Splice
+D. It doesn’t matter
+
+--- PAGE 36 ---
+March 30, 2026
+10:15 AM
+37
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+I attended the EFIS Desligin class in the Blue room.
+c
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 37 ---
+March 30, 2026
+10:15 AM
+38
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+b
+I attended the EFIS Desligin class in the Blue room.
+c
+D
+i
+s
+t
+r
+A. True i
+b
+u
+t
+i
+B. False o
+n
+
+--- PAGE 38 ---
+F
+o
+r
+R
+e
+f
+e
+r
+e
+N
+n
+o c
+t e
+f
+o O
+r n
+P l
+y
+u
+Thank You!
+b
+l
+i
+c
+D
+i
+s
+t
+r
+i
+b
+u
+t
+Nicolas Wright i
+o
+n
+Lead Aviation Maintenance Instructor
+Aviation.Training@Garmin.com
